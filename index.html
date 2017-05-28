@@ -1,0 +1,83 @@
+---
+layout: default
+section_id: home
+works:
+  - image: images/@stock/msn-work-1.jpg
+    class: graphic-design
+    title: Testando 1, 2, 3
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-2.jpg
+    class: web-design print
+    title: Look at me
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-3.jpg
+    class: brand wide
+    title: Am I cute
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-4.jpg
+    class: development
+    title: Umbrella
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-5.jpg
+    class: print brand
+    title: Canned Bros
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-8.jpg
+    class: web-design
+    title: Hale
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-6.jpg
+    class: web-design wide
+    title: A beautiful day
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-7.jpg
+    class: graphic-design
+    title: Flower Book
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-9.jpg
+    class: web-design wide
+    title: web-design wide
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-10.jpg
+    class: graphic-design
+    title: Flower Book
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-11.jpg
+    class: graphic-design
+    title: Flower Book
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-12.jpg
+    class: graphic-design
+    title: Flower Book
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-13.jpg
+    class: graphic-design
+    title: Flower Book
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-14.jpg
+    class: graphic-design
+    title: Flower Book
+    desc: "Design &amp; Development"
+  - image: images/@stock/msn-work-15.jpg
+    class: graphic-design
+    title: Flower Book
+    desc: "Design &amp; Development"
+---
+
+<div class='mod modMasonryGallery'>
+  <ul class='gallery'>
+    {% for work in page.works %}
+      <li class='{{work.class}}'>
+        <a href='portfolio-item.html'>
+          <img alt="" src="{{work.image}}" />
+          <div class='overlay'>
+            <div class='thumb-info'>
+              <h3>{{work.title}}</h3>
+              <p>{{work.desc}}</p>
+            </div>
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
