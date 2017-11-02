@@ -10,6 +10,124 @@ Startup Template By Bootstrapious.com
 /*
 
 =====================
+ELEPHANT IMPORT
+=====================
+
+*/
+#blog-listing-medium .post {
+  margin-bottom: 60px;
+}
+#blog-listing-medium .post h2 {
+  text-transform: uppercase;
+  margin: 0 0 10px;
+  font-size: 24px;
+  letter-spacing: 0.08em;
+}
+#blog-listing-medium .post h2 a {
+  color: #555555;
+}
+#blog-listing-medium .post h2 a:hover {
+  color: #e01557;
+}
+#blog-listing-medium .post .author-category {
+  float: left;
+  color: #999999;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+}
+#blog-listing-medium .post .author-category a {
+  font-weight: 500;
+}
+#blog-listing-medium .post .date-comments {
+  float: right;
+  font-size: 12px;
+}
+#blog-listing-medium .post .date-comments a {
+  color: #999999;
+  margin-right: 20px;
+}
+#blog-listing-medium .post .date-comments a:hover {
+  color: #e01557;
+}
+@media (min-width: 768px) {
+  #blog-listing-medium .post .date-comments {
+    text-align: right;
+  }
+}
+#blog-listing-medium .post .intro {
+  text-align: left;
+}
+#blog-listing-medium .post .clearfix:before,
+#blog-listing-medium .post .clearfix:after,
+#blog-listing-medium .post .navbar:before,
+#blog-listing-medium .post .navbar:after,
+#blog-listing-medium .post .navbar-header:before,
+#blog-listing-medium .post .navbar-header:after {
+  content: " ";
+  display: table;
+}
+#blog-listing-medium .post .clearfix:after,
+#blog-listing-medium .post .navbar:after,
+#blog-listing-medium .post .navbar-header:after {
+  clear: both;
+}
+#blog-listing-medium .post .clearfix:before,
+#blog-listing-medium .post .clearfix:after,
+#blog-listing-medium .post .navbar:before,
+#blog-listing-medium .post .navbar:after,
+#blog-listing-medium .post .navbar-header:before,
+#blog-listing-medium .post .navbar-header:after {
+  content: " ";
+  display: table;
+}
+#blog-listing-medium .post .clearfix:after,
+#blog-listing-medium .post .navbar:after,
+#blog-listing-medium .post .navbar-header:after {
+  clear: both;
+}
+#blog-listing-medium .post .image {
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+#blog-listing-medium .post .image img {
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+@media (max-width: 767px) {
+  #blog-listing-medium .post .image img.img-responsive {
+    min-width: 100%;
+  }
+}
+#blog-listing-medium .post .video {
+  margin-bottom: 10px;
+}
+#blog-listing-medium .post .read-more {
+  text-align: right;
+}
+
+
+ /*
+=====================
+FIXED POSITION - ADDED BY PARKER
+=====================
+
+*/
+
+@media (min-width:768px) {
+  .col-sb-fixedpos {
+    position: fixed;
+  }
+  .col-main-fixedpos {
+    float: right;
+  }
+}
+
+/*
+
+=====================
 GENERAL
 =====================
 
@@ -24,8 +142,7 @@ header {
 }
 section {
   position: relative;
-  padding-top: 90px;
-  padding-bottom: 90px;
+
 }
 section.background-gray-lighter {
   background: #cdcdcd;
@@ -324,13 +441,6 @@ SIDEBAR + RIGHT COLUMN
 */
 #sidebar {
   padding-top: 40px;
-}
-/*modified sidebar to follow scroll */
-.sidebar-content {
-    position: fixed;
-    width: inherit;
-    z-index: 0;
-    padding: 0 1em 0 0.2em;
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
@@ -888,6 +998,7 @@ a:active {
   font-size: 14px;
 }
 .box-masonry .box-masonry-hover-text-header {
+  pointer-events: none;
   position: absolute;
   left: 0;
   right: 0;
@@ -2086,7 +2197,7 @@ address {
 }
 .panel {
   margin-bottom: 24px;
-  background-color: #ffffff;
+  background-color: #f4f4f4;
   border: 1px solid transparent;
   border-radius: 0;
   -webkit-box-shadow: 0 0 0;
@@ -2097,7 +2208,7 @@ address {
 }
 .panel-default > .panel-heading {
   color: #333333;
-  background-color: #ffffff;
+  background-color: #f4f4f4;
   border-color: #666666;
 }
 .panel-default > .panel-heading + .panel-collapse .panel-body {
@@ -2140,4 +2251,10 @@ a.list-group-item.active > .badge,
 }
 .nav-pills > li > a > .badge {
   margin-left: 3px;
+}
+
+@media (min-width: 1200px){
+  .col-lg-8 {
+      width: 80%;
+  }
 }
