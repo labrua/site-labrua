@@ -1,17 +1,15 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "Sobre o LabRua"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+O Laboratório de Rua é uma associação civil sem fins lucrativos, com fins educacionais e de pesquisa técnico científica, e sediada na cidade de Campina Grande-PB. O LabRua tem como objetivo desenvolver estudos voltados ao espaço público, mobilidade de pessoas por qualquer meio de transporte, promoção da cultura, defesa e conservação do patrimônio histórico, artístico e cultural, entre outras finalidades.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Participam do LabRua arquitetos, estudantes de arquitetura e urbanismo, história, psicologia, design e computação, contribuindo com uma visão colaborativa e multidisciplinar nos estudos. Atualmente, os projetos desenvolvidos estão focados em diversos espaços públicos da cidade de Campina Grande, como o núcleo central, o Açude Velho e o Parque do Povo, como também em espaços públicos do centro da cidade de Esperança. Outros projetos tem como foco o estudo da mobilidade por bicicleta, a reocupação e
+o comportamento humano nos espaços públicos, sempre com o objetivo de pensar, refletir, discutir e buscar uma cidade para pessoas.
 
-![This is me][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-#### Education
+#### Como trabalhar no LabRua
 
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.

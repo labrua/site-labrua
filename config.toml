@@ -15,8 +15,8 @@ googleAnalytics = ""
   description = "Site do Laboratório de Rua"
   copyright = "&copy;2017 LabRua"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "O Laboratório de Rua é um lugar de pesquisas colaborativas sobre os espaços públicos.",
+    "Estamos em Campina Grande e em João Pessoa, na Paraíba."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
