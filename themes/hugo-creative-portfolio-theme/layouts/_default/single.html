@@ -2,13 +2,43 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
-    <div class="col-lg-8">
-      <div class="content-column-content">
-         <h1>{{ .Title }}</h1>
-         {{ .Content }}
-         {{ template "_internal/disqus.html" . }}
+    <div class="col-sm-4">
+      <div class="image">
+        {{if eq .Section "equipe"}}
+          <img src="../{{ .Params.image }}" class="img-responsive" alt="">
+        {{end}}
+        <img src="{{ .Site.BaseURL}}{{ .Params.image }}" class="img-responsive" alt="">
+      </div>
+    </div>
+
+    <div class="col-md-6">
+        <h2>{{ .Title }}</h2>
+
+        {{if eq .Section "blog"}}
+          <p class="date-comments">
+            <i class="fa fa-calendar-o"></i> {{ .Date.Format "January 2, 2006" }}
+          </p>
+        {{end}}
+
+        <p class="author-category">{{ .Summary }}</p>
+    </div>
+  </div>
+  </br>
+
+  <div class="row">
+    <div class="content-column-content">
+      <div class="col-lg-8">
+        {{ $body := replace .Content .Summary "" }}
+        {{ $body | safeHTML }}
+
       </div>
     </div>
   </div>
+
+  <a href="#" class="back-to-top">
+    <i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i>
+  </a>
+
+ {{ template "_internal/disqus.html" . }}
 </div>
 {{ end }}

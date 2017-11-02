@@ -7,20 +7,8 @@
       <div class="content-column-content" id="blog-listing-medium">
          <h1>{{ .Title }}</h1>
 
-         {{if eq .Title "Pesquisas"}}
-         <p class="author-category"> Texto de introdução às pesquisas.</p>
-         {{end}}
-
-
-         {{if eq .Title "Blog"}}
-         <p class="author-category"> I've been lucky enough to have found some amazing R blogs to help me through my programming difficulties. I hope that I can pay it forward and help other R learners as well. </p>
-         {{end}}
-
-        {{if eq .Title "Work"}}
-         <p class="author-category"> These are some of the projects that I've contributed to since I started working at <a href="www.pudding.cool">The Pudding</a>. Links to the work, my contributions, and screenshots are all included. </p>
-         {{end}}
-
-
+         <p class="author-category">{{.Content}}</p>
+         
           {{ $paginator := .Paginate .Data.Pages }}
           {{ range $paginator.Pages.ByDate.Reverse }}
           <section class="post">

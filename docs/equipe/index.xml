@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equipe on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/equipe/</link>
+    <description>Recent content in Equipe on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy;2017 LabRua</copyright>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/equipe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fulano</title>
+      <link>https://labrua.github.io/site-labrua/equipe/pessoa1/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/equipe/pessoa1/</guid>
+      <description>&lt;p&gt;É uma pessoa pouco disposta.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sicrano</title>
+      <link>https://labrua.github.io/site-labrua/equipe/pessoa2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/equipe/pessoa2/</guid>
+      <description>&lt;p&gt;O cara!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Beltrano da Silva</title>
+      <link>https://labrua.github.io/site-labrua/equipe/pessoa3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/equipe/pessoa3/</guid>
+      <description>&lt;p&gt;Pessoa legal.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
