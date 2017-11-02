@@ -1,4 +1,5 @@
-baseurl = "https://example.org/"
+publishDir = "docs"
+baseurl = "https://labrua.github.io/site-labrua/"
 title = "LabRua"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "pt-br"
