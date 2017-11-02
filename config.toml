@@ -8,10 +8,12 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+relativeurls = true
+
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "violet"
+  style = "default"
   description = "Site do Laboratório de Rua"
   copyright = "&copy;2017 LabRua"
   sidebarAbout = [
@@ -40,6 +42,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Pesquisas"
   url = "pesquisas/"
+
+  [[params.navlinks]]
+  name = "Equipe"
+  url = "equipe/"
 
   [[params.navlinks]]
   name = "Contato"
