@@ -3,12 +3,6 @@ date = "2016-11-06T13:00:25+05:30"
 title = "Entre em contato"
 +++
 
-Com a espada de Ogum
-E a benção de Olorum
-Como num raio de Iansã
-Rasgamos a manhã vermelha
+A sede principal do LabRua está localizada no bairro de São José, próximo ao centro da cidade de Campina Grande. Em uma edificação típica do início do século passado, o LabRua traz uma boa relação com a rua que está inserida, favorecendo os *olhos da rua*. Isso se dá pelo seu uso misto (serviço e residencial) e fachada sem recuos. Próximo ao terminal de integração, é fácil chegar no laboratório de ônibus, bicicleta e a pé.
 
-Tudo ainda é tal e qual
-E no entanto nada é igual
-Nós cantamos de verdade
-E é sempre outra cidade velha
+Na cidade de João Pessoa, o LabRua funciona no Centro Cultural IAB.pb, casa situada no sítio histórico da capital.
