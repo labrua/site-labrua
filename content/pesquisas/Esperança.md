@@ -1,21 +1,30 @@
 +++
-showonlyimage = true
+date = "2017-04-05"
+title = "Centro de Esperança-PB"
 draft = false
-image = "img/pesquisas/Maciel anos 80.JPG"
-date = "2017-11-02"
-title = "Núcleo Central de Campina Grande"
-weight = 0
+image = "img/portfolio/business-card-26.jpg"
+showonlyimage = false
+weight = 1
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+Esperança, município localizado a 30km de Campina Grande, tem uma população de 30.000 habitantes e sofre com a priorização do transporte público motorizado. Apesar do uso intenso da caminhada para se deslocar, principalmente pelas mulheres, se percebe pouca atenção ao desenho urbano que favoreça a permanência de pessoas no espaço público.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+Apesar das discussões urbanas estarem em sua maioria focadas em cidades médias e grande, não se pode esquecer do papel das cidades pequenas. Algumas pessoas que colaboram no LabRua estudam e trabalham em Campina Grande mas moram em cidades pequenas. Cidades essas que muitas vezes são apenas dormitório para uma parcela da população e a discussão sobre a qualidade de vida urbana não pode deixar de lado essas cidades.
+
+
+
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+* Levantamento geométrico da área
+* Contagem de meios de transporte em cruzamentos importantes da cidade
+* Entrevistas com usuários da área
+* Levantamento dos mobiliários urbanos
+* Montagem das fachadas urbanas
+* Análise das fachadas usando a metodologia de Gehl
+
 
 > The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
 

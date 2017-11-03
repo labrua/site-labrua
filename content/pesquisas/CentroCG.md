@@ -1,13 +1,13 @@
 +++
-date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
-draft = false
-image = "img/portfolio/business-card-26.jpg"
 showonlyimage = false
-weight = 1
+draft = false
+image = "img/pesquisas/Maciel anos 80.JPG"
+date = "2015-05-02"
+title = "Núcleo Central de Campina Grande"
+weight = 0
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
