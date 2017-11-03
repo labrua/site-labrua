@@ -28,9 +28,7 @@
   <div class="row">
     <div class="content-column-content">
       <div class="col-lg-8">
-        {{ $body := replace .Content .Summary "" }}
-        {{ $body }}
-
+        {{ replace .Content .Summary "" | safeHTML }}
       </div>
     </div>
   </div>
