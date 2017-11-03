@@ -11,11 +11,6 @@
 }
 
 
-
-
-
-
-
  .back-to-top {
    position: fixed;
     bottom: 20px;
@@ -34,8 +29,8 @@
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
  }
- 
-  
+
+
  .back-to-top i {
    font-size: 60px;
  }
@@ -186,9 +181,13 @@
 
  /* FOR ADDING VERTICAL SCROLL BAR TO LONG TEXT BOXES */
 
- 
+
  pre code, pre, code {
   white-space: pre !important;
   overflow-y: scroll !important;
   max-height: 75vh !important;
  }
+
+.content-column-content img {
+    max-width: 90%;
+}

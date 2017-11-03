@@ -29,7 +29,7 @@
     <div class="content-column-content">
       <div class="col-lg-8">
         {{ $body := replace .Content .Summary "" }}
-        {{ $body | safeHTML }}
+        {{ $body }}
 
       </div>
     </div>
