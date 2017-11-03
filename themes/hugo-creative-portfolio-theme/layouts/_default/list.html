@@ -8,7 +8,7 @@
          <h1>{{ .Title }}</h1>
 
          <p class="author-category">{{.Content}}</p>
-         
+
           {{ $paginator := .Paginate .Data.Pages }}
           {{ range $paginator.Pages.ByDate.Reverse }}
           <section class="post">
@@ -39,7 +39,7 @@
 
                           </p>
                           <p class="date-comments">
-                              <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format "January 2, 2006" }}</a>
+                              <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format "2006-01-02" }}</a>
                           </p>
                       </div>
                       <p class="intro">
@@ -51,7 +51,7 @@
 
 
 
-                      <p class="read-more"><a id="amber-btn" href="{{ .Permalink }}" class="btn btn-template-main">Continue reading</a>
+                      <p class="read-more"><a id="amber-btn" href="{{ .Permalink }}" class="btn btn-template-main">Ler mais</a>
                       </p>
                   </div>
               </div>

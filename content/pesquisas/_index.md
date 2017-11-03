@@ -1,5 +1,5 @@
 ---
-title: Equipe
+title: Pesquisas
 date: 2017-11-02
 ---
 

@@ -10,4 +10,8 @@ weight = 4
 O cara!
 <!--more-->
 
-Mas não sabe quem é.
+Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.
+
+Todo mundo é capaz de sentir os sofrimentos de um amigo. Ver com agrado os seus êxitos exige uma natureza muito delicada.
+
+Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante.

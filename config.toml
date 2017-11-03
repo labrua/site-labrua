@@ -36,11 +36,15 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Sobre"
-  url = "about/"
+  url = "sobre/"
 
   [[params.navlinks]]
   name = "Pesquisas"
   url = "pesquisas/"
+
+  [[params.navlinks]]
+  name = "Notícias"
+  url = "blog/"
 
   [[params.navlinks]]
   name = "Equipe"
@@ -48,7 +52,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Contato"
-  url = "contact/"
+  url = "contato/"
 
   [params.social]
   facebook      = "https://facebook.com/LabRua/"
