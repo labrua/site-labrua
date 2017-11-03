@@ -4,7 +4,7 @@ image = "img/foto aida.png"
 date = "2016-11-05T19:56:17+05:30"
 title = "Aída Pontes"
 showonlyimage = false
-weight = 6
+weight = 100
 +++
 
 Foi quem inventou tudo isso e fez todo mundo se encontrar.
