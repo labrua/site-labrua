@@ -13,6 +13,8 @@ Esperança, município localizado a 40km de Campina Grande, tem uma população 
 
 As discussões urbanas estão em sua maioria focadas nas cidades médias e grandes, mas não se pode esquecer do papel das cidades pequenas. Algumas pessoas que colaboram no LabRua estudam e trabalham em Campina Grande mas moram em cidades do seu entorno, cidades essas que muitas vezes são apenas dormitório para uma parcela da população. A discussão sobre a qualidade de vida urbana não pode deixá-las de lado.
 
+Esta pesquisa apresenta uma análise do centro de Esperança feita através de levantamentos em campo sobre o uso do espaço além de entrevistas feitas com os usuários da área. O objetivo é investigar o uso e a percepção dos usuários sobre os espaços públicos.
+
 
 #### Análises produzidas nessa pesquisa
 * Levantamento geométrico da área
@@ -22,7 +24,7 @@ As discussões urbanas estão em sua maioria focadas nas cidades médias e grand
 * Montagem das fachadas urbanas
 * Análise das fachadas usando a metodologia de Gehl
 
-
+#### Alguns resultados
 > A área de estudo é tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
 > Hillary Pereira:
 > Robson Porto:
