@@ -25,10 +25,10 @@ Esta pesquisa apresenta uma análise do núcleo central de Campina Grande feita 
 #### Alguns resultados
 > Dois artigos e dois trabalhos de conclusão de curso. Os artigos foram apresentados no  1o Congresso Internacional Espaços Públicos, realizado em outubro de 2015 na PUCRS em Porto Alegre.
 
-> Comportamento de pedestres, configuração das fachadas e mobiliário urbano na Rua Maciel Pinheiro, Campina Grande, Paraíba.
+> [Comportamento de pedestres, configuração das fachadas e mobiliário urbano na Rua Maciel Pinheiro, Campina Grande, Paraíba.](../../pdf/Artigo_comportamento maciel pinheiro.pdf)
 
-> O centro de Campina Grande na percepção dos seus usuário: O caso da Rua Maciel Pinheiro.
+> [O centro de Campina Grande na percepção dos seus usuário: O caso da Rua Maciel Pinheiro.](../../pdf/Artigo_percepção maciel pinheiro.pdf)
 
 > Beatriz Brito: Projeto de redesenho das ruas do núcleo central de Campina Grande-PB.
 
-> Marihana Cirne: Redefinição do uso e ocupação do solo e redesenho do espaço público da rua Maciel Pinheiro em Campina Grande.
+> [Marihana Cirne: Redefinição do uso e ocupação do solo e redesenho do espaço público da rua Maciel Pinheiro em Campina Grande.](../../pdf/TCC Marihana Cirne.pdf)
