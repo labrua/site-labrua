@@ -16,4 +16,5 @@ Mãe de Macalé, Brise, Elke e Presidenta do Lab. Divide seus horários dando au
 * Urbanista e Arquiteta
 * Mestre em Engenharia Urbana
 * Doutoranda em Planejamento Urbano
-* Professora de Urbanismo e Planejamento Urbano
+* Professora de Urbanismo e Planejamento Urbano na UNIFACISA
+* Conselheira Superior do IAB.pb
