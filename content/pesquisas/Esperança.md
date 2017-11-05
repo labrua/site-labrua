@@ -11,7 +11,7 @@ Esperança, município localizado a 40km de Campina Grande, tem uma população 
 
 <!--more-->
 
-Mesmo que as discussões urbanas estão em sua maioria focadas em cidades médias e grandes, não se pode esquecer do papel das cidades pequenas. Algumas pessoas que colaboram no LabRua estudam e trabalham em Campina Grande mas moram em cidades do seu entorno, cidades essas que muitas vezes são apenas dormitório para uma parcela da população. A discussão sobre a qualidade de vida urbana não pode deixá-las de lado.
+As discussões urbanas estão em sua maioria focadas nas cidades médias e grandes, mas não se pode esquecer do papel das cidades pequenas. Algumas pessoas que colaboram no LabRua estudam e trabalham em Campina Grande mas moram em cidades do seu entorno, cidades essas que muitas vezes são apenas dormitório para uma parcela da população. A discussão sobre a qualidade de vida urbana não pode deixá-las de lado.
 
 
 #### Análises produzidas nessa pesquisa
@@ -24,7 +24,5 @@ Mesmo que as discussões urbanas estão em sua maioria focadas em cidades média
 
 
 > A área de estudo é tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
-
 > Hillary Pereira:
-
 > Robson Porto:
