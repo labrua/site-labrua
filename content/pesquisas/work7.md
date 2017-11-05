@@ -3,7 +3,7 @@ image = "img/portfolio/label-clothes.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Name of the work 7"
-draft = false
+draft = true
 weight = 7
 +++
 
@@ -28,4 +28,4 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
