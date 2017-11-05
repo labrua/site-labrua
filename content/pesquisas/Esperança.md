@@ -24,5 +24,7 @@ Mesmo que as discussões urbanas estão em sua maioria focadas em cidades média
 
 
 > A área de estudo é tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
+
 Hillary Pereira:
-Robson Porto: 
+
+Robson Porto:
