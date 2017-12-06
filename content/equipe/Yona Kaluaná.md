@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/Fotos para Site/Yona.jpeg"
+image = "img/Fotos para Site/Yona.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Yona Kaluaná"
 showonlyimage = false
