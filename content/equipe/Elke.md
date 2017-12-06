@@ -7,7 +7,6 @@ showonlyimage = false
 weight = 100
 +++
 
-
 <!--more-->
 A maravilha!
 

@@ -7,7 +7,6 @@ showonlyimage = false
 weight = 80
 +++
 
-
 <!--more-->
 O príncipe do Lab.
 

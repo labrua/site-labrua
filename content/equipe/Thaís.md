@@ -7,9 +7,7 @@ showonlyimage = false
 weight = 6
 +++
 
-
 <!--more-->
-
 Com esse sobrenome não precisa dizer mais nada.
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)

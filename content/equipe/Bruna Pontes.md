@@ -7,7 +7,6 @@ showonlyimage = false
 weight = 6
 +++
 
-
 <!--more-->
 Garota que internacionaliza o LabRua.
 

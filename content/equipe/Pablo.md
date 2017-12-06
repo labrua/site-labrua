@@ -7,9 +7,7 @@ showonlyimage = false
 weight = 6
 +++
 
-
 <!--more-->
-
 'aposenpablo'
 
 Se finge de cansado mas é o infantil falando ruindades.
