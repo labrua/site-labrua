@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/foto aida.png"
+image = "img/Fotos para Site/Aida.png"
 date = "2016-11-05T19:56:17+05:30"
 title = "Aída Pontes"
 showonlyimage = false

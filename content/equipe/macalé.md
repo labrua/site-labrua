@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Macalé"
 draft = false
-image = "img/Macale.jpg"
+image = "img/Fotos para Site/Macalé.jpg"
 showonlyimage = false
 weight = 80
 +++

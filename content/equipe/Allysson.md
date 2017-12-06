@@ -1,8 +1,8 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Fulano"
+title = "Allysson Barbosa"
 draft = false
-image = "img/pessoa1.jpeg"
+image = "img/Fotos para Site/Alysson.jpeg"
 showonlyimage = false
 weight = 1
 +++
