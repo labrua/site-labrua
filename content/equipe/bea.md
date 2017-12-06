@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Beatriz Brito"
+title = "Bea Brito"
 draft = false
 image = "img/bea.jpg"
 showonlyimage = false

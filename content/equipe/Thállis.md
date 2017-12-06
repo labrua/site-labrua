@@ -2,7 +2,7 @@
 draft = false
 image = "img/Fotos para Site/Thallis.jpg"
 date = "2016-11-05T19:50:47+05:30"
-title = "Thállis"
+title = "Thállis Dantas"
 showonlyimage = false
 weight = 4
 +++
