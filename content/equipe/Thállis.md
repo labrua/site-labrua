@@ -7,9 +7,10 @@ showonlyimage = false
 weight = 4
 +++
 
-Mister Labrua
+
 <!--more-->
+Mister Labrua
 
 Sósia de gente famosa, veio para embelezar mais ainda o grupo. Calmo mas tem sempre a melhor tirada na hora certa!
 
-- Graduando em Arquitetura e Urbanismo (UNIFACISA)
+* Graduando em Arquitetura e Urbanismo (UNIFACISA)

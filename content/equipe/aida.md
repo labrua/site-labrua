@@ -7,8 +7,8 @@ showonlyimage = false
 weight = 100
 +++
 
-Foi quem inventou tudo isso e fez todo mundo se encontrar.
 <!--more-->
+Foi quem inventou tudo isso e fez todo mundo se encontrar.
 
 Mãe de Macalé, Brise, Elke e Presidenta do Lab. Divide seus horários dando aula de urbanismo no curso de arquitetura e urbanismo da UNIFACISA. A -louca- mulher das bicicletas que sai dando aulas extras como convidada por aí. Na verdade, verdade mesmo, queria era ser crocheteira.
 

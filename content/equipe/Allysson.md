@@ -7,7 +7,10 @@ showonlyimage = false
 weight = 1
 +++
 
-É uma pessoa pouco disposta.
-<!--more-->
 
-Mas faz muita coisa
+<!--more-->
+O engajadinho.
+
+Envolvido com os movimentos estudantis.
+
+* Graduando em Arquitetura e Urbanismo (UFCG)

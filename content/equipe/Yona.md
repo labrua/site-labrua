@@ -7,9 +7,9 @@ showonlyimage = false
 weight = 6
 +++
 
-Ovelha negra
+
 <!--more-->
 
 Compõe o quadro não arquitetônico do grupo. Futura historiadora mas amante da arquitetura.
 
-- Graduanda em História (UFCG)
+* Graduanda em História (UFCG)

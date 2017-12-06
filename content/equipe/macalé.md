@@ -7,7 +7,8 @@ showonlyimage = false
 weight = 80
 +++
 
-O príncipe do Lab.
+
 <!--more-->
+O príncipe do Lab.
 
 Um vira-lata que foi adotado, rosna por tudo, se apaixona fácil e adora distribuir beijos.
