@@ -1,0 +1,15 @@
++++
+draft = false
+image = "img/Fotos para Site/.jpg"
+date = "2016-11-05T19:56:17+05:30"
+title = "Luis"
+showonlyimage = false
+weight = 6
++++
+
+<!--more-->
+Natural de Emas
+Faz da combinação de computação e espaço público uma mistura perfeita.
+
+* Doutorando em Computação (UFCG)
+* Analytics (UFCG)

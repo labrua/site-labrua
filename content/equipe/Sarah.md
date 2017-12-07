@@ -1,16 +1,14 @@
 +++
 draft = false
-image = "img/Fotos para Site/Inaiama.jpg"
+image = "img/Fotos para Site/.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Inaiama Aires"
+title = "Sarah Lima"
 showonlyimage = false
 weight = 6
 +++
 
 <!--more-->
-
-A bailarina.
-
-Vendedora de dindins que adora animais e é a maior defensora de Brise.
+Lab’Rau’
+A pessoa mais colaborativa que você respeita. É a desligada do Lab.
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)
