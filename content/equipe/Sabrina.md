@@ -8,6 +8,8 @@ weight = 82
 +++
 
 <!--more-->
-Está em arquitetura, mas ainda se encontrando no mundo, como toda virginiana é a perfeccionista do grupo.
+Está em arquitetura, mas ainda se encontrando no mundo.
+
+Como toda virginiana é a perfeccionista do grupo.
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/Fotos para Site/.jpg"
+image = "img/Fotos para Site/lombarde.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Nazareno Andrade"
 showonlyimage = false

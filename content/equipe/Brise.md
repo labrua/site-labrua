@@ -2,9 +2,9 @@
 draft = false
 image = "img/Fotos para Site/Brise.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Brise Ventania"
+title = "Brise"
 showonlyimage = false
-weight = 76
+weight = 75
 +++
 
 <!--more-->
