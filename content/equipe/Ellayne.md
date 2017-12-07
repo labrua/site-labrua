@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Ellaynne.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Elaynne Montenegro"
 showonlyimage = false
-weight = 6
+weight = 95
 +++
 
 <!--more-->

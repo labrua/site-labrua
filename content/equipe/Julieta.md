@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Julieta.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Julieta Arcoverde"
 showonlyimage = false
-weight = 100
+weight = 91
 +++
 
 <!--more-->

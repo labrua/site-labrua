@@ -4,7 +4,7 @@ title = "Bea Brito"
 draft = false
 image = "img/bea.jpg"
 showonlyimage = false
-weight = 90
+weight = 99
 +++
 
 <!--more-->

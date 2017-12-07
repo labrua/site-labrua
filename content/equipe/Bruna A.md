@@ -1,10 +1,9 @@
 +++
 draft = false
-image = "img/Fotos para Site/.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Bruna Almeida"
 showonlyimage = false
-weight = 6
+weight = 96
 +++
 
 <!--more-->

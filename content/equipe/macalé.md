@@ -4,7 +4,7 @@ title = "Jards Macalé"
 draft = false
 image = "img/Fotos para Site/Macalé.jpg"
 showonlyimage = false
-weight = 80
+weight = 76
 +++
 
 <!--more-->

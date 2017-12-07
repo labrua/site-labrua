@@ -4,7 +4,7 @@ title = "Allysson Barbosa"
 draft = false
 image = "img/Fotos para Site/Alysson.jpg"
 showonlyimage = false
-weight = 1
+weight = 97
 +++
 
 <!--more-->
