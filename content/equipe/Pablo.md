@@ -12,4 +12,4 @@ weight = 88
 
 Se finge de cansado mas é o infantil falando ruindades.
 
-*Graduando em Arquitetura e Urbanismo (UNIFACISA)
+* Graduando em Arquitetura e Urbanismo (UNIFACISA)
