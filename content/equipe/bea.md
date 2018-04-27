@@ -7,8 +7,9 @@ showonlyimage = false
 weight = 99
 +++
 
-<!--more-->
 Depois de Elke, Bea é a mais maravilhosa do LabRua.
+
+<!--more-->
 
 A pessoa que aparenta ter mais maturidade psicológica do grupo, ou não! Sempre com uma cachacinha para oferecer. Para ela, tudo vai dar certo, e segundo ela, dá mesmo. Na verdade, ela tem o poder de fazer dar certo.
 

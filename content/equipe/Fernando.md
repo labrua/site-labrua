@@ -7,9 +7,9 @@ showonlyimage = false
 weight = 94
 +++
 
+Tímido e bondoso.
 <!--more-->
-Bondoso
 
-Adora cozinhar pra todo mundo, e manda muito bem, principalmente comida vegetariana. Saiu de design para arquitetura.
+Adora cozinhar pra todo mundo, e manda muito bem, principalmente comida vegetariana. Saiu de design para arquitetura. A pessoa mais *lerigou*, vai dar certo no final pois ele fecha.
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)
