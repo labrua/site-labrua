@@ -7,8 +7,8 @@ showonlyimage = false
 weight = 93
 +++
 
-<!--more-->
 Multifacetada.
+<!--more-->
 
 Foi de bombeira a diretora de colégio e no fim acabou na arquitetura e urbanismo. Além disso, a mulher leva jeito pra psicóloga e é mãe de Isabela.
 

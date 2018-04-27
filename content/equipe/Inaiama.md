@@ -7,10 +7,9 @@ showonlyimage = false
 weight = 89
 +++
 
+A bailarina.
 <!--more-->
 
-A bailarina.
-
-Vendedora de dindins que adora animais e é a maior defensora de Brise.
+Vendedora de dindins que adora animais, não à toa é a maior defensora de Brise. Se acha louca, mas a gente não entende porque. Mas se for, onde que isso é ruim?
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)

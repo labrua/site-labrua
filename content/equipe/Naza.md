@@ -7,8 +7,8 @@ showonlyimage = false
 weight = 87
 +++
 
-<!--more-->
 Primeiro Damo
+<!--more-->
 
 Faz mais parte do grupo do que pensa fazer. Das eletrônicas, é o que chega no final, pra comer, cozinhar e botar música pra dançar.
 

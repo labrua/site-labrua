@@ -7,8 +7,8 @@ showonlyimage = false
 weight = 91
 +++
 
-<!--more-->
 Calmo, amigo e sempre com um sorriso no rosto.
+<!--more-->
 
 Tenta ajudar com a frase mais confortante do vai dá tudo certo. Da mesmo! E quando da, Gabriel costuma comemorar, fazendo coisas os jovens gostam de fazer.
 

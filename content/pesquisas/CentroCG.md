@@ -15,10 +15,11 @@ Com frequência há propostas de projetos para a área que são questionadas pel
 Esta pesquisa apresenta uma análise do núcleo central de Campina Grande feita através de levantamentos em campo sobre o uso do espaço além de entrevistas feitas com os usuários da área. O objetivo é investigar o uso e a percepção dos usuários sobre os espaços públicos.
 
 #### Para realização dessa pesquisa, os seguintes produtos foram levantados:
-* Entrevistas com usuários da área;
-* Levantamento dos mobiliários urbanos;
-* Montagem das fachadas urbanas;
-* Análise das fachadas usando a metodologia de Gehl.
+* Entrevistas com usuários da área
+* Levantamento dos mobiliários urbanos
+* Montagem das fachadas urbanas
+* Análise das fachadas usando a metodologia de Gehl
+* Contagem dos meios de transporte ao longo de um dia
 
 
 
