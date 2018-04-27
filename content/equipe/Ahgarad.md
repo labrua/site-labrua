@@ -7,8 +7,8 @@ showonlyimage = false
 weight = 98
 +++
 
-<!--more-->
 Aguirrárade.
+<!--more-->
 
 Um Baiano que consegue se passar por Árabe. Manda muito bem na cozinha.
 
