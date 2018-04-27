@@ -7,8 +7,9 @@ showonlyimage = false
 weight = 96
 +++
 
+Um amorzinho!
 <!--more-->
-Garota que internacionaliza o LabRua.
+Taurina avoada, afeição por diagramação e mapinhas, um desastre na cozinha mas boa companhia pra umas cervinhas.
 
 * Urbanista e Arquiteta (UNIFACISA)
-* Mestranda Estudos Urbanos (Universidade de Lisboa)
+* Mestranda Estudos Urbanos (Universidade Nova de Lisboa/ISCTE)

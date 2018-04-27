@@ -10,6 +10,6 @@ weight = 98
 Aguirrárade.
 <!--more-->
 
-Um Baiano que consegue se passar por Árabe. Manda muito bem na cozinha.
+Um Baiano que consegue se passar por Árabe. Manda muito bem na cozinha. Gosta de abraçar todo mundo e ama os animais.
 
 * Graduando em Arquitetura e Urbanismo (UFCG)

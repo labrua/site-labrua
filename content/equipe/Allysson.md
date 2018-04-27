@@ -7,9 +7,10 @@ showonlyimage = false
 weight = 97
 +++
 
+Articulado, engajado e prestativo.
 <!--more-->
-O engajadinho.
 
-Envolvido com os movimentos estudantis.
+Envolvido com os movimentos estudantis, universidade e as pesquisas do Lab. Tá metido em tudo e dá conta do recado. Entusiasta das metodologias alternativas, ele sempre chega com uma novidade. 
 
 * Graduando em Arquitetura e Urbanismo (UFCG)
+* Diretor da Regional Nordeste da FENEA
