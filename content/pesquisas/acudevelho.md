@@ -1,7 +1,7 @@
 +++
 image = "img/portfolio/gravity-paper.jpg"
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
+date = "2017-11-05T19:44:32+05:30"
 title = "Espaços Públicos do Açude Velho"
 draft = false
 weight = 2
