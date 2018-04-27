@@ -8,6 +8,6 @@ weight = 75
 +++
 
 <!--more-->
-Plebéia mais princesa.
+A plebéia mais princesa.
 
-Veio logo em seguida pra fazer companhia a Macau. É muito carinhosa mas um pouco efusiva.
+Veio logo em seguida pra fazer companhia a Macau. É muito carinhosa mas um pouco efusiva. Qualquer dia ainda vai nos deixar surdos, mas a gente gosta dela mesmo assim :)

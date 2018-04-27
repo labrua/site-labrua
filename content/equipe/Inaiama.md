@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Inaiama.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Inaiama Aires"
 showonlyimage = false
-weight = 92
+weight = 89
 +++
 
 <!--more-->
