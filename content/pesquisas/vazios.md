@@ -2,36 +2,31 @@
 draft = false
 image = ""
 showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
-title = "Vazios Urbanos do Núcleo Central de Campina Grande-PB"
+date = "2017-11-20T19:50:47+05:30"
+title = "Vazios Centrais   de Campina Grande-PB"
 weight = 4
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+O perímetro do Centro Histórico de Campina Grande protegido pelo IPHAEP vem passando por diversas transformações com o passar do tempo. A cidade cresce - perifericamente - e o Centro passa a ter cada vez mais espaços urbanos ociosos. Embora seja uma área consolidada e dinâmica, bastante conhecida pelos comércios e serviços, os lotes e imóveis vazios estão dando espaço para um novo uso em especial, os estacionamentos.  
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+A área é bastante conhecida e utilizada pelos campinenses. Assim, buscamos atrair e contribuir para a formação do pensamento crítico da população acerca dos usos do solo impostos na cidade.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1Açude Velho, Campina Grande - PB
-
-O Açude Velho está localizado no centro de Campina Grande - PB, é considerado o cartão postal da cidade e é muito utilizado pela população para prática de esportes, como também lazer e passagem de pedestres. Porém, áreas de permanência e contemplação não são muito estimuladas no local, já que há problemáticas como falta de mobiliário urbano, deficiência de iluminação pública, trânsito ofensivo nas ruas que o contornam etc.
-
-É sabido que nas últimas décadas o planejamento das cidades se voltou em especial à priorização do veículo motorizado individual. Uma das consequências desse tipo de desenvolvimento foi a negligência de espaços públicos na cidade e uma formulação urbana que oprime o pedestre. Diante da realidade que se encontra o Açude Velho se faz necessário a democratização do espaço para todos os usuários do local, dando prioridade aos pedestres e ciclistas.
-
-Esta pesquisa apresenta uma análise do entorno do Açude Velho feita através de levantamentos em campo sobre o uso do espaço além de entrevistas feitas com os usuários da área. O objetivo principal é fazer um diagnóstico sobre as características morfológicas e de uso do entorno do Açude Velho, incluindo uma análise da percepção das pessoas sobre a área, assim como do fluxo de meios de transporte e pessoas nas ruas que o contornam.
-
+A pesquisa visa trazer contribuições com mapeamentos, classificações dos vazios existentes na área objeto de estudo e simulações. Tem como objetivo estudar e simular os usos que podem ser dados aos espaços vazios no Centro de Campina Grande, compreendendo a cidade a partir de uma leitura dinâmica das suas diversas configurações morfológicasde e cumprindo a função social da propriedade.
 
 
 ###Análises produzidas nesta pesquisa
 
-* Contagem dos diferentes modais
-* Entrevistas com usuários da área
-* Levantamento dos mobiliários urbanos
-* Montagem das fachadas urbanas
-* Análise das fachadas e uso do solo
-* Análise de comportamento de pedestres, entre outros
+* Atualização do mapa de uso e ocupação do solo do perímetro histórico
+* Criação de formulários para caracterização de cada imóvel
+* Mapa de áreas verdes livres
+* Mapa dos espaços vazios e/ou espaços subutilizados
+* Mapa dos edifícios que estão abandonados e/ou subutilizados
+* Dados de categorização e quantificação dos espaços de acordo com seus usos
+* Dados de impactos da existência desses vazios
+* Simulação do adensamento desses vazios
+* Investigação de possíveis usos para vazios;
+
 
 ###Alguns resultados
->Trabalho de Conclusão de Curso do pesquisador do LabRua: Thallis Dantas
+>
