@@ -8,8 +8,6 @@ weight = 78
 +++
 
 <!--more-->
-Mister Labrua
+Aquela pessoa que parece séria, mas não perde a oportunidade de fazer uma graça
 
-Sósia de gente famosa, veio para embelezar mais ainda o grupo. Calmo mas tem sempre a melhor tirada na hora certa!
-
-* Graduando em Arquitetura e Urbanismo (UNIFACISA)
+* Urbanista e Arquieto (UNIFACISA)
