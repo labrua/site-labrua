@@ -7,7 +7,10 @@ showonlyimage = false
 weight = 76
 +++
 
+Sempre atenciosa e bem humorada.
 <!--more-->
-Compõe o quadro não arquitetônico do grupo. Futura historiadora mas amante da arquitetura.
+
+Engajada com vários movimentos sociais, compõe o quadro não arquitetônico do grupo. Nossa coordenadora da lojinha, ama viajar e fotografar. 
 
 * Graduanda em História (UFCG)
+* Pesquisadora do PET Eduação UFCG

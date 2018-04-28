@@ -10,6 +10,6 @@ weight = 92
 Tímido e bondoso.
 <!--more-->
 
-Adora cozinhar pra todo mundo, e manda muito bem, principalmente comida vegetariana. Saiu de design para arquitetura. A pessoa mais *lerigou*, vai dar certo no final pois ele fecha.
+Adora cozinhar pra todo mundo, e manda muito bem, principalmente comida vegetariana. Saiu de design para arquitetura. Nosso coordenador do *Lab.na.Rua* é a pessoa mais *lerigou*! Pra ele tudo dar certo no final pois ele fecha.
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)

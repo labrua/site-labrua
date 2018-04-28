@@ -7,9 +7,9 @@ showonlyimage = false
 weight = 81
 +++
 
+Um dos "esperançosos" do Lab.
 <!--more-->
-Próprio significado de exagero.
 
-A quem o chame de bombril, porque o menino é mil e uma utilidades.
+Só não esquece a cabeça porque tá colada no pescoço! Já esqueceu de escova de dente a livros passando por roupas no Lab. O pesquisador mais shopper do grupo.
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)
