@@ -4,7 +4,7 @@ image =
 date = "2016-11-05T19:56:17+05:30"
 title = "Outros Pesquisadores"
 showonlyimage = false
-weight = 1
+weight = 4
 +++
 
 Que já constribuíram muito por aqui!
