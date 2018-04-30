@@ -13,3 +13,4 @@ O mais prestativo de todos os prestativos.
 Manja das computações e anda sempre com o fone de ouvido, que já faz tão parte dele que você não percebe se está com ou sem.
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)
+* Primeiro tesoureiro do DA de Arquitetura e Urbanismo da UNIFACISA

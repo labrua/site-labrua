@@ -13,3 +13,4 @@ Quieta e tranquila.
 Quando pega o microfone se transforma, ela engana com a carinha de acanhada. Amiga, leal e transparente, pode contar com ela a qualquer hora (Principalmente se for na hora da farra).
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)
+* Presidente do DA de Arquitetura e Urbanismo da UNIFACISA
