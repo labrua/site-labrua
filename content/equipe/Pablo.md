@@ -13,3 +13,4 @@ weight = 86
 Se finge de cansado mas é o infantil falando ruindades.
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)
+* Vice-presidente do DA de Arquitetura e Urbanismo da UNIFACISA
