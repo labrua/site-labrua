@@ -24,22 +24,42 @@
     </item>
     
     <item>
-      <title>Elke</title>
-      <link>https://labrua.github.io/site-labrua/equipe/elke/</link>
-      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/equipe/elke/</guid>
-      <description>&lt;p&gt;A maravilha!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Espaços Públicos do Açude Velho</title>
       <link>https://labrua.github.io/site-labrua/pesquisas/acudevelho/</link>
       <pubDate>Sun, 05 Nov 2017 19:44:32 +0530</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/pesquisas/acudevelho/</guid>
       <description>&lt;p&gt;O Açude Velho está localizado no centro de Campina Grande - PB, é considerado o cartão postal da cidade e é muito utilizado pela população para prática de esportes, como também lazer e passagem de pedestres. Porém, áreas de permanência e contemplação não são muito estimuladas no local, já que há problemáticas como falta de mobiliário urbano, deficiência de iluminação pública, trânsito ofensivo nas ruas que o contornam etc.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vazios Centrais   de Campina Grande-PB</title>
+      <link>https://labrua.github.io/site-labrua/pesquisas/vazioscentrais/</link>
+      <pubDate>Mon, 20 Nov 2017 19:50:47 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/pesquisas/vazioscentrais/</guid>
+      <description>&lt;p&gt;O perímetro do Centro Histórico de Campina Grande protegido pelo IPHAEP vem passando por diversas transformações com o passar do tempo. A cidade cresce - perifericamente - e o Centro passa a ter cada vez mais espaços urbanos ociosos. Embora seja uma área consolidada e dinâmica, bastante conhecida pelos comércios e serviços, os lotes e imóveis vazios estão dando espaço para um novo uso em especial, os estacionamentos.&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Outros Pesquisadores</title>
+      <link>https://labrua.github.io/site-labrua/equipe/outrospesquisadores/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/equipe/outrospesquisadores/</guid>
+      <description>&lt;p&gt;Que já contribuíram muito por aqui!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Elke</title>
+      <link>https://labrua.github.io/site-labrua/equipe/elke/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/equipe/elke/</guid>
+      <description>&lt;p&gt;A maravilha!
 &lt;/p&gt;</description>
     </item>
     
@@ -60,16 +80,6 @@
       
       <guid>https://labrua.github.io/site-labrua/equipe/macal%C3%A9/</guid>
       <description>&lt;p&gt;O príncipe do Lab.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Vazios Centrais   de Campina Grande-PB</title>
-      <link>https://labrua.github.io/site-labrua/pesquisas/vazioscentrais/</link>
-      <pubDate>Mon, 20 Nov 2017 19:50:47 +0530</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/pesquisas/vazioscentrais/</guid>
-      <description>&lt;p&gt;O perímetro do Centro Histórico de Campina Grande protegido pelo IPHAEP vem passando por diversas transformações com o passar do tempo. A cidade cresce - perifericamente - e o Centro passa a ter cada vez mais espaços urbanos ociosos. Embora seja uma área consolidada e dinâmica, bastante conhecida pelos comércios e serviços, os lotes e imóveis vazios estão dando espaço para um novo uso em especial, os estacionamentos.&lt;br /&gt;
 &lt;/p&gt;</description>
     </item>
     
@@ -288,12 +298,12 @@
     </item>
     
     <item>
-      <title>Notícia menos importante</title>
-      <link>https://labrua.github.io/site-labrua/blog/2017-11-01-outra-noticia/</link>
-      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      <title>JANELA | Cidade, Mulher e Cicloativismo</title>
+      <link>https://labrua.github.io/site-labrua/blog/janela1/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://labrua.github.io/site-labrua/blog/2017-11-01-outra-noticia/</guid>
-      <description>&lt;p&gt;A vitalidade é demonstrada não apenas pela persistência, mas pela capacidade de começar de novo.
+      <guid>https://labrua.github.io/site-labrua/blog/janela1/</guid>
+      <description>&lt;p&gt;O LabRua, junto com o IAB.pb, iniciaram no mês de março o evento chamado &lt;em&gt;janela&lt;/em&gt;, que tem a proposta realizar uma vez por mês diálogos sobre experiências com a cidade.
 &lt;/p&gt;</description>
     </item>
     
