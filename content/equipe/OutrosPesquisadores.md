@@ -9,12 +9,8 @@ weight = 4
 Que já contribuíram muito por aqui!
 <!--more-->
 
-* As Alines (?)
-* Bia (?)
 * Fernanda Gomes de Macedo
 * Hanna Thayse Rocha Fernandes
-* Lívia Simões
 * Marihana Sevy Cirne Tavares
-* Paloma (?)
 * Sarah Lima
 * Sarah Souto

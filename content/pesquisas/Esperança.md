@@ -26,5 +26,7 @@ Esta pesquisa apresenta uma análise do centro de Esperança feita através de l
 
 #### Alguns resultados
 > A área de estudo é tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
-> Hillary Pereira:
-> Robson Porto:
+
+> [Hillary Pereira: Redesenho das Ruas Manoel Rodrigues de Oliveira e Clementino Farias na Cidade de Esperança-PB.](../../pdf/TCC Hillary Pereira.pdf)
+
+> Robson Porto

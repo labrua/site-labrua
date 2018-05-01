@@ -10,4 +10,4 @@ weight = 78
 <!--more-->
 Aquela pessoa que parece séria, mas não perde a oportunidade de fazer uma graça. Canta e toca violão divinamente, e adora uma cachoeira.
 
-* Urbanista e Arquieto (UNIFACISA)
+* Urbanista e Arquiteto (UNIFACISA)
