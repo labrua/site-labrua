@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/pesquisas/Maciel anos 80.JPG"
+image = "img/pesquisas/Maciel Pinheiro.JPG"
 date = "2015-05-02"
 title = "Núcleo Central de Campina Grande"
 weight = 0
