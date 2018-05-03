@@ -9,7 +9,13 @@ Nosso principal foco é fazer pesquisas que possam tanto embasar o desenho urban
 
 Participam do LabRua arquitetos, estudantes de arquitetura e urbanismo, história e computação, contribuindo com uma visão colaborativa e multidisciplinar nos estudos. Atualmente, os projetos desenvolvidos estão focados em diversos espaços públicos da cidade de Campina Grande, como o núcleo central, o Açude Velho e o Parque do Povo, como também em espaços públicos do centro da cidade de Esperança. Outros projetos tem como foco o estudo da mobilidade por bicicleta, a reocupação e o comportamento humano nos espaços públicos, sempre com o objetivo de pensar, refletir, discutir e buscar uma cidade para pessoas.
 
+#### A gente funciona assim, ó!
 
+Como a maioria dos nossos *colabruadores* são voluntários, cada pesquisa se reúne uma vez por semana, geralmente à tarde. Então cada dia da semana, de terça à sexta, tem uma pesquisa diferente trabalhando no Lab.
+
+Nas segundas-feiras, de 15 em 15 dias, todas as pesquisas se reunem para que todos saibam como tudo tá andando, quais as dificuldades e o que aprenderam, assim todos conseguem aprender junto e se ajudar. Esse também é aquele momento massa que os dotes culinários do *labrueiros* aparecem: tem bolo, pão de queijo, pipoca, tapioca… tudo acompanhado de um delicioso café moído na hora feito na mocha.
+
+Fazendo companhia todos os dias e garantindo a diversão, temos Macalé, Brise e Elke, dois vira-latas e uma gatinha, sempre muito carinhosos e prontos para te receber aos beijos. Além disso, de vez em quando fazemos alguns eventos no quintal da nossa casinha, como o Janela e o CineLab, abrindo a porta para todos virem discutir sobre cidade com a gente.
 
 
 #### Como trabalhar no LabRua
