@@ -1,9 +1,9 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/blog/balloons.jpg"
+image = "img/blog/Cinelab1.JPG"
 date = "2018-03-07"
-title = "LabRua inicia Cinema no quintal"
+title = "LabRua e IAB.pb iniciam Cinema no quintal"
 weight = 0
 +++
 

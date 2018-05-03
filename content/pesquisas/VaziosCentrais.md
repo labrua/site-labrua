@@ -15,7 +15,7 @@ A área é bastante conhecida e utilizada pelos campinenses. Assim, buscamos atr
 A pesquisa visa trazer contribuições com mapeamentos, classificações dos vazios existentes na área objeto de estudo e simulações. Tem como objetivo estudar e simular os usos que podem ser dados aos espaços vazios no Centro de Campina Grande, compreendendo a cidade a partir de uma leitura dinâmica das suas diversas configurações morfológicasde e cumprindo a função social da propriedade.
 
 
-###Análises produzidas nesta pesquisa
+#### Análises produzidas nesta pesquisa
 
 * Atualização do mapa de uso e ocupação do solo do perímetro histórico
 * Criação de formulários para caracterização de cada imóvel
@@ -28,5 +28,5 @@ A pesquisa visa trazer contribuições com mapeamentos, classificações dos vaz
 * Investigação de possíveis usos para vazios;
 
 
-###Alguns resultados
+#### Alguns resultados
 >

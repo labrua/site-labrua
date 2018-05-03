@@ -7,7 +7,7 @@ title = "Núcleo Central de Campina Grande"
 weight = 0
 +++
 
-Conhecido pelo seu patrimônio art-decó, o núcleo central de Campina Grande é a área da cidade com maior concentração de comércios e serviços. Como muitos centros urbanos brasileiros, a região apresenta um aglomerado intenso de pessoas e veículos, o que traz vitalidade para a área mas também caos em determinados aspectos.
+Conhecido pelo seu patrimônio art-decó, o núcleo central de Campina Grande é a área da cidade com maior concentração de comércios e serviços. Como muitos centros urbanos brasileiros, a região apresenta um aglomerado intenso de pessoas e veículos, o que traz vitalidade para a área, mas também caos em determinados aspectos.
 <!--more-->
 
 Com frequência há propostas de projetos para a área que são questionadas pela população e pelo poder público. Entre as décadas de 1980 e 1990, várias ruas do núcleo central eram exclusiva para pedestres, mas foi reaberta ao fluxo de veículos desde a última intervenção na década de 1990. Atualmente se questiona fechar algumas vias para dar mais espaços aos pedestres, no entanto, há também intenções, principalmente por parte dos lojistas, de aumentar o número de vagas de estacionamento.
