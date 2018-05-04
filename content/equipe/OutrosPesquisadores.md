@@ -13,6 +13,6 @@ Que já contribuíram muito por aqui!
 * Fernanda Gomes de Macedo
 * Hanna Thayse Rocha Fernandes
 * Marihana Sevy Cirne Tavares
-* Paloma Marinho
+* Paloma Germana Pinto Marinho
 * Sarah Silva Sousa Lima
-* Sarah Souto
+* Sarah Souto Guedes

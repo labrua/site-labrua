@@ -21,5 +21,7 @@ A abordagem deste trabalho é estudar modificações do layout do Parque do Povo
 * Linha do tempo da influência política na festa
 * Levantamento histórico das mudanças na festa de São João na cidade
 
+
+
 #### Alguns resultados
 > Artigo aceito para ser apresentado no TICYUrb'18 (Third International Conference of Young Urban Researchers) que acontecerá em Lisboa entre o 18 e o 22 de Junho de 2018. Título do artigo: *Os Festejos Juninos em Campina Grande: Evolução e Percepção dos Usuários no Parque do Povo.*
