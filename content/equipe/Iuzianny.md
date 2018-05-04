@@ -14,3 +14,4 @@ Com um espírito inteligentíssimo de 300 anos e corpitcho de 15, ela é a ansie
 
 * Urbanista e Arquiteta (UNIFACISA)
 * Designer de Produto (UFCG)
+* Especialista em Design de Interiores (IESP Faculdades)

@@ -7,10 +7,10 @@ showonlyimage = false
 weight = 86
 +++
 
+Coordenador do CineLab.
 <!--more-->
-'aposenpablo'
 
-Se finge de cansado mas é o infantil falando ruindades.
+Cinéfilo, acompanha mais de 50 séries!!! Apesar da tranquilidade, está sempre antenado e sempre disposto a ajudar. Adora colocar os papos em dia, e prepara um cafezinho como ninguém para acompanhar a conversa.
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)
 * Vice-presidente do DA de Arquitetura e Urbanismo da UNIFACISA
