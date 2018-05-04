@@ -13,4 +13,4 @@ Sempre atenciosa e bem humorada.
 Engajada com vários movimentos sociais, compõe o quadro não arquitetônico do grupo. Nossa coordenadora da lojinha, ama viajar e fotografar. 
 
 * Graduanda em História (UFCG)
-* Pesquisadora do PET Eduação UFCG
+* Pesquisadora do PET Educação UFCG
