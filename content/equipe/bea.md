@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Bea Brito"
 draft = false
-image = "img/bea.jpg"
+image = "img/Fotos para Site/Bea.jpg"
 showonlyimage = false
 weight = 99
 +++

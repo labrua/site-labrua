@@ -1,8 +1,8 @@
 +++
-draft = true
-image = "img/Fotos para Site/lombarde.png"
+draft = false
+image = "img/Fotos para Site/Agh.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Aghahad Setubal"
+title = "Agharad Setubal"
 showonlyimage = false
 weight = 98
 +++

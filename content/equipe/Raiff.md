@@ -7,8 +7,8 @@ showonlyimage = false
 weight = 83
 +++
 
+Nosso Babuíno, fazedor de música e arte urbana.
 <!--more-->
-Nosso Babuíno fazedor de música e arte urbana.
 
 'anarquizando ruas/ bicicletando léguas/ colorindo o mundo/ poetizando inércias/ quebrando leis/ desobedecendo regras'.
 
