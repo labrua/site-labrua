@@ -29,4 +29,4 @@ A pesquisa visa trazer contribuições com mapeamentos, classificações dos vaz
 
 
 #### Alguns resultados
->
+> Artigo aceito para ser apresentado no TICYUrb'18 (Third International Conference of Young Urban Researchers) que acontecerá em Lisboa entre o 18 e o 22 de Junho de 2018. Título do artigo: *Vazios Urbanos no Centro De Campina Grande: Diagnóstico e Simulação.*
