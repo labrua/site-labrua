@@ -10,4 +10,4 @@ weight = 88
 <!--more-->
 Entre Campina e João Pessoa Faz o melhor hambúrguer do mundo e concorda com isso.
 
-* Graduanda em Arquitetura e Urbanismo (UNIFACISA)
+* Graduanda em Arquitetura e Urbanismo (IESP)
