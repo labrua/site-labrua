@@ -12,5 +12,20 @@ preparamos a invasão!
 
 
 
-#### Alguns resultados
-> 21/03/2018 - Praça Clementino Procópio
+#### Quando o Lab foi pra Rua
+
+> onde          | quando
+> -----     | ---:
+> Praça Clementino Procópio |   21/04/2018
+
+
+
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:60%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:10%;
+}
+</style>
