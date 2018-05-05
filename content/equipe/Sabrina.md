@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Sabrina.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Sabrina Lorranny"
 showonlyimage = false
-weight = 80
+weight = 79
 +++
 
 A que tem o coração maior que a esperança!

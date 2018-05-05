@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Yohanna.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Yohanna Tereza"
 showonlyimage = false
-weight = 77
+weight = 76
 +++
 
 <!--more-->

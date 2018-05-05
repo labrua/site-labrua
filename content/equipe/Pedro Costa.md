@@ -4,7 +4,7 @@ image = "img/Fotos para Site/lombarde.png"
 date = "2016-11-05T19:56:17+05:30"
 title = "Pedro Costa"
 showonlyimage = false
-weight = 85
+weight = 84
 +++
 
 <!--more-->
