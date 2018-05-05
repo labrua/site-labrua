@@ -20,7 +20,7 @@ Fazendo companhia todos os dias e garantindo a diversão, temos Macalé, Brise e
 
 #### Como trabalhar no LabRua
 
-Muitas pessoas nos perguntam como faz para colaborar com o laboratório e queríamos acolher todos, mas, infelizmento, temos limite de espaço físico!
+Muitas pessoas nos perguntam como faz para colaborar com o laboratório e queríamos acolher todos, mas, infelizmente, temos limite de espaço físico!
 E como faz? De vez em quando a gente faz chamadas para trabalhar em determinadas pesquisas. Se não estivermos com edital aberto, manda um email pra gente falando qual pesquisa você gostaria de se encaixar e porquê. Outra opção também é nos mandar um email falando de alguma ideia de pesquisa que tenha a nossa cara e que você gostaria de se envolver.
 
 

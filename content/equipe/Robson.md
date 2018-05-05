@@ -10,6 +10,6 @@ weight = 80
 Um dos "esperançosos" do Lab.
 <!--more-->
 
-Só não esquece a cabeça porque tá colada no pescoço! Já esqueceu de escova de dente a livros passando por roupas no Lab. O pesquisador mais shopper do grupo.
+É um líder nato. É tão engajado com as coisas do Lab que sempre acaba esquecendo pertences por lá. Mas quando o assunto é trabalho responsabilidade o define.
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)

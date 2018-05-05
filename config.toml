@@ -39,8 +39,12 @@ googleAnalytics = ""
   url = "sobre/"
 
   [[params.navlinks]]
-  name = "Pesquisas"
+  name = "O Lab"
   url = "pesquisas/"
+
+  [[params.navlinks]]
+  name = "A Rua"
+  url = "eventos/"
 
   [[params.navlinks]]
   name = "Blog"

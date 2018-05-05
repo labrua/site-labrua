@@ -1,5 +1,5 @@
 ---
-title: O Lab | pesquisas
+title: A Rua | eventos
 date: 2017-11-02
 ---
 
