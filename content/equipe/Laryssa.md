@@ -7,8 +7,9 @@ showonlyimage = false
 weight = 87
 +++
 
-A mais serena dos “esperançosos”!
+A mais serena dos *esperançosos*!
 <!--more-->
+
 A responsabilidade a define, quando é dada uma missão ela vai fundo até o fim, sem contar que carrega muitas verdades no coração!
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)
