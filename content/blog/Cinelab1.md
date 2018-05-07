@@ -4,6 +4,7 @@ draft = false
 image = "img/blog/Cinelab1.JPG"
 date = "2018-03-07"
 title = "LabRua e IAB.pb iniciam Cinema no quintal"
+tag = "Cinema"
 weight = 0
 +++
 

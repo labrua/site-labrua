@@ -12,7 +12,7 @@ O perímetro do Centro Histórico de Campina Grande protegido pelo IPHAEP vem pa
 
 A área é bastante conhecida e utilizada pelos campinenses. Assim, buscamos atrair e contribuir para a formação do pensamento crítico da população acerca dos usos do solo impostos na cidade.
 
-A pesquisa visa trazer contribuições com mapeamentos, classificações dos vazios existentes na área objeto de estudo e simulações. Tem como objetivo estudar e simular os usos que podem ser dados aos espaços vazios no Centro de Campina Grande, compreendendo a cidade a partir de uma leitura dinâmica das suas diversas configurações morfológicasde e cumprindo a função social da propriedade.
+A pesquisa visa trazer contribuições com mapeamentos, classificações dos vazios existentes na área objeto de estudo e simulações. Tem como objetivo estudar e simular os usos que podem ser dados aos espaços vazios no Centro de Campina Grande, compreendendo a cidade a partir de uma leitura dinâmica das suas diversas configurações morfológicas de e cumprindo a função social da propriedade.
 
 
 #### Análises produzidas nesta pesquisa

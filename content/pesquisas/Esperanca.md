@@ -2,7 +2,7 @@
 date = "2017-04-05"
 title = "Centro de Esperança-PB"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/pesquisas/Esperanca.jpg"
 showonlyimage = false
 weight = 1
 +++

@@ -62,3 +62,7 @@ googleAnalytics = ""
   facebook      = "https://facebook.com/LabRua/"
   email         = "labderua@gmail.com"
   instagram     = "https://instagram.com/lab.rua"
+
+  [taxonomies]
+   tag = "tags"
+   category = "categories"
