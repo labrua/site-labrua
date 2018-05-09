@@ -2,7 +2,7 @@
 image = "img/pesquisas/Acude Velho.jpg"
 showonlyimage = false
 date = "2017-11-05T19:44:32+05:30"
-title = "Espaços Públicos do Açude Velho"
+title = "Espaços Públicos do Açude Velho, Campina Grande-PB"
 draft = false
 weight = 2
 +++

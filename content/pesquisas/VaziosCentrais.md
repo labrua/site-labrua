@@ -3,7 +3,7 @@ draft = false
 image = "img/pesquisas/vazios.JPG"
 showonlyimage = false
 date = "2017-11-20T19:50:47+05:30"
-title = "Vazios Centrais   de Campina Grande-PB"
+title = "Vazios Centrais de Campina Grande-PB"
 weight = 4
 +++
 

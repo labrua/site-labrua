@@ -4,7 +4,7 @@ title = "Lab.na.Rua"
 draft = false
 image = "img/portfolio/business-card-26.jpg"
 showonlyimage = false
-weight = 1
+weight = 20
 +++
 
 preparamos a invasão!

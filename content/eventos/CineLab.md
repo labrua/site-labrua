@@ -1,10 +1,10 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/eventos/Capa CINELAB.jpg"
 showonlyimage = false
 date = "2017-11-05T19:44:32+05:30"
 title = "CineLab"
 draft = false
-weight = 2
+weight = 1
 +++
 
 CineLab...

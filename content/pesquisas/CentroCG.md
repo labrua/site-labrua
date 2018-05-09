@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/pesquisas/Maciel Pinheiro.JPG"
 date = "2015-05-02"
-title = "Núcleo Central de Campina Grande"
+title = "Núcleo Central de Campina Grande-PB"
 weight = 0
 +++
 
@@ -24,7 +24,9 @@ Esta pesquisa apresenta uma análise do núcleo central de Campina Grande feita 
 
 
 #### Alguns resultados
-> Dois artigos e dois trabalhos de conclusão de curso. Os artigos foram apresentados no  1o Congresso Internacional Espaços Públicos, realizado em outubro de 2015 na PUCRS em Porto Alegre.
+> Três artigos e dois trabalhos de conclusão de curso. Os artigos foram apresentados no  1o Congresso Internacional Espaços Públicos, realizado em outubro de 2015 na PUCRS em Porto Alegre.
+
+> [Os espaços públicos no núcleo central da cidade de Campina Grande na percepção de seus usuários.](../../pdf/Tema percepção espaços públicos.pdf)
 
 > [Comportamento de pedestres, configuração das fachadas e mobiliário urbano na Rua Maciel Pinheiro, Campina Grande, Paraíba.](../../pdf/Artigo_comportamento maciel pinheiro.pdf)
 

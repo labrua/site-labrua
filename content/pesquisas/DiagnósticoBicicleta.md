@@ -1,8 +1,8 @@
 +++
-draft = true
+draft = false
 image = ""
-date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
+date = "2015-11-05T19:56:17+05:30"
+title = "Diagnóstico do Uso da Bicicleta em Campina Grande-PB"
 showonlyimage = false
 weight = 6
 +++

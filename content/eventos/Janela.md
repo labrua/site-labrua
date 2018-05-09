@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/pesquisas/Maciel Pinheiro.JPG"
+image = "img/eventos/Capa JANELA.jpg"
 date = "2015-05-02"
 title = "Janela"
-weight = 0
+weight = 2
 +++
 
 
