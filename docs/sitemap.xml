@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://labrua.github.io/site-labrua/pesquisas/esperanca/</loc>
-    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</loc>
-    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://labrua.github.io/site-labrua/eventos/cinelab/</loc>
     <lastmod>2017-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/pesquisas/esperanca/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/pesquisas/acudevelho/</loc>
     <lastmod>2017-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/eventos/janela/</loc>
+    <lastmod>2015-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/pesquisas/diagnosticobicicleta/</loc>
+    <lastmod>2014-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/equipe/brise/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
@@ -50,6 +55,11 @@
   <url>
     <loc>https://labrua.github.io/site-labrua/equipe/macal%C3%A9/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</loc>
+    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -223,11 +233,6 @@
   </url>
   
   <url>
-    <loc>https://labrua.github.io/site-labrua/eventos/janela/</loc>
-    <lastmod>2015-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://labrua.github.io/site-labrua/pesquisas/centrocg/</loc>
     <lastmod>2015-05-02T00:00:00+00:00</lastmod>
   </url>
@@ -239,7 +244,7 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/</loc>
-    <lastmod>2017-04-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-05T19:44:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   

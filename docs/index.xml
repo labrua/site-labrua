@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy;2017 LabRua</copyright>
-    <lastBuildDate>Wed, 05 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CineLab</title>
+      <link>https://labrua.github.io/site-labrua/eventos/cinelab/</link>
+      <pubDate>Sun, 05 Nov 2017 19:44:32 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/cinelab/</guid>
+      <description>&lt;p&gt;CineLab&amp;hellip;
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Centro de Esperança-PB</title>
@@ -24,27 +34,7 @@
     </item>
     
     <item>
-      <title>Lab.na.Rua</title>
-      <link>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</link>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</guid>
-      <description>&lt;p&gt;preparamos a invasão!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>CineLab</title>
-      <link>https://labrua.github.io/site-labrua/eventos/cinelab/</link>
-      <pubDate>Sun, 05 Nov 2017 19:44:32 +0530</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/eventos/cinelab/</guid>
-      <description>&lt;p&gt;CineLab&amp;hellip;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Espaços Públicos do Açude Velho</title>
+      <title>Espaços Públicos do Açude Velho, Campina Grande-PB</title>
       <link>https://labrua.github.io/site-labrua/pesquisas/acudevelho/</link>
       <pubDate>Sun, 05 Nov 2017 19:44:32 +0530</pubDate>
       
@@ -54,7 +44,17 @@
     </item>
     
     <item>
-      <title>Vazios Centrais   de Campina Grande-PB</title>
+      <title>Janela</title>
+      <link>https://labrua.github.io/site-labrua/eventos/janela/</link>
+      <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/janela/</guid>
+      <description>&lt;p&gt;Porque Janela
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vazios Centrais de Campina Grande-PB</title>
       <link>https://labrua.github.io/site-labrua/pesquisas/vazioscentrais/</link>
       <pubDate>Mon, 20 Nov 2017 19:50:47 +0530</pubDate>
       
@@ -74,7 +74,7 @@
     </item>
     
     <item>
-      <title>Festejos juninos de Campina Grande</title>
+      <title>Festejos juninos de Campina Grande-PB</title>
       <link>https://labrua.github.io/site-labrua/pesquisas/s%C3%A3ojo%C3%A3o/</link>
       <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
       
@@ -90,6 +90,16 @@
       
       <guid>https://labrua.github.io/site-labrua/equipe/elke/</guid>
       <description>&lt;p&gt;A maravilha!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Diagnóstico do Uso da Bicicleta em Campina Grande-PB</title>
+      <link>https://labrua.github.io/site-labrua/pesquisas/diagn%C3%B3sticobicicleta/</link>
+      <pubDate>Thu, 05 Nov 2015 19:56:17 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/pesquisas/diagn%C3%B3sticobicicleta/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
@@ -110,6 +120,16 @@
       
       <guid>https://labrua.github.io/site-labrua/equipe/macal%C3%A9/</guid>
       <description>&lt;p&gt;O príncipe do Lab.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lab.na.Rua</title>
+      <link>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</guid>
+      <description>&lt;p&gt;preparamos a invasão!
 &lt;/p&gt;</description>
     </item>
     
@@ -390,17 +410,7 @@
     </item>
     
     <item>
-      <title>Janela</title>
-      <link>https://labrua.github.io/site-labrua/eventos/janela/</link>
-      <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/eventos/janela/</guid>
-      <description>&lt;p&gt;Porque Janela
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Núcleo Central de Campina Grande</title>
+      <title>Núcleo Central de Campina Grande-PB</title>
       <link>https://labrua.github.io/site-labrua/pesquisas/centrocg/</link>
       <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
       

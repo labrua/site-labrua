@@ -13,16 +13,6 @@
     
     
     <item>
-      <title>Lab.na.Rua</title>
-      <link>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</link>
-      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</guid>
-      <description>&lt;p&gt;preparamos a invasão!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>CineLab</title>
       <link>https://labrua.github.io/site-labrua/eventos/cinelab/</link>
       <pubDate>Sun, 05 Nov 2017 19:44:32 +0530</pubDate>
@@ -39,6 +29,16 @@
       
       <guid>https://labrua.github.io/site-labrua/eventos/janela/</guid>
       <description>&lt;p&gt;Porque Janela
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lab.na.Rua</title>
+      <link>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</guid>
+      <description>&lt;p&gt;preparamos a invasão!
 &lt;/p&gt;</description>
     </item>
     

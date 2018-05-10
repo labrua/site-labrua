@@ -26,7 +26,7 @@ Esta pesquisa apresenta uma análise do núcleo central de Campina Grande feita 
 #### Alguns resultados
 > Três artigos e dois trabalhos de conclusão de curso. Os artigos foram apresentados no  1o Congresso Internacional Espaços Públicos, realizado em outubro de 2015 na PUCRS em Porto Alegre.
 
-> [Os espaços públicos no núcleo central da cidade de Campina Grande na percepção de seus usuários.](../../pdf/Tema percepção espaços públicos.pdf)
+> [Os espaços públicos no núcleo central da cidade de Campina Grande na percepção de seus usuários.](../../pdf/Tema_percepcao espacos publicos.pdf)
 
 > [Comportamento de pedestres, configuração das fachadas e mobiliário urbano na Rua Maciel Pinheiro, Campina Grande, Paraíba.](../../pdf/Artigo_comportamento maciel pinheiro.pdf)
 
