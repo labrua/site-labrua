@@ -34,7 +34,11 @@ Foto da capa: Igor do Ó
       <input type="email" name="email" id="email" required="required" class="form-control">
     </div>
     <div class="form-group">
-      <label for="message">Conte-nos mais de onde você é, e qual produto se interessa *</label>
+      <label for="cidade">De onde você é? *</label>
+      <input type="text" name="name" id="name" required="required" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="message">Conte-nos mais sobre qual produto você se interessa *</label>
       <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
     </div>
     <div>
