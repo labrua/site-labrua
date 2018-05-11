@@ -55,3 +55,6 @@ O Edifício Lucas é uma edificação de uso misto, moderna, com 16 pavimentos q
 >*Checar com a gente os tamanhos e cores disponíveis*
 
 ![Camiseta É Difícil, Lucas](../../img/Lojinha/Camisetaedificillucas.jpg)
+
+
+Foto da capa: Igor do Ó
