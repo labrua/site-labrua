@@ -17,6 +17,11 @@ De vez em quando lançamos algumas coleções, como a do ‘É Difícil’, mas 
 
 ​Gostou de algum de nossos mimos? Para comprar basta ir a algum de nossos eventos ou nos fazer uma visitinha, sempre temos café e um bom papo pra acompanhar. Mas, se você não é de Campina Grande, é só entrar em contato conosco que atenderemos com muita alegria o seu pedido.
 
+Veja mais abaixo os nossos produtos.
+
+
+Foto da capa: Igor do Ó
+
 <h4>Quer adquirir um de nossos produtos?</h4>
 <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/lojinha@labrua.org">
   <div class="controls">
@@ -55,6 +60,3 @@ O Edifício Lucas é uma edificação de uso misto, moderna, com 16 pavimentos q
 >*Checar com a gente os tamanhos e cores disponíveis*
 
 ![Camiseta É Difícil, Lucas](../../img/Lojinha/Camisetaedificillucas.jpg)
-
-
-Foto da capa: Igor do Ó
