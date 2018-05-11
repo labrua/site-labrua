@@ -12,8 +12,21 @@ CineLab...
 
 
 #### Filmes que já aconteceram no CineLab
-1. As Sufragistas (08/03/2018)
 
-2. A Cidade Onde Envelheço (19/04/2018)
+> filmes          | quando
+> -----     | ---:
+> *As Sufragistas* |   08/03/2018
+> *A Cidade Onde Envelheço* |    19/04/2018
+> *Filhos da Esperança* |   03/05/2018
 
-3. Filhos da Esperança (03/05/2018)
+
+
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:55%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:10%;
+}
+</style>
