@@ -17,25 +17,41 @@ De vez em quando lançamos algumas coleções, como a do ‘É Difícil’, mas 
 
 ​Gostou de algum de nossos mimos? Para comprar basta ir a algum de nossos eventos ou nos fazer uma visitinha, sempre temos café e um bom papo pra acompanhar. Mas, se você não é de Campina Grande, é só entrar em contato conosco que atenderemos com muita alegria o seu pedido.
 
+<h4>Quer adquirir um de nossos produtos?</h4>
+<form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/lojinha@labrua.org">
+  <div class="controls">
+    <div class="form-group">
+      <label for="name">Seu nome *</label>
+      <input type="text" name="name" id="name" required="required" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="email">Seu email *</label>
+      <input type="email" name="email" id="email" required="required" class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="message">Conte-nos mais de onde você é, e qual produto se interessa *</label>
+      <textarea rows="4" name="message" id="message" required="required" class="form-control"></textarea>
+    </div>
+    <div>
+      <input type="submit" value="Enviar" class="btn btn-ghost">
+    </div>
+  </div>
+</form>
 
-#### Coleção 'É DIFÍCIL'
+
+
+
+### Coleção 'É DIFÍCIL'
 Você sabia que edifícios muito altos são prejudiciais à cidade?
 Além de fugirem da escala humana, evitarem os olhos da rua, eles elevam o custo do solo urbano e tornam menos provavél o desenvolvimento dos lotes vazios.
 
 O primeiro produto dessa coleção é o **É Difícil, Lucas**
 O Edifício Lucas é uma edificação de uso misto, moderna, com 16 pavimentos que está localizada no Centro de Campina Grande.
 
+>**Valor R$35,00**
 
+>Temos nas cores preta e branca
 
+>*Checar com a gente os tamanhos e cores disponíveis*
 
-
-
-<style>
-table:nth-of-type(1) {
-    display:table;
-    width:60%;
-}
-table:nth-of-type(1) th:nth-of-type(2) {
-    width:10%;
-}
-</style>
+![Camiseta É Difícil, Lucas](../../img/Lojinha/Camisetaedificillucas.jpg)
