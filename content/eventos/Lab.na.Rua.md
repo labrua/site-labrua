@@ -2,7 +2,7 @@
 date = "2017-04-05"
 title = "Lab.na.Rua"
 draft = false
-image = "img/eventos/CapaLabnarua.JPG"
+image = "img/eventos/Capa labnarua.jpg"
 showonlyimage = false
 weight = 20
 +++
