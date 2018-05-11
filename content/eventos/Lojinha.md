@@ -7,6 +7,7 @@ showonlyimage = false
 weight = 100
 +++
 
+Tem de caneca à *labrusinha*!
 <!--more-->
 
 A lojinha do LabRua surgiu da necessidade de angariar recursos financeiros para realização e manutenção das nossas atividades e pesquisas. A partir disso, pensamos e criamos produtos que além de serem cheios de criatividade sempre trazem elementos temáticos inspirados nos nossos estudos, resultados ou outras percepções sobre o espaço público.
