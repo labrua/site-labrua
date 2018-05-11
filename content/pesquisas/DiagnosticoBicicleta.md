@@ -1,6 +1,6 @@
 +++
 draft = false
-image = ""
+image = "img/pesquisas/DiagnosticoBicicleta.jpg"
 date = "2014-11-05T19:56:17+05:30"
 title = "Diagnóstico do Uso da Bicicleta em Campina Grande-PB"
 showonlyimage = false
@@ -27,7 +27,7 @@ Além das pessoas que já usam a bicicleta como meio de transporte na cidade, ma
 > **Contagem dos ciclistas que passaram das 5:30 às 18:30** |
 Contagem volumétrica-direcional, com intervalos a cada 15 minutos, marcando também a quantidade de mulheres ciclistas, pedalando na calçada, na contramão, usando capacete, luzes, carregando caixas e/ou mochilas.
 
-> **Entrevistas nas horas de maior fluxo de ciclistas** | 
+> **Entrevistas nas horas de maior fluxo de ciclistas** |
 Questionário contendo informações sobre a viagem (origem/destino, motivo, tempo), informações qualitativas (problemas encontrados, outros modos, etc.), informações se sofreu acidente e informações pessoais (sexo, idade, renda, etc.).
 
 #### Publicações relacionadas
