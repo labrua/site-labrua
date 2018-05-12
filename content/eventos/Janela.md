@@ -19,8 +19,9 @@ Porque Janela
 
 > tema          | quando
 > -----     | ---:
-> *Cidade, Mulher e Cicloativismo*, com **Maria Gouveia** |   22/03/2018
-> *Edifício, Uso Misto e Fachadas Ativas*, com **Marcelo Barros** |    18/04/2018
+> **Cidade, Mulher e Cicloativismo**, com *Maria Gouveia* |   22/03/2018
+> **Edifício, Uso Misto e Fachadas Ativas**, com *Marcelo Barros* |    18/04/2018
+> **O São João, O Parque do Povo e A Cidade**, com *André Agra, Dunga Junior, Elizabeth Lima, Fabiano Melo e* mediação de *Giseli Sampaio* |   17/05/2018
 
 
 
