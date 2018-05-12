@@ -14,4 +14,4 @@ Faz mais parte do grupo do que pensa fazer. Das eletrônicas, é o que chega no 
 
 * Professor do Departamento de Sistemas e Computação (UFCG)
 * Pesquisador do Laboratório de Sistemas Distribuídos (LSD - UFCG)
-* Coordenador do Laboratório Analyitics
+* Coordenador do Laboratório Analytics
