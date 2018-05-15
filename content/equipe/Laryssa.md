@@ -7,9 +7,9 @@ showonlyimage = false
 weight = 87
 +++
 
-A mais serena dos *esperançosos*!
+Esperançosa e otimista.
 <!--more-->
 
-A responsabilidade a define, quando é dada uma missão ela vai fundo até o fim, sem contar que carrega muitas verdades no coração!
+Muito responsável e sempre muito preocupada com seus compromissos. Está sempre com um sorriso no rosto, distribuindo alegria por onde passa. Além disso é uma das artista do grupo, Lary canta super bem.
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)

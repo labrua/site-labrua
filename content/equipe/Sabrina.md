@@ -4,11 +4,10 @@ image = "img/Fotos para Site/Sabrina.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Sabrina Lorranny"
 showonlyimage = false
-weight = 79
+weight = 78
 +++
 
-A que tem o coração maior que a esperança!
 <!--more-->
-A mais prestativa do grupo dos esperançosos, não exita em ajudar aos seus e ainda manja dos paranauês do mundo gráfico que só ela!
+Como toda virginiana é muito perfeccionista. Diretamente de Monteiro, terra do nosso querido Flávio José e Magníficos, ela muito ansiosa e adora tomar um sorim.
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)

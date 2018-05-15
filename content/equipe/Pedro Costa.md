@@ -7,11 +7,11 @@ showonlyimage = false
 weight = 84
 +++
 
-<!--more-->
 Abusado.
+<!--more-->
 
-Fez parte do nascimento do LabRua, mas depois abandonou a cria para pedalar com vento frio holandês na cara. Sempre que pode continua dando uns pitacos importantes nas nossas pesquisa.
+Fez parte do nascimento do LabRua, mas depois abandonou a cria para pedalar com vento frio holandês no rosto. Sempre que pode continua contribuindo a distância e dando uns pitacos importantes nas nossas pesquisa.
 
-* Urbanista e Arquiteto
+* Urbanista e Arquiteto (UNIFACISA)
 * Mestrando em Urbanismo (Academie van bouwkunst, Amsterdam)
 * Urbanista Júnior no UNstudio (Amsterdam)

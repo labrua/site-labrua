@@ -4,13 +4,15 @@ image = "img/Fotos para Site/Gabriel.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Gabriel Gomes"
 showonlyimage = false
-weight = 91
+weight = 90
 +++
 
-Calmo, amigo e sempre com um sorriso no rosto.
+Está sempre está com um sorriso no rosto.
 <!--more-->
 
-Tenta ajudar com a frase mais confortante do vai dá tudo certo. Da mesmo! E quando da, Gabriel costuma comemorar, fazendo coisas que os jovens gostam de fazer.
+Opiniões fortes e personalidade marcante, ele vai até o fim pra defender suas ideias e aqueles de quem gosta, é um bom amigo.
+Sua hiperatividade alegra o ambiente, e sua determinação e faz com que tudo dê sempre certo. Gabriel costuma comemorar, (não) fazendo coisas os jovens gostam de fazer.
+
 
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)

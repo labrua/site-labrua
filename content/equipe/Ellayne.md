@@ -10,6 +10,6 @@ weight = 92
 Multifacetada.
 <!--more-->
 
-Foi de bombeira a diretora de colégio e no fim acabou na arquitetura e urbanismo. Além disso, a mulher leva jeito pra psicóloga e é mãe de Isabela.
+Foi de bombeira a diretora de colégio e no fim acabou na arquitetura e urbanismo.Calma, objetiva, e responsável, Ellayne é muito determinada e se ‘garante no que faz ela é maravilhosa ela é demais!’
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)

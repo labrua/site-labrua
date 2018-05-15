@@ -7,10 +7,10 @@ showonlyimage = false
 weight = 96
 +++
 
-Quieta e tranquila.
+De longe, uma guria tímida.
 <!--more-->
 
-Quando pega o microfone se transforma, ela engana com a carinha de acanhada. Amiga, leal e transparente, pode contar com ela a qualquer hora (Principalmente se for na hora da farra).
+De perto, uma mulher incrível. Sua calma e vontade de viver consertam todos os obstáculos e seu carisma cativa os que a rodeiam. Amiga, leal e transparente, pode contar com ela a qualquer hora.
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)
 * Presidente do DA de Arquitetura e Urbanismo da UNIFACISA

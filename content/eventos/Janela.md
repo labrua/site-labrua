@@ -7,10 +7,12 @@ title = "Janela"
 weight = 2
 +++
 
-
-
-Porque Janela
+Janelas são as aberturas das edificações, um dos principais elementos de ligação entre a rua e o interior dos edifícios, o local por onde podemos ter e ser os olhos da rua. Onde nossas impressões e contato com o espaço público acontecem.
 <!--more-->
+
+Com esse conceito criamos o *Janela*, um evento realizado pelo LabRua junto com o IAB.pb. A proposta é de realizar uma vez por mês diálogos sobre a cidade. A ideia do evento é que seja uma troca, inspirado no roda vida, trazemos pessoas para contar suas experiências e conversar sobre diversos temas que de alguma forma influenciam em termos cidades melhores. O objetivo central do evento é a troca, assim os participantes são convidados a serem protagonistas, alimentando o debate através de perguntas aos convidados.
+
+Todos os *Janelas* são gratuitos e acontecem no quintal da nossa casinha.
 
 
 

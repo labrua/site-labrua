@@ -7,9 +7,9 @@ showonlyimage = false
 weight = 95
 +++
 
-É a pessoa mais tímida desse Lab.
+A mais tímida desse Lab.
 <!--more-->
 
-Faz dança do ventre, só abre a boca quando tem certeza e é apaixonada por capivaras (vai entender esse povo).
+Sabe muito de português e gramática, é quase um aurélio humano, sempre está revisando os textos ou tirando as dúvidas nos nossos Labrueiros. Faz de dança do ventre à zumba. É super calada, e só abre a boca quando tem certeza.
 
 * Graduanda em Arquitetura e Urbanismo (UFCG)

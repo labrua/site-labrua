@@ -10,7 +10,8 @@ weight = 94
 Um amorzinho!
 <!--more-->
 
-Taurina avoada, afeição por diagramação e mapinhas, um desastre na cozinha mas boa companhia pra umas cervinhas.
+É a nossa garota internacional.
+Taurina avoada, afeição por diagramação e mapinhas, um desastre na cozinha mas boa companhia para umas cervinhas.
 
 * Urbanista e Arquiteta (UNIFACISA)
 * Mestranda Estudos Urbanos (Universidade Nova de Lisboa/ISCTE)

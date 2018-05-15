@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Raiff.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Raiff Mangueira"
 showonlyimage = false
-weight = 82
+weight = 81
 +++
 
 Nosso Babuíno, fazedor de música e arte urbana.

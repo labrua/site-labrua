@@ -13,9 +13,9 @@ Foi quem inventou tudo isso e fez todo mundo se encontrar.
 Mãe de Macalé, Brise, Elke e Presidente do Lab. Divide seus horários dando aula de urbanismo no curso de arquitetura e urbanismo da UNIFACISA. A -louca- mulher das bicicletas que sai dando aulas extras como convidada por aí. Na verdade, verdade mesmo, queria era ser crocheteira.
 
 
-* Urbanista e Arquiteta
-* Mestre em Engenharia Urbana
-* Doutoranda em Planejamento Urbano
+* Urbanista e Arquiteta (UFPB)
+* Mestre em Engenharia Urbana (PPGAU - UFPB)
+* Doutoranda em Planejamento Urbano (Universidade de Tecnologia de Eindhoven - Holanda)
 * Professora de Urbanismo e Planejamento Urbano na UNIFACISA
 * Conselheira Superior do IAB.pb
 * Conselheira Fiscal do IAB.br

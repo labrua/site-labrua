@@ -7,9 +7,10 @@ draft = false
 weight = 1
 +++
 
-CineLab...
+O CineLab é um evento criado pelo LabRua e promovido junto com o IAB.PB. A realização deste evento tem como foco discutir e pensar sobre os espaços públicos e a cidade de forma lúdica.
 <!--more-->
 
+Visto isso, o enfoque do CineLab é o de promover noites culturais, trazendo produções visuais (longas e curtas) que de alguma forma nos façam pensar sobre essas temáticas, no direito à cidade, na arquitetura e no urbanismo. As noites do CineLab acontecem mensalmente nas primeiras quintas-feiras do mês no quintal da nossa casinha (às vezes a gente muda a data, então verifica nossa agenda). A entrada é gratuita, mas quem quiser deixar uma colaboração é mais que bem-vindo.
 
 #### Filmes que já aconteceram no CineLab
 
