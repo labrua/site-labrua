@@ -4,7 +4,4 @@ date: 2017-11-02
 tag: Cinema
 ---
 
-Com amor no coração
-Preparamos a invasão
-Cheios de felicidade
-Entramos na cidade amada
+Esse espacinho aqui é para contar para vocês nosso dia-a-dia, as coisas que fazemos e acreditamos, e também outras informações bacanas que achamos bom compartilhar.

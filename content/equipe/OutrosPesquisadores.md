@@ -1,7 +1,8 @@
 +++
 draft = false
+image = "img/Fotos para Site/outros colab.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Outros Pesquisadores"
+title = "Outras Colaborações"
 showonlyimage = false
 weight = 4
 +++
