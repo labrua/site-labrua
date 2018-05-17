@@ -2,7 +2,7 @@
 date = "2018-04-05"
 title = "Lojinha"
 draft = false
-image = "img/eventos/Lojinha.jpg"
+image = "img/eventos/desenho lojinha.jpg"
 showonlyimage = false
 weight = 100
 +++
@@ -54,7 +54,7 @@ Foto da capa: Igor do Ó
 Você sabia que edifícios muito altos são prejudiciais à cidade?
 Além de fugirem da escala humana, evitarem os olhos da rua, eles elevam o custo do solo urbano e tornam menos provavél o desenvolvimento dos lotes vazios.
 
-O primeiro produto dessa coleção é o **É Difícil, Lucas**
+O primeiro produto dessa coleção são as camisetas **É Difícil, Lucas**
 O Edifício Lucas é uma edificação de uso misto, moderna, com 16 pavimentos que está localizada no Centro de Campina Grande.
 
 >**Valor R$35,00**
