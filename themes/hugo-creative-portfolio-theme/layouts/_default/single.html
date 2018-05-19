@@ -16,7 +16,11 @@
 
         {{if eq .Section "blog"}}
           <p class="date-comments">
-            <i class="fa fa-calendar-o"></i> {{ .Date.Format "2006-02-01" }}
+            <i class="fa fa-calendar-o"></i> {{ .Date.Format "2006-02-01" }};
+            {{ if .Params.tags }}
+              {{ if gt (len .Params.tags) 1 }}{{ end }}
+              {{ range $index, $director := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+            {{ end }}
           </p>
         {{end}}
 

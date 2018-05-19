@@ -4,7 +4,7 @@ draft = true
 image = "img/blog/capa contagem.JPG"
 date = "2018-05-16"
 title = "Metodologia de contagem dos modais"
-tag = "metodologia"
+tags = "metodologia"
 weight = 0
 +++
 
@@ -75,8 +75,8 @@ Como dito anteriormente, com a contagem direcional é possível entender o senti
 > local          | quando
 > ---   | ---:
 > *Açude Velho, estátua de Jackson do Pandeiro* |   maio/2017
-> *Açude Velho, ao lado do Cuca* |    
-> *Açude Velho, monumento dos 150 anos* |   
+> *Açude Velho, ao lado do Cuca* |
+> *Açude Velho, monumento dos 150 anos* |
 > *Rua Maciel Pinheiro*  |  março/2018
 > *Contagem de ciclistas em 12 pontos diferentes da cidade* (ver pesquisa sobre o Diagnóstico do uso da bicicleta)  |  outubro/2014
 

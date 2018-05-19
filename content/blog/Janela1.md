@@ -4,6 +4,7 @@ draft = false
 image = "img/blog/CAPA JANELA1.jpg"
 date = "2018-03-23"
 title = "JANELA | Cidade, Mulher e Cicloativismo"
+tags = ["janela","evento"]
 weight = 0
 +++
 
