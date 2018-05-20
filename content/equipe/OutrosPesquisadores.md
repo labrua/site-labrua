@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 4
 +++
 
-Que já contribuíram muito por aqui!
+Pesquisadores que já contribuíram muito por aqui!
 <!--more-->
 
 * Beatriz de Brito de Gomes
