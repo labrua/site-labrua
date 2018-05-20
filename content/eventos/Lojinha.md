@@ -20,8 +20,6 @@ De vez em quando lançamos algumas coleções, como a do ‘É Difícil’, mas 
 Veja mais abaixo os nossos produtos.
 
 
-Foto da capa: Igor do Ó
-
 <h4>Quer adquirir um de nossos produtos?</h4>
 <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/lojinha@labrua.org">
   <div class="controls">
