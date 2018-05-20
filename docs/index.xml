@@ -6,6 +6,7 @@
     <description>Recent content on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <copyright>&amp;copy;2017 LabRua</copyright>
     <lastBuildDate>Sun, 05 Nov 2017 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/index.xml" rel="self" type="application/rss+xml" />
@@ -178,8 +179,8 @@
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/equipe/tha%C3%ADs/</guid>
-      <description>É Paixão! Com esse sobrenome não precisa dizer mais nada. Mas pra não deixar de falar de Thaís, ela é muito sentimental, adora cactos mas acaba matando os bichinhos. Uma paulista - pernambucana - quase baiana, que veio perambular pelas bandas da Paraíba.
- Graduanda em Arquitetura e Urbanismo (UNIFACISA) </description>
+      <description>&lt;p&gt;É Paixão!
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -188,8 +189,7 @@
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/equipe/sabrina/</guid>
-      <description> Como toda virginiana é muito perfeccionista. Diretamente de Monteiro, terra do nosso querido Flávio José e Magníficos, ela muito ansiosa e adora tomar um sorim.
- Graduanda em Arquitetura e Urbanismo (UNIFACISA) </description>
+      <description></description>
     </item>
     
     <item>
@@ -238,7 +238,7 @@
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/equipe/pablo/</guid>
-      <description>&lt;p&gt;&amp;lsquo;aposenpablo&amp;rsquo;
+      <description>&lt;p&gt;Coordenador do CineLab
 &lt;/p&gt;</description>
     </item>
     
@@ -288,7 +288,7 @@
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/equipe/gabriel/</guid>
-      <description>&lt;p&gt;Está sempre está com um sorriso no rosto.
+      <description>&lt;p&gt;Está sempre com um sorriso no rosto.
 &lt;/p&gt;</description>
     </item>
     

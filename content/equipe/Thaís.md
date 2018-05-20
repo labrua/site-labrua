@@ -9,6 +9,7 @@ weight = 77
 
 É Paixão!
 <!--more-->
+
 Com esse sobrenome não precisa dizer mais nada.
 Mas pra não deixar de falar de Thaís, ela é muito sentimental, adora cactos mas acaba matando os bichinhos. Uma paulista - pernambucana - quase baiana, que veio perambular pelas bandas da Paraíba.
 

@@ -7,12 +7,10 @@ showonlyimage = false
 weight = 90
 +++
 
-Está sempre está com um sorriso no rosto.
+Está sempre com um sorriso no rosto.
 <!--more-->
 
-Opiniões fortes e personalidade marcante, ele vai até o fim pra defender suas ideias e aqueles de quem gosta, é um bom amigo.
-Sua hiperatividade alegra o ambiente, e sua determinação e faz com que tudo dê sempre certo. Gabriel costuma comemorar, (não) fazendo coisas os jovens gostam de fazer.
-
+Com opiniões fortes e personalidade marcante, ele vai até o fim para defender suas ideias. Sua hiperatividade alegra o ambiente, e sua determinação faz com que tudo dê sempre certo. E quando dá, Gabriel costuma comemorar, (não) fazendo coisas que os jovens gostam de fazer.
 
 
 * Graduando em Arquitetura e Urbanismo (UNIFACISA)
