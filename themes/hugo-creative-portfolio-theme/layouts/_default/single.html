@@ -19,7 +19,7 @@
             <i class="fa fa-calendar-o"></i> {{ .Date.Format "2006-02-01" }};
             {{ if .Params.tags }}
               {{ if gt (len .Params.tags) 1 }}{{ end }}
-              {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="{{ .Site.BaseURL}}{{ "tags/" }}">{{ . }}</a>{{ end }}
+              {{ range $index, $tag := .Params.tags }}{{ if gt $index 0 }}, {{ end }}<a href="../../{{ "tags/" }}{{ . }}">{{ . }}</a>{{ end }}
             {{ end }}
           </p>
         {{end}}
