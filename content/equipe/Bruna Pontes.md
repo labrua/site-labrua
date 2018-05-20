@@ -15,3 +15,4 @@ Taurina avoada, afeição por diagramação e mapinhas, um desastre na cozinha m
 
 * Urbanista e Arquiteta (UNIFACISA)
 * Mestranda Estudos Urbanos (Universidade Nova de Lisboa/ISCTE)
+* Mobilizadora do Minha Campina
