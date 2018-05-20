@@ -7,7 +7,7 @@ title = "Festejos juninos de Campina Grande-PB"
 weight = 5
 +++
 
-O Parque do Povo é o espaço público central de Campina Grande que vira foco durante o período junino por abrigar a tradicional festa de São João. Crescente em influência a cada temporada, o local se modifica e, ao mesmo tempo, molda as dinâmicas locais urbanas, trazendo massa turística e levantando questões sobre demanda/oferta de mobilidade, segurança, usos, variações de layout e organização ao longo do tempo.
+O Parque do Povo é o espaço público central de Campina Grande que vira foco durante o período junino por abrigar a maior festa de São João. Crescente em influência a cada ano, o local se modifica e, ao mesmo tempo, molda as dinâmicas locais urbanas, trazendo massa turística e levantando questões sobre demanda/oferta de mobilidade, segurança, usos, variações de layout e organização ao longo do tempo.
 <!--more-->
 
 A realização de festividades no espaço público é uma forma de apropriação urbana e de estratégia para incentivar os experimentos e as relações sociais. Dentro deste cenário, o município de Campina Grande se caracteriza por abarcar esse tipo de apropriação, a exemplo dos festejos juninos, tendo o nacionalmente conhecido: “Maior São João do Mundo”.

@@ -7,7 +7,7 @@ title = "Vazios Centrais de Campina Grande-PB"
 weight = 4
 +++
 
-O perímetro do Centro Histórico de Campina Grande protegido pelo IPHAEP vem passando por diversas transformações com o passar do tempo. A cidade cresce - perifericamente - e o Centro passa a ter cada vez mais espaços urbanos ociosos. Embora seja uma área consolidada e dinâmica, bastante conhecida pelos comércios e serviços, os lotes e imóveis vazios estão dando espaço para um novo uso em especial, os estacionamentos.  
+O perímetro do Centro Histórico de Campina Grande protegido pelo IPHAEP vem passando por diversas transformações. A cidade cresce - perifericamente - e o Centro passa a ter cada vez mais espaços urbanos ociosos. Embora seja uma área consolidada e dinâmica, bastante conhecida pelos comércios e serviços, os lotes e imóveis vazios estão dando espaço para um novo uso em especial, os estacionamentos.  
 <!--more-->
 
 A área é bastante conhecida e utilizada pelos campinenses. Assim, buscamos atrair e contribuir para a formação do pensamento crítico da população acerca dos usos do solo impostos na cidade.
