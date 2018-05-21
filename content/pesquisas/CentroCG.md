@@ -30,7 +30,7 @@ Esta pesquisa apresenta uma análise do núcleo central de Campina Grande feita 
 
 > [Comportamento de pedestres, configuração das fachadas e mobiliário urbano na Rua Maciel Pinheiro, Campina Grande, Paraíba.](../../pdf/Artigo_comportamento maciel pinheiro.pdf)
 
-> [O centro de Campina Grande na percepção dos seus usuário: O caso da Rua Maciel Pinheiro.](../../pdf/Artigo_percepção maciel pinheiro.pdf)
+> [O centro de Campina Grande na percepção dos seus usuário: O caso da Rua Maciel Pinheiro.](../../pdf/Artigo_percepcao maciel pinheiro.pdf)
 
 > Beatriz Brito: Projeto de redesenho das ruas do núcleo central de Campina Grande-PB.
 

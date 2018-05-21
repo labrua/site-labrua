@@ -4,7 +4,7 @@ draft = true
 image = "img/blog/capa contagem.JPG"
 date = "2018-05-16"
 title = "Metodologia de contagem dos modais"
-tags = "metodologia"
+tags = ["metodologia","contagem modais"]
 weight = 0
 +++
 
@@ -73,7 +73,7 @@ Como dito anteriormente, com a contagem direcional é possível entender o senti
 
 ##### Campina Grande
 > local          | quando
-> ---   | ---:
+> -----     | ---:
 > *Açude Velho, estátua de Jackson do Pandeiro* |   maio/2017
 > *Açude Velho, ao lado do Cuca* |
 > *Açude Velho, monumento dos 150 anos* |

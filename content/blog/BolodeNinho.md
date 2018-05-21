@@ -1,22 +1,51 @@
 +++
 showonlyimage = false
 draft = true
-image = "img/blog/CAPA JANELA1.jpg"
-date = "2018-03-23"
-title = "Bolo de Ninho"
+image = "img/blog/bolo de rita.JPG"
+date = "2018-05-20"
+title = "Bolo de chocolate com cobertura de leite ninho"
 weight = 0
-tags = "receita"
+tags = ["receita"]
 +++
 
-###### *por Rita Gurjão*
 
 O LabRua, junto com o IAB.pb, iniciaram no mês de março o evento chamado *janela*, que tem a proposta realizar uma vez por mês diálogos sobre experiências com a cidade.
 <!--more-->
 
-A ideia do evento é que seja uma troca, inspirado no roda vida, trazemos pessoas para conversar sobre diversos temas que de alguma forma influenciam em termos cidades melhores. O objetivo central do evento é de troca, os participantes são convidados a serem protagonistas, alimentando o debate através de perguntas aos convidados.
+<H6>por Rita Gurjão</H6>
 
-A escolha do nome se deu pela janela ser o principal elemento de ligação entre a rua e os edifícios, o local por onde podemos ter nossos olhos da rua. Onde nossas impressões e contato com o espaço público acontece.
+#### Bolo de chocolate
 
-O primeiro contou com a presença de **Maria Gouveia** para falar do tema **Cidade, Mulher e Cicloativismo**. Maria trouxe sua experiência como ciclista, sua relação entre ser mulher e ocupar o espaço público, além de todas as batalhas contra a força da cultura do automóvel, força essa que transformou em prazer, prazer de estar nas ruas e tentar fazer com que mais pessoas percebam como é feliz estar de bicicleta na cidade. Além de contar sua história de cicloativismo em Campina Grande desde que chegou aqui de Fortaleza, Maria nos deixou com vontade de de se fazer mais presente no espaço público. E ela continua firme e forte em fazer mais pessoas entenderem essa alegria, através do trabalho no Bike Anjo, no Minha Campina e nos Novos Urbanos.
+<dt>ingredientes</dt>
 
-![visao geral](../../img/blog/janela2.jpeg)
+* 3 ovos grandes
+* ¼ xícara de leite
+* 1 xícara de açúcar
+* 1 xícara de chocolate em pó
+* 1 xícara de óleo canola
+* 1 xícara de água
+* 2 xícaras de farinha de trigo
+* 1 colher (sopa) de fermento em pó
+* Manteiga, farinha e chocolate para untar e polvilhar a forma.
+
+<dt>modo de fazer</dt>
+
+Pré-aqueça o forno a 180°C.
+Junte todos os ingredientes secos peneirados em um recipiente: farinha, chocolate, açúcar e fermento.
+Em um outro recipiente junte os ovos, o leite, a água e o óleo. Aos poucos, adicione os ingredientes secos a mistura dos líquidos, com o auxílio de um fouet, até obter uma mistura homogênea.
+Leve para assar por cerca de 30 a 40 minutos ou até colocar um palito e este sair seco.
+
+#### Cobertura de leite Ninho
+
+<dt>ingredientes</dt>
+
+* 2 latas de leite condensado
+* 2 colheres (sopa) de manteiga
+* 50 gramas de barra de chocolate branco *[eu uso batom ou laka]*  
+
+<dt>modo de fazer</dt>
+
+Leve ao fogo até engrossar um pouco. Quando chegar no ponto de brigadeiro mole, retire do fogo e adicione:
+1 e ½ caixa de creme de leite, 6 colheres (sopa) cheias de leite Ninho *[dica: utilize um fouet para não formar bolinhas do leite em pó]*
+
+> Espere o bolo esfriar e coloque a cobertura por cima. Com uma peneira, polvilhe o leite ninho na cobertura.
