@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = true
 image = "img/blog/capa contagem.JPG"
-date = "2018-05-16"
+date = "2018-05-22"
 title = "Metodologia de contagem dos modais"
 tags = ["metodologia","contagem modais"]
 weight = 0

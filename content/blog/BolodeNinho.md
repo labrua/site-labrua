@@ -2,15 +2,21 @@
 showonlyimage = false
 draft = true
 image = "img/blog/bolo de rita.JPG"
-date = "2018-05-20"
+date = "2018-05-10"
 title = "Bolo de chocolate com cobertura de leite ninho"
 weight = 0
 tags = ["receita"]
 +++
 
 
-O LabRua, junto com o IAB.pb, iniciaram no mês de março o evento chamado *janela*, que tem a proposta realizar uma vez por mês diálogos sobre experiências com a cidade.
+De 15 em 15 dias fazemos nossas reuniões gerais. Momento de trocas, planejamento e de encontrar todo mundo do Lab. E claro, de tomar um café com lanches deliciosos. Um dos nossos queridos é o *bolo de chocolate com cobertura de leite ninho* feito pela pesquisadora Rita. Aqui a gente compartilha com vocês a receita dessa belezura.
 <!--more-->
+
+Os dias de reunião geral são dias muito queridos no nosso Lab. Já foi nas sextas-feiras, agora é nas segundas-feiras, o dia não não importa tanto, o essencial é nos reunirmos para conversar como estão as pesquisas, planejar os nossos próximos eventos, nossas próximas ideias e garantir que todos se encontrem.
+
+Como vocês podem ver na aba da 'equipe', nós somos muitos, mais de 20! Então não dá para todos trabalharem todos os dias no LabRua. Aí a gente funciona assim: cada dia tem uma pesquisa diferente trabalhando. Alguns dias, tem mais de uma. Então as reuniões geral são essenciais para todo mundo se encontrar.
+
+Durante a reunião, falamos do que aprendemos, das dificuldades e das experiências com as pesquisas, assim, é o momento também dos labrueiros saberem o que tá se passando nas outras pesquisas. Aí claro, a gente aproveita para fazer aquele café, com um lanche mais especial. Um dos lanches queridos é o bolo de chocolate com cobertura de leite ninho que Rita, uma de nossas pesquisadoras, faz. Na verdade, bolo é a cara da gente! E melhor ainda quando é feito por uma das pessoas do Lab e com cobertura!
 
 <H6>por Rita Gurjão</H6>
 
