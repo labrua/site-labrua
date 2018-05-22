@@ -198,6 +198,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/contagens/</loc>
+    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/janela1/</loc>
     <lastmod>2018-03-23T00:00:00+00:00</lastmod>
   </url>
@@ -249,6 +254,12 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/contagem-modais/</loc>
+    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/evento/</loc>
     <lastmod>2018-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -263,6 +274,12 @@
   <url>
     <loc>https://labrua.github.io/site-labrua/</loc>
     <lastmod>2017-11-05T19:44:32+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/metodologia/</loc>
+    <lastmod>2018-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
