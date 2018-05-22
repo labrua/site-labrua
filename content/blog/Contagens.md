@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = true
+draft = false
 image = "img/blog/capa contagem.JPG"
 date = "2018-05-22"
 title = "Metodologia de contagem dos modais"
