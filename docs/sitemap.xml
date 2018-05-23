@@ -198,6 +198,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/bolodeninho/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/contagens/</loc>
     <lastmod>2018-05-22T00:00:00+00:00</lastmod>
   </url>
@@ -280,6 +285,12 @@
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/metodologia/</loc>
     <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/receita/</loc>
+    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

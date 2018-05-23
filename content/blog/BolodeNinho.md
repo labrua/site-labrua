@@ -1,8 +1,8 @@
 +++
 showonlyimage = false
-draft = true
+draft = false
 image = "img/blog/bolo de rita.JPG"
-date = "2018-05-10"
+date = "2018-05-23"
 title = "Bolo de chocolate com cobertura de leite ninho"
 weight = 0
 tags = ["receita"]
@@ -54,4 +54,4 @@ Leve para assar por cerca de 30 a 40 minutos ou até colocar um palito e este sa
 Leve ao fogo até engrossar um pouco. Quando chegar no ponto de brigadeiro mole, retire do fogo e adicione:
 1 e ½ caixa de creme de leite, 6 colheres (sopa) cheias de leite Ninho *[dica: utilize um fouet para não formar bolinhas do leite em pó]*
 
-> Espere o bolo esfriar e coloque a cobertura por cima. Com uma peneira, polvilhe o leite ninho na cobertura.
+Espere o bolo esfriar e coloque a cobertura por cima. Com uma peneira, polvilhe o leite ninho na cobertura.
