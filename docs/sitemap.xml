@@ -198,6 +198,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/sociatos/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/bolodeninho/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -265,6 +270,12 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/debate/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/evento/</loc>
     <lastmod>2018-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -289,8 +300,20 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/palestra/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/receita/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/sociatos/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
