@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy;2017 LabRua</copyright>
-    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cidades Sem Carro</title>
+      <link>https://labrua.github.io/site-labrua/tags/cidades-sem-carro/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/cidades-sem-carro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cinema</title>
@@ -90,6 +99,15 @@
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/sociatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tradução</title>
+      <link>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     
