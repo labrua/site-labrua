@@ -198,6 +198,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/capit%C3%B3lio/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/banircarros/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
   </url>
@@ -258,6 +263,12 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/capit%C3%B3lio/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/categories/</loc>
     <priority>0</priority>
   </url>
@@ -270,7 +281,7 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/cinema/</loc>
-    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -311,6 +322,12 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/ocupar/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/palestra/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -330,7 +347,7 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/</loc>
-    <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

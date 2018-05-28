@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy;2017 LabRua</copyright>
-    <lastBuildDate>Fri, 25 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Capitólio</title>
+      <link>https://labrua.github.io/site-labrua/tags/capit%C3%B3lio/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/capit%C3%B3lio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cidades Sem Carro</title>
@@ -24,7 +33,7 @@
     <item>
       <title>Cinema</title>
       <link>https://labrua.github.io/site-labrua/tags/cinema/</link>
-      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/cinema/</guid>
       <description></description>
@@ -72,6 +81,15 @@
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/metodologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocupar</title>
+      <link>https://labrua.github.io/site-labrua/tags/ocupar/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/ocupar/</guid>
       <description></description>
     </item>
     
