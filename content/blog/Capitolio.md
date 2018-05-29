@@ -40,6 +40,19 @@ O evento foi inspirado no trabalho promovido pelo Coletivo Micrópolis: 99 ideia
 
 > Para saber mais sobre o projeto do Micrópolis: http://micropolis.com.br/99-Ideias-para-um-Cinema-de-Rua-1
 
+<H5>CineLab #4 - Aquarius</H5>
+Às 18:30 vamos fazer exibição de cinema. O filme escolhido é Aquarius, dirigido por Kleber Mendonça Filho.
+
+Sinopse: Clara é uma jornalista aposentada e escritora, dona de um aconchegante apartamento repleto de livros e discos. Ela trava um confronto entre o velho e o novo contra uma construtora que resulta em ameaças veladas e provocações. O objetivo é pôr tudo abaixo e construir um prédio novo, mas Clara se recusa a vendê-lo. Defende a memória criada no Edifício Aquarius, onde é seu lar há décadas, foi onde criou seus filhos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VB-5rodvHUc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<H4>Registre sua ideia</H4>
+
 **Venha participar também!** Traga sua ideia e seu banquinho para assistirmos o filme.O Capitólio é nosso e devemos ser ouvidos antes de qualquer intervenção!!!
+
+> Caso você não possa ir no dia, não se preocupe. O *Minha Campina* criou um formulário para que você possa participar de onde estiver. Só acessar o site: http://www.eaicapitolio.minhacampina.org.br/
+
 
 Para saber mais você pode acompanhar o evento no facebook e o instagram dos organizadores.
