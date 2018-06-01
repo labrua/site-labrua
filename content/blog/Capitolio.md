@@ -56,3 +56,33 @@ Sinopse: Clara é uma jornalista aposentada e escritora, dona de um aconchegante
 
 
 Para saber mais você pode acompanhar o evento no facebook e o instagram dos organizadores.
+
+<H4>Saiu na imprensa</H4>
+
+* Sobre a intervenção no Rede de Notícias 29/05/2018:
+
+http://rededenoticias.com/index.php/2018/05/29/evento-vai-discutir-com-a-populacao-o-presente-e-o-futuro-do-cine-capitolio/
+
+* Sobre a intervenção no Portal Correio 29/05/2018:
+
+https://portalcorreio.com.br/evento-discute-funcionamento-do-cine-theatro-capitolio-nesta-quarta-em-cg/
+
+* Sobre a intervenção da tv Cariri 29/05/2018:
+
+https://www.portaltvcariri.com.br/evento-discute-funcionamento-do-cine-theatro-capitolio-nesta-quarta-em-cg/
+
+* Interdição da calçada do Cine Capitólio 17/05/2018:
+
+https://www.youtube.com/watch?v=1D0nXLejj4M
+
+* Projeto para o Cine Capitólio 11/05/2018:
+
+http://g1.globo.com/pb/paraiba/bom-dia-pb/videos/t/edicoes/v/novo-projeto-para-o-cine-capitolio-e-apresentado-em-campina-grande/6728322/
+
+* Reunião sobre o Cine Capitólio dia 11/05/2018
+
+https://www.youtube.com/watch?v=nIqTDw7s8YQ
+
+* Lei da Parceria Público Privada 15/06/2015
+
+https://www.youtube.com/watch?v=oYSreWlTIgM
