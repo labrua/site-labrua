@@ -21,9 +21,8 @@ Visto isso, o enfoque do CineLab é o de promover noites culturais, trazendo pro
 > *Filhos da Esperança* |   03/05/2018
 > *Aquarius* |   30/05/2018
 
-Em abril de 2018, o projeto CineLab saiu no Programa Diversidades da Tv Itararé. Dá pra conhecer um pouco mais sobre esse projeto aqui.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bcui99qEwyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+* Outras atualizações sobre o CineLab pode ser encontradas aqui: http://www.labrua.org/blog/cinelab1/
 
 
 <style>
