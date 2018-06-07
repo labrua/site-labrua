@@ -1,6 +1,6 @@
 +++
-draft = true
-image = "img/Fotos para Site/persio.jpg"
+draft = false
+image = "img/Fotos para Site/Priscilla.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Priscilla Brito"
 showonlyimage = false
