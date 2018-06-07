@@ -13,7 +13,10 @@ Pesquisadores que já contribuíram muito por aqui!
 * Beatriz de Brito de Gomes
 * Fernanda Gomes de Macedo
 * Hanna Thayse Rocha Fernandes
+* Julieta de Albuquerque Rangel Arcoverde
+* Maria Beatriz Tomaz Pereira
 * Marihana Sevy Cirne Tavares
 * Paloma Germana Pinto Marinho
+* Rita de Cassia Gurjão de Souza
 * Sarah Silva Sousa Lima
 * Sarah Souto Guedes
