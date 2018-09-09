@@ -6,7 +6,6 @@
     <description>Recent content on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy;2017 LabRua</copyright>
     <lastBuildDate>Sun, 05 Nov 2017 19:44:32 +0530</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/index.xml" rel="self" type="application/rss+xml" />
@@ -189,7 +188,8 @@
       <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/equipe/sabrina/</guid>
-      <description></description>
+      <description> Como toda virginiana é muito perfeccionista. Diretamente de Monteiro, terra do nosso querido Flávio José e da banda Magníficos, ela é muito ansiosa e adora tomar um sorim.
+ Graduanda em Arquitetura e Urbanismo (UNIFACISA) </description>
     </item>
     
     <item>
@@ -410,6 +410,16 @@
       
       <guid>https://labrua.github.io/site-labrua/equipe/aida/</guid>
       <description>&lt;p&gt;Foi quem inventou tudo isso e fez todo mundo se encontrar.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uma análise do índice de caminhabilidade em Esperança</title>
+      <link>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</guid>
+      <description>&lt;p&gt;A pesquisa que o LabRua vem desenvolvendo na cidade de Esperança, incluiu uma análise detalhada da área central do município e levantou várias questões sobre a condição de circulação dos pedestres que circulam na área. Impulsionados pelo tema, a equipe de envolvida analisou o índice de caminhabilidade em seu núcleo central.
 &lt;/p&gt;</description>
     </item>
     

@@ -203,6 +203,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/capitolio/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -265,6 +270,12 @@
   <url>
     <loc>https://labrua.github.io/site-labrua/sobre/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/caminhabilidade/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -339,8 +350,20 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/pesquisa/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/receita/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/resultados/</loc>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -352,7 +375,7 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

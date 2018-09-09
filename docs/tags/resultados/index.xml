@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resultados on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/resultados/</link>
+    <description>Recent content in Resultados on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/resultados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uma análise do índice de caminhabilidade em Esperança</title>
+      <link>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</guid>
+      <description>&lt;p&gt;A pesquisa que o LabRua vem desenvolvendo na cidade de Esperança, incluiu uma análise detalhada da área central do município e levantou várias questões sobre a condição de circulação dos pedestres que circulam na área. Impulsionados pelo tema, a equipe de envolvida analisou o índice de caminhabilidade em seu núcleo central.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

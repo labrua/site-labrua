@@ -6,11 +6,20 @@
     <description>Recent content in Blog on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy;2017 LabRua</copyright>
     <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uma análise do índice de caminhabilidade em Esperança</title>
+      <link>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</guid>
+      <description>&lt;p&gt;A pesquisa que o LabRua vem desenvolvendo na cidade de Esperança, incluiu uma análise detalhada da área central do município e levantou várias questões sobre a condição de circulação dos pedestres que circulam na área. Impulsionados pelo tema, a equipe de envolvida analisou o índice de caminhabilidade em seu núcleo central.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>E aí, Capitólio?</title>

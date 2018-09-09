@@ -6,11 +6,19 @@
     <description>Recent content in Tags on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy;2017 LabRua</copyright>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caminhabilidade</title>
+      <link>https://labrua.github.io/site-labrua/tags/caminhabilidade/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/caminhabilidade/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Capitólio</title>
@@ -103,11 +111,29 @@
     </item>
     
     <item>
+      <title>Pesquisa</title>
+      <link>https://labrua.github.io/site-labrua/tags/pesquisa/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/pesquisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Receita</title>
       <link>https://labrua.github.io/site-labrua/tags/receita/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/receita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resultados</title>
+      <link>https://labrua.github.io/site-labrua/tags/resultados/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/resultados/</guid>
       <description></description>
     </item>
     
