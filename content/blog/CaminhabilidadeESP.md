@@ -17,7 +17,7 @@ A pesquisa que o LabRua vem desenvolvendo na cidade de Esperança, incluiu uma a
 As cidades brasileiras vêm crescendo e se organizando de forma que seu desenho se adapte aos meios de transporte atuantes. O que vem ocorrendo, a partir disso, é a priorização do veículo motorizado individual, e pouco atenção é dada aos veículos não-motorizados e transporte coletivos. Essa relação não foi diferente em Esperança, localizada no interior da Paraíba e com uma população de 36 mil habitantes (IBGE, 2017).
 
 <H6>Mapa de localização do núcleo central de Esperança-PB</H6>
-![Mapa de Localização](../../img/blog/localizacaoesperanca.png)
+![Mapa de Localização](../../img/blog/localizacaoesp.png)
 
 O município estudado, mesmo diante deste cenário, ainda é um praticante do pedestrianismo. Todavia, apesar de se ter um grande número de pedestres nos espaços públicos do núcleo central, a caminhada não é incentivada devido à falta de infraestrutura adequada. O que se percebe é que o núcleo central se tornou um local apenas de passagem e de pouca permanência de pessoas nos espaços públicos.
 
@@ -31,7 +31,7 @@ Este índice permite que seja feita uma avaliação do espaço urbano diagnostic
 
 
 <H6>Tabela 1 | Resultado da aplicação do índice de Caminhabilidade das ruas Manoel Rodrigues de Oliveira e Clemente de Farias. </H6>
-![Tabela Caminhabilidade](../../img/blog/tabelacaminhabilidadeesp.jpg)
+![Tabela Caminhabilidade](../../img/blog/tabelacaminhabilidadeesperanca.jpg)
 
 Apesar do alto número de pedestres circulando no núcleo central de Esperança, os resultados demonstram que o índice de caminhabilidade das ruas estudadas é insatisfatório. Das seis variáveis analisadas uma apresentou resultado insuficiente e as demais apresentaram resultado aceitável. Esse resultado demonstra que há pouca atenção e investimentos sendo despendidos em ações que priorizem as calçadas e demais espaços para os pedestres.
 
