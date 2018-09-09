@@ -29,4 +29,4 @@ Esta pesquisa apresenta uma análise do centro de Esperança feita através de l
 
 > [Hillary Pereira | Redesenho das Ruas Manoel Rodrigues de Oliveira e Clementino Farias na Cidade de Esperança-PB.](../../pdf/TCC Hillary Pereira.pdf)
 
-> [Robson Porto | Um Olhar sobre a Pequena Metrópole: A Requalificação dos Espaços Centrais em Esperança-PB.](../../pdf/TCC Robson Porto.pdf)
+> [Robson Porto | Um Olhar sobre a Pequena Metrópole: A Requalificação dos Espaços Centrais em Esperança-PB.](https://drive.google.com/a/labrua.org/file/d/15a2A08LVAr6lVF0hvmZYh64vbnMp8tbt/view?usp=sharing)
