@@ -17,7 +17,7 @@ Esta pesquisa apresenta uma análise do centro de Esperança feita através de l
 
 
 #### Análises produzidas nessa pesquisa
-* Levantamento geométrico da área
+* Levantamento geométrico da área ([.dwg da área disponível aqui](../../pdf/MapaEsperanca.dwg))
 * Contagem de meios de transporte em cruzamentos importantes da cidade
 * Entrevistas com usuários da área
 * Levantamento dos mobiliários urbanos
@@ -25,8 +25,8 @@ Esta pesquisa apresenta uma análise do centro de Esperança feita através de l
 * Análise das fachadas usando a metodologia de Gehl
 
 #### Alguns resultados
-> A área de estudo é tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
+> A área de estudo foi tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
 
-> [Hillary Pereira: Redesenho das Ruas Manoel Rodrigues de Oliveira e Clementino Farias na Cidade de Esperança-PB.](../../pdf/TCC Hillary Pereira.pdf)
+> [Hillary Pereira | Redesenho das Ruas Manoel Rodrigues de Oliveira e Clementino Farias na Cidade de Esperança-PB.](../../pdf/TCC Hillary Pereira.pdf)
 
-> Robson Porto
+> [Robson Porto | Um Olhar sobre a Pequena Metrópole: A Requalificação dos Espaços Centrais em Esperança-PB.](../../pdf/TCC Robson Porto.pdf)
