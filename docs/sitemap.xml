@@ -203,6 +203,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/representatividadedocorpo/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/caminhabilidadeesp/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
   </url>
@@ -308,8 +313,20 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/corpo/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/debate/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-urbano/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -358,6 +375,12 @@
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/receita/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/representatividade/</loc>
+    <lastmod>2018-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
