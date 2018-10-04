@@ -46,6 +46,17 @@ Veja mais abaixo os nossos produtos.
 </form>
 
 
+### Bottons
+Agora nossa lojinha também tem bottons! Aproveitando o novo logotipo, fizemos esses bottons lindos e divertidos para vocês.
+
+**Temos cinco opções!**
+
+>**Valor R$3,00 (2x R$5,00)**
+
+>Se ficou afim, é só entrar em contato com a gente pelo site do LabRua, ir aos nossos eventos ou nos visitar. Podemos combinar também a entrega em locais como UFCG, UFPB e UniFacisa!
+
+
+![Bottons LabRua](../../img/Lojinha/bottons.gif)
 
 
 ### Coleção 'É DIFÍCIL'
