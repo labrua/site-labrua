@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = true
-image = "img/blog/banir carros/stuttgart.jpg"
+image = "img/blog/copenhage1.jpeg"
 date = "2018-10-06"
 title = "Uso da bicicleta em Copenhage"
-tags = ["tradução","cidades sem carro"]
+tags = ["copenhage","bicicleta","viagem"]
 weight = 0
 +++
 
@@ -33,4 +33,4 @@ Entendi que uma cidade bem planejada é fundamental; que uma sociedade bem estru
 
 Me despedi de Copenhague com um até breve e com o desejo de incorporar, em meu cotidiano, o uso da bicicleta como um meio de transporte.
 
-![Babu](../../img/blog/banir carros/newyork.jpg)
+![Copenhage](../../img/blog/copenhage2.jpeg)![Copenhage](../../img/blog/copenhage3.jpeg)
