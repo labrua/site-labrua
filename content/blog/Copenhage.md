@@ -33,4 +33,6 @@ Entendi que uma cidade bem planejada é fundamental; que uma sociedade bem estru
 
 Me despedi de Copenhague com um até breve e com o desejo de incorporar, em meu cotidiano, o uso da bicicleta como um meio de transporte.
 
-![Copenhage](../../img/blog/copenhage2.jpeg)![Copenhage](../../img/blog/copenhage3.jpeg)
+![Copenhage](../../img/blog/copenhage2.jpeg)
+
+![Copenhage](../../img/blog/copenhage3.jpeg)
