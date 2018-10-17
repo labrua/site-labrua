@@ -203,6 +203,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/copenhage/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/representatividadedocorpo/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
   </url>
@@ -278,6 +283,12 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/bicicleta/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/caminhabilidade/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -309,6 +320,12 @@
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/contagem-modais/</loc>
     <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/copenhage/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -398,13 +415,19 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/viagem/</loc>
+    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

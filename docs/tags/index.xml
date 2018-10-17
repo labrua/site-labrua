@@ -6,10 +6,19 @@
     <description>Recent content in Tags on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 04 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bicicleta</title>
+      <link>https://labrua.github.io/site-labrua/tags/bicicleta/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/bicicleta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Caminhabilidade</title>
@@ -53,6 +62,15 @@
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/contagem-modais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copenhage</title>
+      <link>https://labrua.github.io/site-labrua/tags/copenhage/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/copenhage/</guid>
       <description></description>
     </item>
     
@@ -179,6 +197,15 @@
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viagem</title>
+      <link>https://labrua.github.io/site-labrua/tags/viagem/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/viagem/</guid>
       <description></description>
     </item>
     

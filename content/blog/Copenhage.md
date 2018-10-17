@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = true
+draft = false
 image = "img/blog/copenhage1.jpeg"
 date = "2018-10-06"
 title = "Uso da bicicleta em Copenhage"

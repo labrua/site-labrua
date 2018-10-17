@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copenhage on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/copenhage/</link>
+    <description>Recent content in Copenhage on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/copenhage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uso da bicicleta em Copenhage</title>
+      <link>https://labrua.github.io/site-labrua/blog/copenhage/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/copenhage/</guid>
+      <description>&lt;p&gt;Copenhague. Minha primeira viagem internacional. Meu primeiro contato, efetivo, com outras culturas. Dois meses de muito aprendizado e novas experiências, sendo uma das mais marcantes, no sentido literal da palavra, o uso da bicicleta como meu principal meio de transporte.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
