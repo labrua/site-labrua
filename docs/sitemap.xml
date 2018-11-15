@@ -203,6 +203,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/essevazio/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/copenhage/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url>
@@ -302,6 +307,12 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/centro-urbano/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -408,6 +419,12 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/simula%C3%A7%C3%A3o/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/sociatos/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -422,6 +439,12 @@
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</loc>
     <lastmod>2018-05-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/vazios-urbanos/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
