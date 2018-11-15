@@ -11,7 +11,7 @@ weight = 0
 Os centros urbanos das cidades brasileiras sofreram muitas mudanças nas dinâmicas ao longo do tempo. Espaços (do urbano ao arquitetônico) com grande relevância no contexto cultural, econômico e social das cidades vêm passando por processos de abandono e expulsão.
 <!--more-->
 
-<H6>por Allyson Barbosa, Claudia Palmeira, Persio Padre e Thaís Paixão</H6>
+<H5>por Allyson Barbosa, Claudia Palmeira, Persio Padre e Thaís Paixão</H5>
 
 Em Campina Grande o cenário não é diferente, o núcleo central é conhecido pelas diversas intervenções ao longo do tempo, como é o caso da higienização promovida pelo governo de Vergniaud Wanderley em meados da década de 1930, que na busca pelo embelezamento da área, expulsou pessoas e moradias das edificações do núcleo central.
 
