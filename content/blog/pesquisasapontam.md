@@ -35,21 +35,26 @@ Ao longo de dois dias, labrueiros e convidados analisaram dados e produziram div
 
 Ao longo do ano de 2018, o LabRua coletou diversas informações sobre a cidade de Campina Grande, a maioria delas concentradas na área central da cidade, como o núcleo central e o Açude Velho. Usamos esses dados para elaborar as ações que fizemos nessa maratona, que se relacionam com o que nossos dados apontam.
 
+Fizemos um levantamento na área que chamamos de Núcleo Central, que compreende as ruas Marquês do Herval, Venâncio Neiva, Maciel Pinheiro e Barão do Abiaí. Levantamos os terrenos vazios e os pavimentos com potencialidade de uso. Ao simular a área que esses vazios ocupam, percebemos que a mesma área poderia acolher 850 residências do tamanho das edificações que foram construídas no conjunto Minha Casa Minha Vida do Aluízio Campos.
 ![850 hab](../../img/blog/maratona labrua/850 hab.jpg)
+<H6>caberiam 850 residências no núcleo central de CG</H6>
+
+Outro dado que sempre coletamos é o da quantidade de meios de transporte que passam em uma rua. Isso significa que contamos carro, motos, pessoas, bicicletas etc. ao longo de um dia inteiro (tem explicado em um post aqui no blog). Fizemos essa contagem na Maciel Pinheiro em maio desse ano e descobrimos que passam mais de 18 mil pessoas por dia nessa rua maravilhosa. Já o número de carros não passa de 6 mil. Fica o questionamento: não seria mais lógico ter mais espaços para pedestres?
+![18 mil](../../img/blog/maratona labrua/180 mil.jpg)
+<H6>número de pessoas que passam na Maciel Pinheiro</H6>
+
+Baseado no que foi explicado acima, essa imagem busca mostrar essa porcentagem de cada modal. Se considerarmos todos os modais que foram contados, quase 70% são pedestres, no entanto apenas 35% da área da rua são destinados a eles.
+![Total da Maciel](../../img/blog/maratona labrua/biscoito da sorte.jpg)
 <H6>produzindo o material</H6>
+
 
 ![Fachadas](../../img/blog/maratona labrua/IMG_3337.JPG)
-<H6>produzindo o material</H6>
+<H6>produzindo o material das fachadas</H6>
 
-![850 hab](../../img/blog/maratona labrua/180 mil.jpg)
-<H6>produzindo o material</H6>
-
-![850 hab](../../img/blog/maratona labrua/carro rapido.jpg)
+Ainda baseado nessa ideia de questionamento, algumas imagens foram feitas para mostrar o óbvio e se perguntar até que ponto vale a pena termos nossas cidades priorizando os meios de transporte motorizados.
+![carro rápido](../../img/blog/maratona labrua/carro rapido.jpg)
 <H6>produzindo o material</H6>
 
 Além dos dados, foram feitas algumas suposições de como o poder público poderia tratar alguns espaços da cidade. Um exemplo é o Açude Novo, que não recebe investimentos. Essa área central com potencial incrível poderia ser
 ![850 hab](../../img/blog/maratona labrua/imagina acude.jpg)
 <H6>imagina o açude novo</H6>
-
-![850 hab](../../img/blog/maratona labrua/biscoito da sorte.jpg)
-<H6>produzindo o material</H6>
