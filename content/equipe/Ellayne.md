@@ -12,4 +12,4 @@ Multifacetada.
 
 Foi de bombeira a diretora de colégio e no fim acabou na arquitetura e urbanismo.Calma, objetiva, e responsável, Ellayne é muito determinada e se ‘garante no que faz ela é maravilhosa ela é demais!’
 
-* Graduanda em Arquitetura e Urbanismo (UNIFACISA)
+* Arquitetura e Urbanista (UNIFACISA)
