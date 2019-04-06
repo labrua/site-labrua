@@ -79,6 +79,6 @@ Além de fugirem da escala humana, evitarem os olhos da rua, eles elevam o custo
 O primeiro produto dessa coleção foram as camisetas **É Difícil, Lucas**
 O Edifício Lucas é uma edificação de uso misto, moderna, com 16 pavimentos que está localizada no Centro de Campina Grande.
 
-![Bottons LabRua](../../img/Lojinha/LABRUA_E DIFICIL LUCAS.JPEG)
+![Bottons LabRua](../../img/Lojinha/edificiolucas)
 
 >**Ah, a gente vendeu todas as camisetas da primeira leva.** Se você se interessou, manda uma mensagem pra gente! Queremos continuar a coleção com outros edifícios por aí.
