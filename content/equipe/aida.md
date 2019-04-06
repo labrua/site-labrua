@@ -15,7 +15,7 @@ Mãe de Macalé, Brise, Elke e Presidente do Lab. Divide seus horários dando au
 
 * Urbanista e Arquiteta (UFPB)
 * Mestre em Engenharia Urbana (PPGAU - UFPB)
-* Doutoranda em Planejamento Urbano (Universidade de Tecnologia de Eindhoven - Holanda)
+* Doutora em Planejamento Urbano (Universidade de Tecnologia de Eindhoven - Holanda)
 * Professora de Urbanismo e Planejamento Urbano na UNIFACISA
 * Conselheira Superior do IAB.pb
 * Conselheira Fiscal do IAB.br

@@ -11,6 +11,7 @@ Pesquisadores que já contribuíram muito por aqui!
 <!--more-->
 
 * Beatriz de Brito de Gomes
+* Ellayne
 * Fernanda Gomes de Macedo
 * Hanna Thayse Rocha Fernandes
 * Hillary Pereira Costa
