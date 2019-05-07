@@ -31,7 +31,7 @@ googleAnalytics = "UA-119116699-1"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "labderua@gmail.com"
+  email = "contato@labrua.org"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -60,7 +60,7 @@ googleAnalytics = "UA-119116699-1"
 
   [params.social]
   facebook      = "https://facebook.com/LabRua/"
-  email         = "labderua@gmail.com"
+  email         = "contato@labrua.org"
   instagram     = "https://instagram.com/lab.rua"
 
   [taxonomies]
