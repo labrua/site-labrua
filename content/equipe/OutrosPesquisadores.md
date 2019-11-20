@@ -17,6 +17,7 @@ Pesquisadores que já contribuíram muito por aqui!
 * Ellayne Montenegro
 * Fernanda Gomes de Macedo
 * Hillary Pereira Costa
+* Ian Carvalho
 * Inaiama Aires
 * Iuzianny Rebeca
 * Julieta de Albuquerque Rangel Arcoverde
