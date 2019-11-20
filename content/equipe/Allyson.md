@@ -4,7 +4,7 @@ title = "Allyson Barbosa"
 draft = false
 image = "img/Fotos para Site/Alysson.jpg"
 showonlyimage = false
-weight = 97
+weight = 99
 +++
 
 Articulado, engajado e prestativo.

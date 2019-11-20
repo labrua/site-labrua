@@ -20,6 +20,7 @@ Pesquisadores que já contribuíram muito por aqui!
 * Inaiama Aires
 * Iuzianny Rebeca
 * Julieta de Albuquerque Rangel Arcoverde
+* Laryssa Alcantara
 * Maria Beatriz Tomaz Pereira
 * Marihana Sevy Cirne Tavares
 * Paloma Germana Pinto Marinho
