@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on LabRua</title>
@@ -6,157 +6,13 @@
     <description>Recent content in Tags on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bicicleta</title>
-      <link>https://labrua.github.io/site-labrua/tags/bicicleta/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/bicicleta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caminhabilidade</title>
-      <link>https://labrua.github.io/site-labrua/tags/caminhabilidade/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/caminhabilidade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Capitólio</title>
-      <link>https://labrua.github.io/site-labrua/tags/capit%C3%B3lio/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/capit%C3%B3lio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Centro Urbano</title>
-      <link>https://labrua.github.io/site-labrua/tags/centro-urbano/</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/centro-urbano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cidades Sem Carro</title>
-      <link>https://labrua.github.io/site-labrua/tags/cidades-sem-carro/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/cidades-sem-carro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cinema</title>
-      <link>https://labrua.github.io/site-labrua/tags/cinema/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/cinema/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contagem Modais</title>
-      <link>https://labrua.github.io/site-labrua/tags/contagem-modais/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/contagem-modais/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Copenhage</title>
-      <link>https://labrua.github.io/site-labrua/tags/copenhage/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/copenhage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Corpo</title>
-      <link>https://labrua.github.io/site-labrua/tags/corpo/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/corpo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dados</title>
-      <link>https://labrua.github.io/site-labrua/tags/dados/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/dados/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debate</title>
-      <link>https://labrua.github.io/site-labrua/tags/debate/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/debate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Espaço Urbano</title>
-      <link>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-urbano/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-urbano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estágio Obrigatório</title>
-      <link>https://labrua.github.io/site-labrua/tags/est%C3%A1gio-obrigat%C3%B3rio/</link>
-      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/est%C3%A1gio-obrigat%C3%B3rio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evento</title>
-      <link>https://labrua.github.io/site-labrua/tags/evento/</link>
-      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/evento/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Intervenção Urbana</title>
-      <link>https://labrua.github.io/site-labrua/tags/interven%C3%A7%C3%A3o-urbana/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/interven%C3%A7%C3%A3o-urbana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Janela</title>
-      <link>https://labrua.github.io/site-labrua/tags/janela/</link>
-      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/janela/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Labnarua</title>
+      <title>labnarua</title>
       <link>https://labrua.github.io/site-labrua/tags/labnarua/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       
@@ -165,16 +21,7 @@
     </item>
     
     <item>
-      <title>Metodologia</title>
-      <link>https://labrua.github.io/site-labrua/tags/metodologia/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/metodologia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ocupar</title>
+      <title>ocupar</title>
       <link>https://labrua.github.io/site-labrua/tags/ocupar/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       
@@ -183,7 +30,7 @@
     </item>
     
     <item>
-      <title>Ocupeapraca</title>
+      <title>ocupeapraca</title>
       <link>https://labrua.github.io/site-labrua/tags/ocupeapraca/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
       
@@ -192,25 +39,16 @@
     </item>
     
     <item>
-      <title>Palestra</title>
-      <link>https://labrua.github.io/site-labrua/tags/palestra/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <title>estágio obrigatório</title>
+      <link>https://labrua.github.io/site-labrua/tags/est%C3%A1gio-obrigat%C3%B3rio/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://labrua.github.io/site-labrua/tags/palestra/</guid>
+      <guid>https://labrua.github.io/site-labrua/tags/est%C3%A1gio-obrigat%C3%B3rio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pesquisa</title>
-      <link>https://labrua.github.io/site-labrua/tags/pesquisa/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/pesquisa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pesquisadores</title>
+      <title>pesquisadores</title>
       <link>https://labrua.github.io/site-labrua/tags/pesquisadores/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -219,43 +57,7 @@
     </item>
     
     <item>
-      <title>Pesquisas</title>
-      <link>https://labrua.github.io/site-labrua/tags/pesquisas/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/pesquisas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Receita</title>
-      <link>https://labrua.github.io/site-labrua/tags/receita/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/receita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Representatividade</title>
-      <link>https://labrua.github.io/site-labrua/tags/representatividade/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/representatividade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resultados</title>
-      <link>https://labrua.github.io/site-labrua/tags/resultados/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/resultados/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seleção</title>
+      <title>seleção</title>
       <link>https://labrua.github.io/site-labrua/tags/sele%C3%A7%C3%A3o/</link>
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -264,7 +66,43 @@
     </item>
     
     <item>
-      <title>Simulação</title>
+      <title>dados</title>
+      <link>https://labrua.github.io/site-labrua/tags/dados/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/dados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intervenção urbana</title>
+      <link>https://labrua.github.io/site-labrua/tags/interven%C3%A7%C3%A3o-urbana/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/interven%C3%A7%C3%A3o-urbana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pesquisas</title>
+      <link>https://labrua.github.io/site-labrua/tags/pesquisas/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/pesquisas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>centro urbano</title>
+      <link>https://labrua.github.io/site-labrua/tags/centro-urbano/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/centro-urbano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulação</title>
       <link>https://labrua.github.io/site-labrua/tags/simula%C3%A7%C3%A3o/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -273,25 +111,7 @@
     </item>
     
     <item>
-      <title>Sociatos</title>
-      <link>https://labrua.github.io/site-labrua/tags/sociatos/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/sociatos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tradução</title>
-      <link>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</link>
-      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vazios Urbanos</title>
+      <title>vazios urbanos</title>
       <link>https://labrua.github.io/site-labrua/tags/vazios-urbanos/</link>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
       
@@ -300,11 +120,191 @@
     </item>
     
     <item>
-      <title>Viagem</title>
+      <title>bicicleta</title>
+      <link>https://labrua.github.io/site-labrua/tags/bicicleta/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/bicicleta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>copenhage</title>
+      <link>https://labrua.github.io/site-labrua/tags/copenhage/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/copenhage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>viagem</title>
       <link>https://labrua.github.io/site-labrua/tags/viagem/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/viagem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>corpo</title>
+      <link>https://labrua.github.io/site-labrua/tags/corpo/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/corpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>espaço urbano</title>
+      <link>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-urbano/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-urbano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representatividade</title>
+      <link>https://labrua.github.io/site-labrua/tags/representatividade/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/representatividade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caminhabilidade</title>
+      <link>https://labrua.github.io/site-labrua/tags/caminhabilidade/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/caminhabilidade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pesquisa</title>
+      <link>https://labrua.github.io/site-labrua/tags/pesquisa/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/pesquisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resultados</title>
+      <link>https://labrua.github.io/site-labrua/tags/resultados/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/resultados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capitólio</title>
+      <link>https://labrua.github.io/site-labrua/tags/capit%C3%B3lio/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/capit%C3%B3lio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cinema</title>
+      <link>https://labrua.github.io/site-labrua/tags/cinema/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/cinema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cidades sem carro</title>
+      <link>https://labrua.github.io/site-labrua/tags/cidades-sem-carro/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/cidades-sem-carro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tradução</title>
+      <link>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/tradu%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debate</title>
+      <link>https://labrua.github.io/site-labrua/tags/debate/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/debate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>palestra</title>
+      <link>https://labrua.github.io/site-labrua/tags/palestra/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/palestra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sociatos</title>
+      <link>https://labrua.github.io/site-labrua/tags/sociatos/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/sociatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>receita</title>
+      <link>https://labrua.github.io/site-labrua/tags/receita/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/receita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contagem modais</title>
+      <link>https://labrua.github.io/site-labrua/tags/contagem-modais/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/contagem-modais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metodologia</title>
+      <link>https://labrua.github.io/site-labrua/tags/metodologia/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/metodologia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evento</title>
+      <link>https://labrua.github.io/site-labrua/tags/evento/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/evento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>janela</title>
+      <link>https://labrua.github.io/site-labrua/tags/janela/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/janela/</guid>
       <description></description>
     </item>
     

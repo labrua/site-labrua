@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pesquisadores on LabRua</title>
+    <title>pesquisadores on LabRua</title>
     <link>https://labrua.github.io/site-labrua/tags/pesquisadores/</link>
-    <description>Recent content in Pesquisadores on LabRua</description>
+    <description>Recent content in pesquisadores on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Mon, 18 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/blog/selecao2019/</guid>
-      <description>&lt;p&gt;O LabRua abre vagas para pesquisadores e estágio obrigatório em diversos estudos na cidade de Campina Grande.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;O LabRua abre vagas para pesquisadores e estágio obrigatório em diversos estudos na cidade de Campina Grande.&lt;/p&gt;</description>
     </item>
     
   </channel>

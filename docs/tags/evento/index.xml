@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Evento on LabRua</title>
+    <title>evento on LabRua</title>
     <link>https://labrua.github.io/site-labrua/tags/evento/</link>
-    <description>Recent content in Evento on LabRua</description>
+    <description>Recent content in evento on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/blog/janela1/</guid>
-      <description>&lt;p&gt;O LabRua, junto com o IAB.pb, iniciaram no mês de março o evento chamado &lt;em&gt;janela&lt;/em&gt;, que tem a proposta realizar uma vez por mês diálogos sobre experiências com a cidade.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;O LabRua, junto com o IAB.pb, iniciaram no mês de março o evento chamado &lt;em&gt;janela&lt;/em&gt;, que tem a proposta realizar uma vez por mês diálogos sobre experiências com a cidade.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/blog/cinelab1/</guid>
-      <description>&lt;p&gt;Discutir e pensar sobre/a cidade é um tema difícil de chegar à exaustão. Assim, o LabRua e o IAB.pb lançam o CineLab, com o intuito de ser um meio de discutir o meio urbano de forma lúdica e cultural.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;Discutir e pensar sobre/a cidade é um tema difícil de chegar à exaustão. Assim, o LabRua e o IAB.pb lançam o CineLab, com o intuito de ser um meio de discutir o meio urbano de forma lúdica e cultural.&lt;/p&gt;</description>
     </item>
     
   </channel>
