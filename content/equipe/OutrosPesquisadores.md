@@ -10,17 +10,22 @@ weight = 4
 Pesquisadores que já contribuíram muito por aqui!
 <!--more-->
 
+* Agharad Setubal
 * Beatriz de Brito de Gomes
-* Ellayne
+* Bruna Pontes
+* Claudia Palmeira
+* Ellayne Montenegro
 * Fernanda Gomes de Macedo
-* Hanna Thayse Rocha Fernandes
 * Hillary Pereira Costa
+* Inaiama Aires
 * Julieta de Albuquerque Rangel Arcoverde
 * Maria Beatriz Tomaz Pereira
 * Marihana Sevy Cirne Tavares
 * Paloma Germana Pinto Marinho
+* Priscilla Brito
 * Rita de Cassia Gurjão de Souza
 * Sabrina Lorrany Raposo Nascimento
 * Sarah Silva Sousa Lima
 * Sarah Souto Guedes
 * Thállis Dantas de Araujo
+* Yohanna Tereza
