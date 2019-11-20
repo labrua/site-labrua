@@ -23,6 +23,7 @@ Pesquisadores que já contribuíram muito por aqui!
 * Marihana Sevy Cirne Tavares
 * Paloma Germana Pinto Marinho
 * Priscilla Brito
+* Rebeca Brasil
 * Rita de Cassia Gurjão de Souza
 * Sabrina Lorrany Raposo Nascimento
 * Sarah Silva Sousa Lima
