@@ -18,10 +18,12 @@ Pesquisadores que já contribuíram muito por aqui!
 * Fernanda Gomes de Macedo
 * Hillary Pereira Costa
 * Inaiama Aires
+* Iuzianny Rebeca
 * Julieta de Albuquerque Rangel Arcoverde
 * Maria Beatriz Tomaz Pereira
 * Marihana Sevy Cirne Tavares
 * Paloma Germana Pinto Marinho
+* Pedro Costa
 * Priscilla Brito
 * Rebeca Brasil
 * Rita de Cassia Gurjão de Souza
