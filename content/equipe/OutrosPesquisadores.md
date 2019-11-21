@@ -15,22 +15,22 @@ Pesquisadores que já contribuíram muito por aqui!
 * Bruna Pontes
 * Claudia Palmeira
 * Ellayne Montenegro
-* Fernanda Gomes de Macedo
-* Hillary Pereira Costa
+* Fernanda Gomes
+* Hillary Pereira
 * Ian Carvalho
 * Inaiama Aires
 * Iuzianny Rebeca
-* Julieta de Albuquerque Rangel Arcoverde
+* Julieta Arcoverde
 * Laryssa Alcantara
-* Maria Beatriz Tomaz Pereira
-* Marihana Sevy Cirne Tavares
-* Paloma Germana Pinto Marinho
+* Maria Beatriz Tomaz
+* Marihana Cirne
+* Paloma Germana
 * Pedro Costa
 * Priscilla Brito
 * Rebeca Brasil
-* Rita de Cassia Gurjão de Souza
-* Sabrina Lorrany Raposo Nascimento
-* Sarah Silva Sousa Lima
-* Sarah Souto Guedes
-* Thállis Dantas de Araujo
+* Rita de Cassia Gurjão
+* Sabrina Lorrany
+* Sarah Silva
+* Sarah Souto
+* Thállis Dantas
 * Yohanna Tereza
