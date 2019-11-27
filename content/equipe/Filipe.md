@@ -1,8 +1,8 @@
 +++
 draft = false
-image = "img/Fotos para Site/Felipe2.JPG"
+image = "img/Fotos para Site/Filipe2.JPG"
 date = "2016-11-05T19:56:17+05:30"
-title = "Felipe Luna"
+title = "Filipe Luna"
 showonlyimage = false
 weight = 89
 +++
