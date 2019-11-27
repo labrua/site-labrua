@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Yona.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Yona Kaluaná"
 showonlyimage = false
-weight = 78
+weight = 70
 +++
 
 Sempre atenciosa e bem humorada.
