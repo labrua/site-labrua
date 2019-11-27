@@ -8,6 +8,7 @@ weight = 94
 +++
 
 Curioso e criativo.
+
 <!--more-->
 
 Entusiasta da musica, constantemente criando algo. Gosta de ajudar e está sempre aperreando Elke .
