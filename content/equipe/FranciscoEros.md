@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "img/Fotos para Site/Eros.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Francisco Eros"
