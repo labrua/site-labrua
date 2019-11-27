@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Eros.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Francisco Eros"
 showonlyimage = false
-weight = 91
+weight = 93
 +++
 
 Arteiro e criativo entusiasmado, um bombril artístico.
