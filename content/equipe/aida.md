@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/Fotos para Site/Aida.jpg"
+image = "img/Fotos para Site/Aida2.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Aída Pontes"
 showonlyimage = false
@@ -17,5 +17,6 @@ Mãe de Macalé, Brise, Elke e Presidente do Lab. Divide seus horários dando au
 * Mestre em Engenharia Urbana (PPGAU - UFPB)
 * Doutora em Planejamento Urbano (Universidade de Tecnologia de Eindhoven - Holanda)
 * Professora de Urbanismo e Planejamento Urbano na UNIFACISA
+* Presidente do IAB.pb
 * Conselheira Superior do IAB.pb
 * Conselheira Fiscal do IAB.br
