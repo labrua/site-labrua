@@ -13,5 +13,5 @@ Um dos "esperançosos" do Lab.
 É tão engajado com as coisas do Lab que sempre acaba esquecendo seus pertences por aqui.
 Está sempre disposto a ajudar, quando o assunto é trabalho, responsabilidade o define.
 
-* Arquiteto e Urbanista (UNIFACISA)
+* Urbanista e Arquiteto (UNIFACISA)
 * Colaborar do escritório BM Arquitetura e Design

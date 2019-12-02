@@ -10,7 +10,9 @@ weight = 98
 Articulado, engajado e prestativo.
 <!--more-->
 
-Envolvido com os movimentos estudantis, universidade e as pesquisas do Lab. Tá metido em tudo e dá conta do recado. Entusiasta das metodologias alternativas, ele sempre chega com uma novidade.
+Envolvido com os movimentos estudantis, universidade e as pesquisas do Lab. Tá metido em tudo e dá conta do recado. Entusiasta das metodologias alternativas e representações gráficas, ele sempre chega com uma novidade.
 
-* Graduando em Arquitetura e Urbanismo (UFCG)
+* Urbanista e Arquiteto (UFCG)
 * Diretor da Regional Nordeste da FENEA
+* Segundo Secretário do IAB.pb
+* Arquiteto na Oficina Traço
