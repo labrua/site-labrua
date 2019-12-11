@@ -10,7 +10,7 @@ weight = 70
 Sempre atenciosa e bem humorada.
 <!--more-->
 
-Calma e paciente, é engajada com vários movimentos sociais, e compõe o quadro não arquitetônico do grupo. Nossa coordenadora da lojinha, ama viajar e fotografar e está sempre de bom humor.
+Praticamente uma *urbanistoriadora*, compõe o quadro não arquitetônico do grupo, apesar de quase sempre acharem que não. Mãe de bike, vive por aí com Zefinha. Rolezeira, crochezeira, e vários outros "eiras", ama estar no meio do mundo, sempre calma e de bom humor. Também coordena nossa lojinha.
 
 * Graduanda em História (UFCG)
 * Pesquisadora do PET Educação UFCG
