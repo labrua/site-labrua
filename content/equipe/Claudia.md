@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Claudia.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Claudia Palmeira"
 showonlyimage = false
-weight = 93
+weight = 90
 +++
 
 A serenidade em pessoa.

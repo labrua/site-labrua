@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Robson.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Robson Porto"
 showonlyimage = false
-weight = 74
+weight = 70
 +++
 
 Um dos "esperançosos" do Lab.

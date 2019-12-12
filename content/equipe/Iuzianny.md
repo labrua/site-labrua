@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Zuzi.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Iuzianny Rebeca"
 showonlyimage = false
-weight = 88
+weight = 82
 +++
 
 Zuzu ou Zuzi.

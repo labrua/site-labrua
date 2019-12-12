@@ -4,7 +4,7 @@ title = "Natallia Cruz"
 draft = false
 image = "img/Fotos para Site/Natallia.JPG"
 showonlyimage = false
-weight = 83
+weight = 79
 +++
 
 Adora uma festinha, por ela o “rolê” nunca tem fim.

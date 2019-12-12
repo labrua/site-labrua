@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Filipe2.JPG"
 date = "2016-11-05T19:56:17+05:30"
 title = "Filipe Luna"
 showonlyimage = false
-weight = 89
+weight = 87
 +++
 
 Extremamente campinense.

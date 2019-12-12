@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Rebeca.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Rebeca Brasil"
 showonlyimage = false
-weight = 80
+weight = 72
 +++
 
 Aquela pessoa que você pode contar para tudo.

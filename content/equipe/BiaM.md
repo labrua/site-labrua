@@ -4,7 +4,7 @@ title = "Bia Moura"
 draft = false
 image = "img/Fotos para Site/Bia.JPG"
 showonlyimage = false
-weight = 91
+weight = 93
 +++
 
 Viaja um pouquinho (demais da conta), mas é gente boa.

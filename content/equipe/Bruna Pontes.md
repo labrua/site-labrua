@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Bruna P.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Bruna Pontes"
 showonlyimage = false
-weight = 94
+weight = 91
 +++
 
 Um amorzinho!

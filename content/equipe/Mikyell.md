@@ -4,7 +4,7 @@ title = "Mikyell Brito"
 draft = false
 image = "img/Fotos para Site/Mikyell.JPG"
 showonlyimage = false
-weight = 83
+weight = 80
 +++
 
 Viciado em divas pop.

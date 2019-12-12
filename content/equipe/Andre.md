@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Andre.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "André Cabral Guimarães"
 showonlyimage = false
-weight = 94
+weight = 96
 +++
 
 Curioso e criativo.

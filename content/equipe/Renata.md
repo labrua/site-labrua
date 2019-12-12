@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Renata.JPG"
 date = "2016-11-05T19:56:17+05:30"
 title = "Renata Mantovani"
 showonlyimage = false
-weight = 75
+weight = 71
 +++
 
 Um anticomputador sentimental.

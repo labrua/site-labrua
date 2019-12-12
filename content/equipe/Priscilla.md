@@ -4,7 +4,7 @@ image = "img/Fotos para Site/Priscilla.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Priscilla Brito"
 showonlyimage = false
-weight = 82
+weight = 74
 +++
 
 De fala mansa, Priscilla é a tranquilidade em pessoa.

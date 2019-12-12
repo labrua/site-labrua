@@ -4,7 +4,7 @@ title = "Beatriz Souza"
 draft = false
 image = "img/Fotos para Site/Beatriz.JPG"
 showonlyimage = false
-weight = 91
+weight = 94
 +++
 
 Baiana viciada em música e arte de todo jeito.

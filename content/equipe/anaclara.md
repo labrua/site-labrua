@@ -4,7 +4,7 @@ title = "Ana Clara"
 draft = false
 image = "img/Fotos para Site/Ana Clara.jpg"
 showonlyimage = false
-weight = 96
+weight = 97
 +++
 
 De longe, uma guria tímida.

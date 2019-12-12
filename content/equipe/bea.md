@@ -4,7 +4,7 @@ title = "Bea Brito"
 draft = false
 image = "img/Fotos para Site/Bea.jpg"
 showonlyimage = false
-weight = 92
+weight = 95
 +++
 
 Depois de Elke, Bea é a mais maravilhosa do LabRua.
