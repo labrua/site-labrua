@@ -7,10 +7,10 @@ showonlyimage = false
 weight = 97
 +++
 
-De longe, uma guria tímida.
+Viajante em tempo integral e labrueira nas horas vagas.
 <!--more-->
 
-De perto, uma mulher incrível. Sua calma e vontade de viver consertam todos os obstáculos e seu carisma cativa os que a rodeiam. Amiga, leal e transparente, pode contar com ela a qualquer hora.
+Amante do bregafunk, é a maior defensora de brise, vive querendo levar ela pra casa. Está sempre tentando consertar tudo e no fim sempre consegue. Pode contar com ela a qualquer hora.
 
 * Graduanda em Arquitetura e Urbanismo (UNIFACISA)
 * Presidente do DA de Arquitetura e Urbanismo da UNIFACISA

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/Fotos para Site/Hanna.JPG"
+image = "img/Fotos para Site/Hanna2.JPG"
 date = "2016-11-05T19:56:17+05:30"
 title = "Hanna Fernandes"
 showonlyimage = false
