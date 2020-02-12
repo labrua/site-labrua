@@ -4,7 +4,7 @@ draft = false
 image = "img/blog/banir carros/stuttgart.jpg"
 date = "2018-05-25"
 title = "13 Cidades que estão começando a banir os automóveis"
-tags = ["tradução","cidades sem carro"]
+tags = ["tradução","cidades-sem-carro"]
 weight = 0
 +++
 
