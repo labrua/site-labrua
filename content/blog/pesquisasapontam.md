@@ -4,7 +4,7 @@ draft = false
 image = "img/blog/maratona labrua/pesquisas apontam.jpg"
 date = "2018-12-15"
 title = "Pesquisas Apontam"
-tags = ["pesquisas","dados","intervenção urbana"]
+tags = ["pesquisas","dados","intervenção-urbana"]
 weight = 0
 +++
 
