@@ -4,7 +4,7 @@ draft = false
 image = "img/blog/forum.jpg"
 date = "2018-11-15"
 title = "E esse vazio?"
-tags = ["vazios urbanos","centro urbano","simulação"]
+tags = ["vazios-urbanos","centro-urbano","simulação"]
 weight = 0
 +++
 

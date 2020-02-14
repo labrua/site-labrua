@@ -5,7 +5,7 @@ image = "img/blog/representatividade.jpeg"
 date = "2018-09-18"
 title = "A representatividade do corpo no espaço urbano"
 weight = 0
-tags = ["corpo","representatividade","espaço urbano"]
+tags = ["corpo","representatividade","espaço-urbano"]
 +++
 
 

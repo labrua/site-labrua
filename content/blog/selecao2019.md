@@ -5,7 +5,7 @@ image = "img/blog/selecao2019.jpg"
 date = "2019-02-18"
 title = "Seleção para Pesquisadores e Estagiários"
 weight = 0
-tags = ["seleção","pesquisadores","estágio obrigatório"]
+tags = ["seleção","pesquisadores","estágio-obrigatório"]
 +++
 
 
