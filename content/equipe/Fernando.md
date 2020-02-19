@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = ture
 image = "img/Fotos para Site/Fernando.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Fernando Vasconcelos"
