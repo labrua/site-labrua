@@ -11,11 +11,13 @@ Pesquisadores que já contribuíram muito por aqui!
 <!--more-->
 
 * Agharad Setubal
+* Alana Sousa dos Santos
 * Beatriz de Brito de Gomes
 * Bruna Pontes
 * Claudia Palmeira
 * Ellayne Montenegro
 * Fernanda Gomes
+* Fernando Vasconcelos
 * Hillary Pereira
 * Ian Carvalho
 * Inaiama Aires
