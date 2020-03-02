@@ -1,7 +1,7 @@
 +++
 image = "img/pesquisas/"
 showonlyimage = false
-date = "2017-11-05T19:44:32+05:30"
+date = "2020-03-01T19:44:32+05:30"
 title = "Entorno do Terminal de Integração: Diagnóstico e Proposta de intervenção."
 draft = false
 weight = 2
