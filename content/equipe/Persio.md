@@ -2,7 +2,7 @@
 draft = false
 image = "img/Fotos para Site/persio.jpg"
 date = "2016-11-05T19:56:17+05:30"
-title = "Persio Padre"
+title = "Persio Padre TESTE 1"
 showonlyimage = false
 weight = 75
 +++
