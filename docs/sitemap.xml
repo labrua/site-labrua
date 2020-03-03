@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://labrua.github.io/site-labrua/pesquisas/integracao/</loc>
-    <lastmod>2020-03-01T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://labrua.github.io/site-labrua/pesquisas/acudevelho/</loc>
     <lastmod>2017-11-05T19:44:32+05:30</lastmod>
   </url>
@@ -108,6 +103,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/equipe/naza/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/equipe/natalia/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
@@ -139,6 +139,11 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/equipe/filipe/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/equipe/fernando/</loc>
     <lastmod>2016-11-05T19:56:17+05:30</lastmod>
   </url>
   
@@ -188,17 +193,17 @@
   </url>
   
   <url>
-    <loc>https://labrua.github.io/site-labrua/</loc>
-    <lastmod>2020-03-01T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://labrua.github.io/site-labrua/blog/labnarua2/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/labnarua/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/</loc>
     <lastmod>2019-05-06T00:00:00+00:00</lastmod>
   </url>
   
