@@ -25,8 +25,8 @@ Foram utilizadas metodologias colaborativas e participativas já realizadas em o
 Pensar a cidade através do olhar das pessoas é pensar em cidades mais democráticas. O projeto vem em contramão aos modelos de cidades que estão sendo produzidas no país, onde se pensa cada vez mais nos veículos motorizados e menos nas pessoas. O projeto traz como reflexão o pensar a cidade feita pelo povo e para o povo.
 
  <H4>Propostas de intervenção.</H4>
+![](../../img/pesquisas/Rec n play/rec9.png)
 ![](../../img/pesquisas/Rec n play/rec10.png)
-![](../../img/pesquisas/Rec n play/rec11.png)
 <H6>LabRua, 2019.</H6>
 
 #### Análises produzidas nesta pesquisa
