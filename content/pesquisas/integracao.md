@@ -1,5 +1,5 @@
 +++
-image = "img/pesquisas/"
+image = "img/pesquisas/integracao0.png"
 showonlyimage = false
 date = "2020-03-01T19:44:32+05:30"
 title = "Entorno do Terminal de Integração: Diagnóstico e Proposta de intervenção."
@@ -21,7 +21,7 @@ Diariamente diversas pessoas passam pela área do cruzamento, seja de ônibus, c
 
 <H4>Falta de infraestrutura para a travessia adequada dos pedestres.</H4>
 
-![ACESSO ONIBUS](../../img/pesquisas/integracao2.jpg)
+![ACESSO ONIBUS](../../img/pesquisas/integracao2.png)
 <H6>Raiff Mangueira, 2018.</H6>
 
 A área não atende as necessidades básicas de mobilidade e de acessibilidade para os pedestres, previstas na NBR 9050. Também não é possível identificar melhorias na composição do lugar desde a implantação da integração em 2008, visto que existe insuficiência de estrutura que ofereça segurança e favoreçam a transição e permanência dos usuários do terminal, o que inspira atenção para o cruzamento.
