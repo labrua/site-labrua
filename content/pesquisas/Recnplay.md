@@ -14,7 +14,7 @@ Em outubro de 2019 acontecia na cidade do Recife o evento Rec’n’play, com a 
 
 A convite da Prefeitura do Recife, o Laboratório de Rua tinha um desafio: pensar uma importante rua da cidade (uma das maiores metrópoles do Brasil) com o olhar voltado primeiramente para as pessoas. Para isso, foram feitas análises do espaço público a partir de vivências dos pesquisadores e relatos de usuários da área.
 
-![](../../img/pesquisas/Rec n play/rec1.jpg)
+![](../../img/pesquisas/Rec n play/rec1.jpeg)
 <H6>Divulgação Rec'n Play.</H6>
 
 Foram utilizadas metodologias colaborativas e participativas já realizadas em outras pesquisas do LabRua, da fase de diagnóstico urbano até a intervenção na rua. Destacam-se as análises comportamentais dos pedestres, contagens de modais e entrevistas com usuários. A intervenção foi aberta ao público, desde a concepção (ficando limitado apenas a área de intervenção) até a execução.
@@ -24,6 +24,10 @@ Foram utilizadas metodologias colaborativas e participativas já realizadas em o
 
 Pensar a cidade através do olhar das pessoas é pensar em cidades mais democráticas. O projeto vem em contramão aos modelos de cidades que estão sendo produzidas no país, onde se pensa cada vez mais nos veículos motorizados e menos nas pessoas. O projeto traz como reflexão o pensar a cidade feita pelo povo e para o povo.
 
+ <H4>Propostas de intervenção.</H4>
+![](../../img/pesquisas/Rec n play/rec10.png)
+![](../../img/pesquisas/Rec n play/rec11.png)
+<H6>LabRua, 2019.</H6>
 
 #### Análises produzidas nesta pesquisa
 
@@ -34,9 +38,10 @@ Pensar a cidade através do olhar das pessoas é pensar em cidades mais democrá
 * Propostas de intervenção
 
 #### Os resultados da intervenção foram
+
 * Mobilidade Urbana - Retirada dos estacionamentos da rua e diminuição da faixa do veículo para 3,5m;
 * Acessibilidade - Extensão da calçada possibilitando um maior passeio para os pedestres e sinalização adaptada para a área;
-* Mobiliário Urbano - implantação de vegetação de pequeno porte, bancos e bicicletários;
+* Mobiliário Urbano - Implantação de vegetação de pequeno porte, bancos e bicicletários;
 * Segurança - Barracas e mesas de bares resguardados com a extensão da calçada.
 
 #### Publicações relacionadas
