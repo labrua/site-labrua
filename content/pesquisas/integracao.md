@@ -3,7 +3,7 @@ image = "img/pesquisas/integracao0.png"
 showonlyimage = false
 date = "2020-03-01T19:44:32+05:30"
 title = "Entorno do Terminal de Integração: Diagnóstico e Proposta de intervenção."
-draft = true
+draft = false
 weight = 2
 +++
 

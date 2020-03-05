@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "img/pesquisas/Rec n play/rec0.png"
 date = "2020-03-05T19:56:17+05:30"
 title = "Vivência urbana no Recife Antigo: uma experiência do diagnóstico à intervenção no Rec’n’play 2019"
