@@ -7,10 +7,10 @@ draft = true
 weight = 2
 +++
 
-O terminal de integração, localizado no centro de Campina Grande - PB, consiste em um ferramenta urbana que interliga diversas linhas de ônibus da cidade, atraindo assim uma quantidade significativa de pessoas para o lugar.
+O terminal de integração, localizado no centro de Campina Grande - PB consiste em uma ferramenta urbana que interliga diversas linhas de ônibus da cidade, atraindo assim uma quantidade significativa de pessoas para o lugar.
 <!--more-->
 
-O acesso destas a este equipamento, entretanto, é marcado por um cruzamento em específico, que chamou atenção dos pesquisadores do LabRua por seu desenho viário complexo, grande conflito de fluxos e, principalmente, as dificuldades que os pedestres encontram para acessar e circular no seu entorno.
+O acesso destas a este equipamento, entretanto, é marcado por um cruzamento em específico, que chamou a atenção dos pesquisadores do LabRua por seu desenho viário complexo, grande conflito de fluxos e, principalmente, as dificuldades que os pedestres encontram para acessar e circular no seu entorno.
 
  <H4>Vista panorâmica do Terminal de Integração.</H4>
 
@@ -29,11 +29,14 @@ A área não atende as necessidades básicas de mobilidade e de acessibilidade p
 Diante dos problemas expostos, essa pesquisa tem como objetivo propor um redesenho urbano para o cruzamento das ruas Pedro II e Índios Cariris de forma a priorizar o pedestre. Para um embasamento adequado, primeiramente está sendo feito um diagnóstico que compreenda melhor como os fluxos do cruzamento interagem entre si e como eles podem ser otimizados, focando principalmente nos pedestres. As análises específicas que estamos planejando está descrita a seguir, mas tudo será realizado através de visitas de campo, medições, mapeamentos de diversas características da área e muita sensibilidade na percepção da área.
 
 #### Análises produzidas nessa pesquisa
-Focando apenas no cruzamento próximo à entrada principal do Terminal de Integração, até o momento, essa pesquisa está produzindo os seguintes materiais:
 
->
+Focando apenas no cruzamento próximo à entrada principal do Terminal de Integração, essa pesquisa está produziu os seguintes materiais:
+
 * Levantamento geométrico e atualização do mapa da área;
 * Realização de contagens volumétrica e direcional de modais;
 * Observação de comportamentos dos pedestres;
-* Desenvolvimento de mapas que espacializam as informações coletadas;
+* Desenvolvimento de mapas que espacializa as informações coletadas;
 * Entrevistas com usuários do terminal e pedestres que cruzam a área.
+
+
+.
