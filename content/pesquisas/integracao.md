@@ -47,4 +47,8 @@ Após a sistematização dos dados que foram coletados, desenvolveu-se diretrize
 * Alargamento e continuidade das calçadas, permitindo a circulação dos pedestres de forma simples, respeitando a linha de desejo natural;
 * Implantação de faixas de pedestres em todos os pontos de cruzamento, não limitando a caminhabilidade das pessoas.
 
+#### Publicações relacionadas
+
+> [Artigo aceito no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Artigo Habitar - Terminal de Integração.pdf)
+
 .
