@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2020-03-31T19:44:32+05:30"
 title = "Parque Açude Novo: Diagnóstico e diretrizes"
 draft = false
-weight = 2
+weight = 0
 +++
 
 Localizada nas extremidades do Parque Açude Novo, centro de Campina Grande, a
