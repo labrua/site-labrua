@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Rua | eventos on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/eventos/</link>
+    <description>Recent content in A Rua | eventos on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/eventos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CineLab</title>
+      <link>https://labrua.github.io/site-labrua/eventos/cinelab/</link>
+      <pubDate>Sun, 05 Nov 2017 19:44:32 +0530</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/cinelab/</guid>
+      <description>&lt;p&gt;O CineLab é um evento criado pelo LabRua e promovido junto com o IAB.PB. A realização deste evento tem como foco discutir e pensar sobre os espaços públicos e a cidade de forma lúdica.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Janela</title>
+      <link>https://labrua.github.io/site-labrua/eventos/janela/</link>
+      <pubDate>Sat, 02 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/janela/</guid>
+      <description>&lt;p&gt;Janelas são as aberturas das edificações, um dos principais elementos de ligação entre a rua e o interior dos edifícios, o local por onde podemos ter e ser os olhos da rua. Onde nossas impressões e contato com o espaço público acontecem.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lab.na.Rua</title>
+      <link>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/lab.na.rua/</guid>
+      <description>&lt;p&gt;Com amor no coração preparamos a invasão, cheios de felicidade entramos na cidade amada!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lojinha</title>
+      <link>https://labrua.github.io/site-labrua/eventos/lojinha/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/eventos/lojinha/</guid>
+      <description>&lt;p&gt;Tem de caneca à &lt;em&gt;labrusinha&lt;/em&gt;!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

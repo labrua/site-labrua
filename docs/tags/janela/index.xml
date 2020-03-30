@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>janela on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/janela/</link>
+    <description>Recent content in janela on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/janela/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JANELA | Cidade, Mulher e Cicloativismo</title>
+      <link>https://labrua.github.io/site-labrua/blog/janela1/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/janela1/</guid>
+      <description>&lt;p&gt;O LabRua, junto com o IAB.pb, iniciaram no mês de março o evento chamado &lt;em&gt;janela&lt;/em&gt;, que tem a proposta realizar uma vez por mês diálogos sobre experiências com a cidade.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

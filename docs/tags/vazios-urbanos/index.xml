@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vazios-urbanos on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/vazios-urbanos/</link>
+    <description>Recent content in vazios-urbanos on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/vazios-urbanos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>E esse vazio?</title>
+      <link>https://labrua.github.io/site-labrua/blog/essevazio/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/essevazio/</guid>
+      <description>&lt;p&gt;Os centros urbanos das cidades brasileiras sofreram muitas mudanças nas dinâmicas ao longo do tempo. Espaços (do urbano ao arquitetônico) com grande relevância no contexto cultural, econômico e social das cidades vêm passando por processos de abandono e expulsão.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

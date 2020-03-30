@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>metodologia on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/metodologia/</link>
+    <description>Recent content in metodologia on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/metodologia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Metodologia de contagem dos modais</title>
+      <link>https://labrua.github.io/site-labrua/blog/contagens/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/contagens/</guid>
+      <description>&lt;p&gt;Neste artigo mostramos a metodologia que usamos em diversas pesquisas para a contagem dos diferentes meios de transporte, além de explicar a sua importância para entendimento e análise dos espaços públicos, sendo possível, inclusive, usar a mesma metodologia para replicar em outros lugares.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
