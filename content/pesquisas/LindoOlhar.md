@@ -3,7 +3,7 @@ image = "img/pesquisas/lindoolhar0.jpg"
 showonlyimage = false
 date = "2020-03-31T19:44:32+05:30"
 title = "Parque Açude Novo: Diagnóstico e diretrizes"
-draft = true
+draft = false
 weight = 2
 +++
 

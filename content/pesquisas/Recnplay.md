@@ -31,7 +31,7 @@ Pensar a cidade através do olhar das pessoas é pensar em cidades mais democrá
 
 #### Análises produzidas nesta pesquisa
 
->* Análises de Fluxo
+* Análises de Fluxo
 * Análises comportamentais dos pedestres
 * Análises de estacionamentos
 * Entrevistas
@@ -39,7 +39,7 @@ Pensar a cidade através do olhar das pessoas é pensar em cidades mais democrá
 
 #### Os resultados da intervenção foram
 
->* Mobilidade Urbana - Retirada dos estacionamentos da rua e diminuição da faixa do veículo para 3,5m;
+* Mobilidade Urbana - Retirada dos estacionamentos da rua e diminuição da faixa do veículo para 3,5m;
 * Acessibilidade - Extensão da calçada possibilitando um maior passeio para os pedestres e sinalização adaptada para a área;
 * Mobiliário Urbano - Implantação de vegetação de pequeno porte, bancos e bicicletários;
 * Segurança - Barracas e mesas de bares resguardados com a extensão da calçada.
