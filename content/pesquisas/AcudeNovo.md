@@ -1,10 +1,10 @@
 +++
 image = "img/pesquisas/lindoolhar0.jpg"
 showonlyimage = false
-date = "2020-30-03T19:44:32+05:30"
+date = "2020-03-30T19:56:17+05:30"
 title = "Parque Açude Novo: Diagnóstico e diretrizes"
 draft = false
-weight = 0
+weight = 2
 +++
 
 Localizada nas extremidades do Parque Açude Novo, centro de Campina Grande, a
@@ -39,3 +39,5 @@ e estabeleça uma melhor relação entre o parque e o contexto urbano que ele se
 #### Análises produzidas nessa pesquisa
 
 >A pesquisa se encontra em estágio inicial, as análises estão sendo realizadas
+
+.
