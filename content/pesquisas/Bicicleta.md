@@ -16,7 +16,7 @@ A natureza dos sistemas de compartilhamento é permitir que qualquer pessoa poss
 
 Importante compreender o perfil de quem pedala e como está sendo feito o uso da bicicleta em Campina Grande, para tanto, foi imprescindível analisar o Diagnóstico do Uso da Bicicleta, em que, tomou-se como base para realização da proposta inicial do sistema, pois, o exame dos dados nos permitiu visualizar um retrato do prática e traçar quais são as tendências de crescimento quanto a utilização do modal.  
 
-<H4>Etapas do projeto:</H4>
+<H4>Etapas do projeto</H4>
 ![Etapas bicicleta](../../img/pesquisas/bicicleta01.JPG)
  <H6> </H6>
 
@@ -28,7 +28,7 @@ Importante compreender o perfil de quem pedala e como está sendo feito o uso da
 
 Sistemas de compartilhamento de bicicleta têm a capacidade de abranger seu uso principalmente para pessoas que tem o interesse em tornar-se novos(as) usuários(as) deste modal, em que facilita o acesso do meio para vários grupos de pessoas. O sistema têm se mostrado uma ferramenta importante de integração ao sistema cicloviário em cidades em todo o mundo, assim como, busca também a integração com outros meios de transporte público, sendo um fator fundamental para a produção de cidades equitativas e sustentáveis.
 
-<H4> Propostas de intervenção</H4>
+<H4>Propostas de intervenção</H4>
  ![Propostas de intervenção](../../img/pesquisas/bicicleta03.png)
 <H6> </H6>
 
