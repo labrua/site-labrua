@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "img/pesquisas/feiracentral00.jpg"
-date = "2020-04-03T10:56:17+05:30"
+date = "2020-04-02T19:56:17+05:30"
 title = "Feira Central de Campina Grande"
 showonlyimage = false
 weight = 6
