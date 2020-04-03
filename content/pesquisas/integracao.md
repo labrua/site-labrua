@@ -49,6 +49,6 @@ Após a sistematização dos dados que foram coletados, desenvolveu-se diretrize
 
 #### Publicações relacionadas
 
-> [Artigo aceito no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Artigo Habitar - Terminal de Integração.pdf)
+> [Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Artigo Habitar - Terminal de Integração.pdf)
 
 .
