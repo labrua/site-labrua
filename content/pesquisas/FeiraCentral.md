@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/pesquisas/Rec n play/rec0.png"
+image = "img/pesquisas/.png"
 date = "2020-04-02T19:56:17+05:30"
 title = "Feira Central de Campina Grande"
 showonlyimage = false
