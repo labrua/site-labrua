@@ -15,23 +15,23 @@ Em parceria com a Secretaria de Desenvolvimento Econômico de Campina Grande, o 
 
 Dentro do âmbito da pesquisa, a equipe do LabRua estudou a setorização informal que se formou na Feira Central, em especial na questão viária, mapeando os estacionamentos existentes e seus diferentes perfis de uso, de carga e descarga, embarque e desembarque, e de uso privado.
 
-<H4>Distribuição do estacionamento em via pública e intra-lote.</H4>
+<H4>Distribuição do estacionamento em via pública e intra-lote</H4>
 ![](../../img/pesquisas/feiracentral01.jpg)
 <H6>LabRua, 2019.</H6>
 
-<H4>Análise quantitativa de veículos estacionados.</H4>
+<H4>Análise quantitativa de veículos estacionados</H4>
 ![](../../img/pesquisas/feiracentral02.jpg)
 <H6>LabRua, 2019.</H6>
 
 O principal uso da Feira Central ainda é do(a) comprador(a) individual que caminha pelo espaço labiríntico das barracas para realizar suas compras domésticas. Tendo isso em mente a pesquisa realizou seu levantamento mais ambicioso: uma contagem dos usuários em cinco pontos da feira central num período de 12 horas contínuas para monitorar o fluxo e os horários de pico do local, contabilizando um total de quase 80 mil usuários nos pontos de realização da contagem.
 
-<H4>Volume de usuários por hora.</H4>
+<H4>Volume de usuários por hora</H4>
 ![](../../img/pesquisas/feiracentral03.jpg)
 <H6>LabRua, 2019.</H6>
 
 Foram analisadas também as soluções dos feirantes para suas barracas, seus diferentes usos e suas diferentes disposições, catalogando as diferentes tipologias concebidas e utilizadas pelos feirantes bem como a disposição física das barracas ao longo de diferentes setores da feira, esquematizados através de cortes para entender a caminhabilidade do espaço.
 
-<H4>cortes.</H4>
+<H4>cortes</H4>
 ![](../../img/pesquisas/feiracentral04.jpg)
 <H6>LabRua, 2019.</H6>
 
