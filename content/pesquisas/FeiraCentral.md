@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/pesquisas/.png"
+image = "img/pesquisas/feiracentral00.jpg"
 date = "2020-04-02T19:56:17+05:30"
 title = "Feira Central de Campina Grande"
 showonlyimage = true
@@ -31,7 +31,7 @@ O principal uso da Feira Central ainda é do(a) comprador(a) individual que cami
 
 Foram analisadas também as soluções dos feirantes para suas barracas, seus diferentes usos e suas diferentes disposições, catalogando as diferentes tipologias concebidas e utilizadas pelos feirantes bem como a disposição física das barracas ao longo de diferentes setores da feira, esquematizados através de cortes para entender a caminhabilidade do espaço.
 
-<H4>cortes</H4>
+<H4>Cortes esquemáticos das vias</H4>
 ![](../../img/pesquisas/feiracentral04.jpg)
 <H6>LabRua, 2019.</H6>
 
