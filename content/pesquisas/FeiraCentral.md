@@ -4,7 +4,7 @@ image = "img/pesquisas/feiracentral00.jpg"
 date = "2020-04-02T19:56:17+05:30"
 title = "Feira Central de Campina Grande"
 showonlyimage = false
-weight = 6
+weight = 5
 +++
 
 A Feira Central de Campina Grande é uma fonte inesgotável para estudos sobre o espaço público, com toda sua complexidade, que de início nos parece caótica, revela uma ordem criada continuamente pela ação humana que refletem séculos de tradições que remetem à própria fundação da cidade enquanto entreposto comercial no século XVII.
