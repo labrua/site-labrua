@@ -1,5 +1,5 @@
 ---
-title: A Praça
+title: A Praça | blog
 date: 2017-11-02
 ---
 
