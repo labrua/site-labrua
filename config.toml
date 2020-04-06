@@ -47,7 +47,7 @@ googleAnalytics = "UA-119116699-1"
   url = "eventos/"
 
   [[params.navlinks]]
-  name = "Blog"
+  name = "A Praça"
   url = "blog/"
 
   [[params.navlinks]]
