@@ -62,6 +62,7 @@ googleAnalytics = "UA-119116699-1"
   facebook      = "https://facebook.com/LabRua/"
   email         = "contato@labrua.org"
   instagram     = "https://instagram.com/lab.rua"
+  issuu         = "https://issuu.com/contato-labrua"
 
   [taxonomies]
    tag = "tags"

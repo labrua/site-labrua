@@ -39,4 +39,9 @@
     <i class="fa fa-github"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.issuu }}
+  <a href="{{ . }}" data-animate-hover="pulse">
+    <i class="fa fa-book"></i>
+  </a>
+  {{end}}
 </p>
