@@ -10,9 +10,12 @@ weight = 98
 Articulado, engajado e prestativo.
 <!--more-->
 
-Envolvido com os movimentos estudantis, universidade e as pesquisas do Lab. Tá metido em tudo e dá conta do recado. Entusiasta das metodologias alternativas e representações gráficas, ele sempre chega com uma novidade.
+Já fez parte do movimento estudantil e agora não para de procurar movimento entre a cidade, as universidades e as pesquisas do Lab. Tá metido em tudo e dá conta do recado. Entusiasta das metodologias alternativas e representações gráficas, ele sempre chega com uma novidade.
+
 
 * Urbanista e Arquiteto (UFCG)
-* Diretor da Regional Nordeste da FENEA
+* Pós-graduando em Assistência Técnica em Arquitetura, Urbanismo e Engenharia (UFPB)
 * Segundo Secretário do IAB.pb
 * Arquiteto na Oficina Traço
+* Integrante da Frente pelo direito à cidade de Campina Grande.
+* Diretor da Regional Nordeste da FENEA - (2016-2018)

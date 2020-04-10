@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>athis on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/athis/</link>
+    <description>Recent content in athis on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/athis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Co-criar o urbano: Repensar a rua em Terras Belas</title>
+      <link>https://labrua.github.io/site-labrua/blog/co_criar/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/co_criar/</guid>
+      <description>&lt;p&gt;O LabRua realizou nos dias 14 e 15 de março de 2020, com a colaboração da Prefeitura Municipal de Conde a partir da Secretaria de Planejamento (SEPLAN) e participação da Universidade Federal da Paraíba (UFPB), a oficina &amp;ldquo;Co-criar o urbano: Repensar a Rua em Terras Belas&amp;rdquo;, com o intuito de repensar os espaços públicos do bairro. Participaram XX pessoas da oficina e ao final foi elaborada uma cartilha com os principais resultados.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

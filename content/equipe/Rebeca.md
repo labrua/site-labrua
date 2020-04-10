@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 image = "img/Fotos para Site/Rebeca.jpg"
 date = "2016-11-05T19:56:17+05:30"
 title = "Rebeca Brasil"
@@ -12,4 +12,4 @@ Aquela pessoa que você pode contar para tudo.
 
 Dona das melhores e mais ousadas ideias, é conhecida por falar a verdade, você gostando ou não, e sua coragem de enfrentar tudo e todos é do tamanho do seu incrível coração.
 
-* Graduanda em Arquitetura e Urbanismo (UNIFACISA)
+* Urbanista e Arquiteta (UNIFACISA)

@@ -11,7 +11,6 @@ Pesquisadores que já contribuíram muito por aqui!
 <!--more-->
 
 * Agharad Setubal
-* Alana Sousa dos Santos
 * Beatriz de Brito de Gomes
 * Bruna Pontes
 * Claudia Palmeira
@@ -29,7 +28,6 @@ Pesquisadores que já contribuíram muito por aqui!
 * Paloma Germana
 * Pedro Costa
 * Priscilla Brito
-* Rebeca Brasil
 * Rita de Cassia Gurjão
 * Sabrina Lorrany
 * Sarah Silva
