@@ -2,7 +2,7 @@
 draft = false
 image = "img/pesquisas/vazios.JPG"
 showonlyimage = false
-date = "2020-04-22T19:50:47+05:30"
+date = "2020-04-21T19:50:47+05:30"
 title = "Vazios Centrais de Campina Grande-PB"
 weight = 4
 +++
