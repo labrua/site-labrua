@@ -33,6 +33,8 @@ A pesquisa visa trazer contribuições com mapeamentos, classificações dos vaz
 
 #### Alguns resultados
 
+> #### [Infográfico - A Botinha tá "Quase" Vazia.](../../pdf/InfograficoVazios.pdf)
+
 >Artigos Publicados:
 
 >[Artigo apresentado e publicado no TICYUrb'18 (Third International Conference of Young Urban Researchers) em Lisboae e na SAAU'19 (Semana Acadêmica de Arquitetura e Urbanismo do IESP) em João Pessoa-PB](../../pdf/Vazios Urbanos do Centro de Campina Grande_ Diagnóstico e Simulação_TicyURB_2018.pdf)
