@@ -6,10 +6,37 @@
     <description>Recent content in Tags on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>covid</title>
+      <link>https://labrua.github.io/site-labrua/tags/covid/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>espaço-publico</title>
+      <link>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-publico/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-publico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pesquisa</title>
+      <link>https://labrua.github.io/site-labrua/tags/pesquisa/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/pesquisa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>athis</title>
@@ -30,38 +57,11 @@
     </item>
     
     <item>
-      <title>covid</title>
-      <link>https://labrua.github.io/site-labrua/tags/covid/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>espaço-publico</title>
-      <link>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-publico/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-publico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>oficina</title>
       <link>https://labrua.github.io/site-labrua/tags/oficina/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/oficina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pesquisa</title>
-      <link>https://labrua.github.io/site-labrua/tags/pesquisa/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/pesquisa/</guid>
       <description></description>
     </item>
     

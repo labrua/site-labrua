@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "img/blog/covid.jpeg"
-date = "2020-04-08"
+date = "2020-05-15"
 title = "Cidade e COVID: Diagnóstico sobre hábitos de mobilidade urbana em tempos de pandemia"
 weight = 0
 tags = ["covid","pesquisa","espaço-publico"]
