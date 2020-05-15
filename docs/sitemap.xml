@@ -238,6 +238,11 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/blog/cidadeecovid/</loc>
+    <lastmod>2020-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/blog/co_criar/</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
   </url>
@@ -248,7 +253,22 @@
   </url>
   
   <url>
+    <loc>https://labrua.github.io/site-labrua/tags/covid/</loc>
+    <lastmod>2020-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-publico/</loc>
+    <lastmod>2020-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://labrua.github.io/site-labrua/tags/oficina/</loc>
+    <lastmod>2020-04-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://labrua.github.io/site-labrua/tags/pesquisa/</loc>
     <lastmod>2020-04-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -379,11 +399,6 @@
   
   <url>
     <loc>https://labrua.github.io/site-labrua/tags/caminhabilidade/</loc>
-    <lastmod>2018-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://labrua.github.io/site-labrua/tags/pesquisa/</loc>
     <lastmod>2018-09-04T00:00:00+00:00</lastmod>
   </url>
   

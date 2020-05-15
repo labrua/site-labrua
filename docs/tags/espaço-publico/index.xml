@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>espaço-publico on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/espa%C3%A7o-publico/</link>
+    <description>Recent content in espaço-publico on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/espa%C3%A7o-publico/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cidade e COVID: Diagnóstico sobre hábitos de mobilidade urbana em tempos de pandemia</title>
+      <link>https://labrua.github.io/site-labrua/blog/cidadeecovid/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/cidadeecovid/</guid>
+      <description>Dentro do contexto da ameaça do Coronavírus, as cidades do mundo inteiro foram diretamente afetadas por conta da grande concentração de pessoas vivendo, circulando e desenvolvendo as mais diversas atividades, favorecendo a contaminação e o rápido crescimento do número de casos.
+Com o objetivo de frear o alastramento da doença, as principais entidades e organizações internacionais de saúde fizeram recomendações focadas na higiene, no isolamento físico (social) e na prática de quarentena (em casos de suspeita ou confirmação de contaminação assintomática), alterando a relação da humanidade com as cidades e as pessoas.</description>
+    </item>
+    
+  </channel>
+</rss>
