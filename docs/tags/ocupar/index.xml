@@ -6,10 +6,19 @@
     <description>Recent content in ocupar on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://labrua.github.io/site-labrua/tags/ocupar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Andando por Campina Grande</title>
+      <link>https://labrua.github.io/site-labrua/blog/andandoporcg/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/andandoporcg/</guid>
+      <description>&lt;p&gt;A minha experiência em vivenciar Campina Grande e sobre afetos com alguns espaços da cidade.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Lab na Rua 2</title>
