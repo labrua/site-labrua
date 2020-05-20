@@ -1,6 +1,6 @@
 +++
 showonlyimage = false
-draft = false
+draft = true
 image = "img/blog/formação01.jpeg"
 date = "2020-05-21"
 title = "A formação política do arquiteto e urbanista"
