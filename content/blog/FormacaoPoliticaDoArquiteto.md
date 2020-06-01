@@ -6,6 +6,7 @@ date = "2020-05-21"
 title = "A formação política do arquiteto e urbanista"
 tags = ["formacao-politica","movimento-estudantil"]
 weight = 0
+author = "Allyson Barbosa"
 +++
 
 Precisamos, antes de mais nada, viver a cidade. Além de existir, precisamos resistir. Sair da caixa é necessário. A cidade é diversa, é colorida, mas também é desigual, é segregadora, é tanta coisa que só emergindo para entender. Nesse contexto que ressalto a importância do Arquiteto e Urbanista e de sua formação política para a construção de cidades mais justas e democráticas.

@@ -6,12 +6,13 @@ date = "2018-05-24"
 title = "LabRua participa da II Jornada Sociatos"
 tags = ["palestra","sociatos","debate"]
 weight = 0
+author = "Raiff Nascimento e Yona Kaluaná"
 +++
 
 Quando, ocorreu na cidade de Campina Grande o evento "A Cidade é Nossa", organizado por... Na ocasião, a diretora presidente do LabRua foi convidada para participar do Programa Ideia Livre da Tv Itararé.
 <!--more-->
 
-<H6>por Raiff e Yona</H6>
+<H6>por Raiff Nascimento e Yona Kaluaná</H6>
 
 Em um primeiro momento, no turno da manhã, Aída e Vanderlan Silva (UFCG) compuseram a Mesa 1: “A cidade, projetos e usos”. Incialmente, houve uma apresentação sobre o que é o LabRua, mostrando desde o que são nossas pesquisas até os eventos e intervenções urbanas realizadas por nós. Além disso, Aída falou um pouco mais da sua própria experiência de vida como arquiteta e urbanista, e, principalmente, como cidadã andante e ciclista, tanto aqui em Campina Grande quanto em outras cidades onde já morou.
 

@@ -6,6 +6,7 @@ date = "2018-09-04"
 title = "Uma análise do índice de caminhabilidade em Esperança"
 weight = 0
 tags = ["resultados","pesquisa","caminhabilidade"]
+author = "Fernando Vasconcelos e Robson Porto"
 +++
 
 

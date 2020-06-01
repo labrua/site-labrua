@@ -6,6 +6,7 @@ date = "2020-05-29"
 title = "Minha experiência enquanto estudante de História no LabRua"
 tags = ["historia","urbanismo","interdisciplinaridade","experiência"]
 weight = 0
+author = "Yona Kaluaná"
 +++
 
 Um pouco da minha trajetória pessoal vivenciando os encontros entre a história e o urbanismo através do LabRua.

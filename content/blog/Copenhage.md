@@ -6,6 +6,7 @@ date = "2018-10-06"
 title = "Uso da bicicleta em Copenhage"
 tags = ["copenhage","bicicleta","viagem"]
 weight = 0
+author = "Claudia Palmeira"
 +++
 
 Copenhague. Minha primeira viagem internacional. Meu primeiro contato, efetivo, com outras culturas. Dois meses de muito aprendizado e novas experiências, sendo uma das mais marcantes, no sentido literal da palavra, o uso da bicicleta como meu principal meio de transporte.
