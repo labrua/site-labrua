@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/blog/pandemia/circlespark_photo Justin Sullivan"
+image = "img/blog/pandemia/circlespark.JPEG"
 date = "2020-06-01"
 title = "O uso da cidade durante a pandemia: experiências pós isolamento social"
 tags = ["pandemia","covid19","espaços públicos","boas práticas"]
