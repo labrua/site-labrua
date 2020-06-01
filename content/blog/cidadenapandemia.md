@@ -50,7 +50,7 @@ _Círculos demarcando o uso em parques respeitando o distanciamento social. As f
 
 ![Isolamento em Rotterdam](../../img/blog/pandemia/Rotterdam.jpeg)
 
-![Isolamento em SF](../../img/blog/pandemia/Park SF)
+![Isolamento em SF](../../img/blog/pandemia/ParkSF.jpeg)
 
 ###### As ruas
 
@@ -94,7 +94,6 @@ As intervenções apresentadas aqui são algumas entre tantas que podem ser pens
 
 
 ###### Referências
-referência da foto da capa
 
 [1] Foto da capa
 https://sf.curbed.com/2020/5/22/21266247/san-francisco-parks-social-distancing-circles-coronavirus
