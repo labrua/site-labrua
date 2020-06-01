@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>espaços públicos on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/espa%C3%A7os-p%C3%BAblicos/</link>
+    <description>Recent content in espaços públicos on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/espa%C3%A7os-p%C3%BAblicos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O uso da cidade durante a pandemia: experiências pós isolamento social</title>
+      <link>https://labrua.github.io/site-labrua/blog/cidadenapandemia/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/cidadenapandemia/</guid>
+      <description>&lt;p&gt;Buscando informações sobre ações que outros países estão fazendo em relação ao uso da cidade durante a pandemia do COVID-19, em especial os países que começaram um processo de desconfinamento, decidi apontar por aqui algumas dessas ações. Talvez algumas delas pode nos ajudar a pensar nas cidades brasileiras em um futuro breve de pós-isolamento social.&lt;/p&gt;
+&lt;p&gt;Foto de capa: Justin Sullivan [1].&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
