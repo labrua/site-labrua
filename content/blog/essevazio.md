@@ -6,6 +6,7 @@ date = "2018-11-15"
 title = "E esse vazio?"
 tags = ["vazios-urbanos","centro-urbano","simulação"]
 weight = 0
+author = "Allyson Barbosa, Claudia Palmeira, Persio Padre e Thaís Paixão"
 +++
 
 Os centros urbanos das cidades brasileiras sofreram muitas mudanças nas dinâmicas ao longo do tempo. Espaços (do urbano ao arquitetônico) com grande relevância no contexto cultural, econômico e social das cidades vêm passando por processos de abandono e expulsão.

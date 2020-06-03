@@ -6,6 +6,7 @@ date = "2018-05-25"
 title = "13 Cidades que estão começando a banir os automóveis"
 tags = ["tradução","cidades-sem-carro"]
 weight = 0
+author = "Persio Padre"
 +++
 
 O site *Business Insider* publicou uma matéria sobre as 13 cidades que estão planejando banir os automóveis de suas ruas. O site archdaily republicou a matéria em português, traduzindo alguns trechos. Para tornar mais acessível a todos, fizemos a tradução completa do artigo.

@@ -6,6 +6,7 @@ date = "2020-05-14"
 title = "Andando por Campina Grande"
 tags = ["ocupar","espaço-urbano"]
 weight = 0
+author = "Thaís Paixão"
 +++
 
 A minha experiência em vivenciar Campina Grande e sobre afetos com alguns espaços da cidade.  

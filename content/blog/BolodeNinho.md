@@ -6,6 +6,7 @@ date = "2018-05-23"
 title = "Bolo de chocolate com cobertura de leite ninho"
 weight = 0
 tags = ["receita"]
+author = "Rita Gurjão"
 +++
 
 
