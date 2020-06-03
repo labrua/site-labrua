@@ -63,7 +63,7 @@ Espaços que eram destinados para estacionamento de veículos se transformaram e
 
 _Ciclovia pop up em Berlim [5]_
 
-![Ciclovia pop up](../../img/blog/panemia/berlim.jpeg)
+![Ciclovia pop up](../../img/blog/panemia/berlim)
 
 Em Nova York, com o intuito de garantir a distância social, eles estão implantando o projeto chamado de open street, onde 65 quilômetros de ruas estão fechadas para carros e abertas para pedestres. O plano é chegar a 160 quilômetros de ruas dedicadas aos não-motorizados. Alguns jornais supõem que essas intervenção pode ficar permanente mesmo após o fim da pandemia [6].
 
