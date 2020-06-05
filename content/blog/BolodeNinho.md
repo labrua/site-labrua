@@ -19,7 +19,7 @@ Como vocês podem ver na aba da 'equipe', nós somos muitos, mais de 20! Então 
 
 Durante a reunião, falamos do que aprendemos, das dificuldades e das experiências com as pesquisas, assim, é o momento também dos labrueiros saberem o que tá se passando nas outras pesquisas. Aí claro, a gente aproveita para fazer aquele café, com um lanche mais especial. Um dos lanches queridos é o bolo de chocolate com cobertura de leite ninho que Rita, uma de nossas pesquisadoras, faz. Na verdade, bolo é a cara da gente! E melhor ainda quando é feito por uma das pessoas do Lab e com cobertura!
 
-<H6>por Rita Gurjão</H6>
+#######por Rita Gurjão######
 
 #### Bolo de chocolate
 

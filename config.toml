@@ -7,6 +7,8 @@ languageCode = "pt-br"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-119116699-1"
+RelativeURLs=true
+CanonifyURLs=true
 
 # relativeurls = true
 
