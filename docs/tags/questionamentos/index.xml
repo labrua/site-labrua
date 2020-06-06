@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pandemia on LabRua</title>
-    <link>https://labrua.github.io/site-labrua/tags/pandemia/</link>
-    <description>Recent content in pandemia on LabRua</description>
+    <title>questionamentos on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/questionamentos/</link>
+    <description>Recent content in questionamentos on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://labrua.github.io/site-labrua/tags/pandemia/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://labrua.github.io/site-labrua/tags/questionamentos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://labrua.github.io/site-labrua/blog/importanciadeeducar/</guid>
       <description>&lt;p&gt;“A falta de consciência não deixa você perceber que o mundo está de cabeça para baixo”. Com essa peça (“Favela”), a agência de publicidade Leo Burnett, em 2004, articulou uma campanha em prol de investimentos em ações sociais. O que quero saber, em 2020, é: Agora você percebe?&lt;/p&gt;
 &lt;p&gt;Esse post parte de incômodos gerados pela quarentena, diante do cenário atual do país, permeando algumas reflexões acerca da urgente necessidade de difundir conhecimento e das limitações que esse caminho encontra.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>O uso da cidade durante a pandemia: experiências pós isolamento social</title>
-      <link>https://labrua.github.io/site-labrua/blog/cidadenapandemia/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/blog/cidadenapandemia/</guid>
-      <description>&lt;p&gt;Buscando informações sobre ações que outros países estão fazendo em relação ao uso da cidade durante a pandemia do COVID-19, em especial os países que começaram um processo de desconfinamento, decidi apontar por aqui algumas dessas ações. Talvez algumas delas pode nos ajudar a pensar nas cidades brasileiras em um futuro breve de pós-isolamento social.&lt;/p&gt;
-&lt;p&gt;Foto de capa: Justin Sullivan [1].&lt;/p&gt;</description>
     </item>
     
   </channel>
