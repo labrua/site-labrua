@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conhecimento horizontal on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/conhecimento-horizontal/</link>
+    <description>Recent content in conhecimento horizontal on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/conhecimento-horizontal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A troca de conhecimento de forma horizontal</title>
+      <link>https://labrua.github.io/site-labrua/blog/mandacaru/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/mandacaru/</guid>
+      <description>&lt;p&gt;Iniciativa da Semana Interdisciplinar de Arquitetura e Urbanismo - Mandacaru objetiva proporcionar uma partilha de conhecimentos de forma horizontal através de atividades ministradas por estudantes, e para estudantes&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
