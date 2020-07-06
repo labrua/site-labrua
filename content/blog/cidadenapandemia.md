@@ -75,7 +75,7 @@ Independente da diretriz, é preciso pensar na volta ao uso do espaço público 
 
 _Capa do documento disponibilizado pela NACTO [7]_
 
-![Nacto](../../img/blog/pandemia/nacto)
+![Nacto](../../img/blog/pandemia/nacto.png)
 
 Além disso, faz-se necessário dados para entender as necessidades e dificuldades da população como um todo. A Rede Brasileira de Urbanismo Colaborativo, da qual o LabRua faz parte, está realizando uma pesquisa para entender como as pessoas estão tendo acesso à cidade. Realizar um diagnóstico é essencial para conseguirmos pensar em diretrizes de políticas públicas que sejam positivas para o espaço urbano.
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cultura on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/cultura/</link>
+    <description>Recent content in Cultura on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/cultura/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O São João para nós Campinenses</title>
+      <link>https://labrua.github.io/site-labrua/blog/saojoaoparacampinenses/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/saojoaoparacampinenses/</guid>
+      <description>&lt;p&gt;Nossa experiência e visão sobre a maior festa junina da cidade, trazendo um pouco da nossa vivência local.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
