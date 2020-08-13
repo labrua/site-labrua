@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/blog/blog allyson.jpg"
+image = "img/blog/do muro pra fora 02.jpeg"
 date = "2020-08-13"
 title = "Do muro pra fora: O movimento estudantil na formação política em Arquitetura e Urbanismo."
 tags = ["formacao-politica","arquitetura e urbanismo","vivencias"]
@@ -9,8 +9,7 @@ weight = 0
 author = "Allyson Barbosa"
 +++
 
-Dedico esse texto ao Curso de Arquitetura e Urbanismo da UFCG, que em 2020 completa 10 anos de existência. Em especial aos estudantes que a cada ano fortalecem a extensão universitária e a luta pelo o ensino público, gratuito e de qualidade. Foto de capa: Oficina do LabRua na SEMANAU 2019 - UFCG.
-foto de Bruno Coelho, 2019
+Dedico esse texto ao Curso de Arquitetura e Urbanismo da UFCG, que em 2020 completa 10 anos de existência. Em especial aos estudantes que a cada ano fortalecem a extensão universitária e a luta pelo o ensino público, gratuito e de qualidade. Foto de capa: Ato pela educação, 2019, Bruno Coelho.
 
 <!--more-->
 
