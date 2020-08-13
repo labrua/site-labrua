@@ -14,7 +14,7 @@ foto de Bruno Coelho, 2019
 
 <!--more-->
 
-<H6>por Allyson Barbosa</H6>
+###### por Allyson Barbosa
 
 Quando pensei em escrever sobre esse tema eu ainda era estudante. Queria de alguma forma falar sobre essa construção política do/a profissional Arquiteto/a e Urbanista para além da sala de aula. É uma opinião que veio se firmando com o tempo e que hoje, apenas 1 ano formado, já consigo ver, do muro pra fora, alguns resultados em mim que considero positivos.
 
