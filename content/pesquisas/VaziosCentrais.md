@@ -37,14 +37,14 @@ A pesquisa visa trazer contribuições com mapeamentos, classificações dos vaz
 
 >Artigos Publicados:
 
->[Artigo apresentado e publicado no TICYUrb'18 (Third International Conference of Young Urban Researchers) em Lisboae e na SAAU'19 (Semana Acadêmica de Arquitetura e Urbanismo do IESP) em João Pessoa-PB](../../pdf/Vazios Urbanos do Centro de Campina Grande_ Diagnóstico e Simulação_TicyURB_2018.pdf)
+>  [Artigo apresentado e publicado no TICYUrb'18 (Third International Conference of Young Urban Researchers) em Lisboae e na SAAU'19 (Semana Acadêmica de Arquitetura e Urbanismo do IESP) em João Pessoa-PB](../../pdf/Vazios Urbanos do Centro de Campina Grande_ Diagnóstico e Simulação_TicyURB_2018.pdf)
 
->[Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável em Belo Horizonte - MG.](../../pdf/A INSEGURANÇA NA RUA MACIEL PINHEIRO ATRAVÉS DO OLHAR DA MORFOLOGIA URBANA E A PERCEPÇÃO DE SEUS USUÁRIOS_fórumhabitar_set_2019.pdf)
+> [Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável em Belo Horizonte - MG.](../../pdf/A INSEGURANÇA NA RUA MACIEL PINHEIRO ATRAVÉS DO OLHAR DA MORFOLOGIA URBANA E A PERCEPÇÃO DE SEUS USUÁRIOS_fórumhabitar_set_2019.pdf)
 
 >Trabalhos de Conclusão de Curso dos pesquisadores:
 
->[Cláudia Palmeira - Rua Maciel Pinheiro: Análise, Diagnóstico e Simulação de uso das suas edificações parcialmente ocupadas.](../../pdf/TCC Claudia Palmeira.pdf)
+> [Cláudia Palmeira - Rua Maciel Pinheiro: Análise, Diagnóstico e Simulação de uso das suas edificações parcialmente ocupadas.](../../pdf/TCC Claudia Palmeira.pdf)
 
->[Allyson Barbosa - Centro (re) Habitar: Reabilitação Urbana com diversidade habitacional no Centro de Campina Grande. ](../../pdf/TCC Allyson Barbosa.pdf)
+> [Allyson Barbosa - Centro (re) Habitar: Reabilitação Urbana com diversidade habitacional no Centro de Campina Grande. ](../../pdf/TCC Allyson Barbosa.pdf)
 
->[ Persio Padre - Aluízio Campos para quê? Outro caminho através de poliíticas habitacionais em centros urbanos.](../../pdf/TCC Persio Padre.pdf)
+> [ Persio Padre - Aluízio Campos para quê? Outro caminho através de poliíticas habitacionais em centros urbanos.](../../pdf/TCC Persio Padre.pdf)
