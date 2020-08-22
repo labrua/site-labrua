@@ -1,0 +1,43 @@
+# Sobre o repositório do Site LabRua
+
+## Como 'funciona' a criação do Site LabRua
+
+O código aqui presente neste repositório é fruto do gerador de sites Hugo (https://gohugo.io)
+
+Onde através do que é editado no Atom (https://atom.io/), é interpretado pelo Hugo
+De modo que, tudo que esta presente na pasta "content" é interpretado pelo Hugo para que possa gerar todo o HTML necessário na pasta "docs" que é formará o site em sim.
+
+Dito isto, é necessároio que se tenha o Hugo "instalado" no seu computador para que ele possa gerar o HTML
+Tutorial para instalação em diversos sistemas operacionais:
+(https://gohugo.io/getting-started/installing)
+
+
+## Comandos mais utilizados
+
+No prompt de comando utilizamos os seguintes comandos no diretório referente ao repositório:
+
+- Para prévia do que será gerado pelo Hugo e estará disponivel para visualização em localhost:1313/site-labrua/ :
+
+"hugo server -D"
+
+- Para gerar de fato todo HTLM do site:
+
+"hugo"
+
+## Principal conteúdo do repositório
+
+- Content: Onde se encontra todo conteudo do site que será interpretado pelo Hugo para gerar o HTML de cada página, como por exemplo: textos para blog, sobre o lab, lista de pesquisadores, perfil de cada uma das pesquisas do LabRua, etc.
+- Docs: Contém todo conteúdo gerado pelo Hugo em HTML se encontra.
+- Static: Aqui temos todos os arquivos gerados pelo LabRua, imagens em diversos formatos e arquivos em PDF, que serão utilizados e disponibilizados no site.
+- Themes: Arquivos referentes ao tema do Hugo utilizado pelo Site do LabRua, o Hugo Creative Portfolio. A base para que seja gerado o HTML pelo Hugo.
+- Config.toml: Configurações diversas a cerca do site.
+
+## Sobre o modificação conteúdo
+
+Todo e qualquer conteudo alterado deverá ser publicado com titulo que expresse o que foi modificado, se possível acompanhado de uma descrição.
+
+-
+
+## Modificações podem vir a serem feitas no futuro e as mesmas serão notificadas quando feitas.
+
+-
