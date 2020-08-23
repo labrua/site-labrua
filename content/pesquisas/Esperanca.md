@@ -25,8 +25,6 @@ Esta pesquisa apresenta uma análise do centro de Esperança feita através de l
 * Análise das fachadas usando a metodologia de Gehl
 
 #### Alguns resultados
-> A área de estudo foi tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
-
-> [Hillary Pereira | Redesenho das Ruas Manoel Rodrigues de Oliveira e Clementino Farias na Cidade de Esperança-PB.](../../pdf/TCC Hillary Pereira.pdf)
-
-> [Robson Porto | Um Olhar sobre a Pequena Metrópole: A Requalificação dos Espaços Centrais em Esperança-PB.](https://drive.google.com/a/labrua.org/file/d/15a2A08LVAr6lVF0hvmZYh64vbnMp8tbt/view?usp=sharing)
+A área de estudo foi tema de Trabalho de Conclusão de Curso de dois pesquisadores do LabRua:
+* [Hillary Pereira | Redesenho das Ruas Manoel Rodrigues de Oliveira e Clementino Farias na Cidade de Esperança-PB.](../../pdf/TCC_Hillary_Pereira.pdf)
+* [Robson Porto | Um Olhar sobre a Pequena Metrópole: A Requalificação dos Espaços Centrais em Esperança-PB.](../../pdf/TCC_Robson_Porto.pdf)

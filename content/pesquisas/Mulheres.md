@@ -13,9 +13,9 @@ As diferenças sociais têm forte impacto na maneira com que as cidades são con
 
 Por muito tempo somente o homem branco tinha a chance de ter vida social, usufruir livremente do espaço público das cidades e de todas as trocas e vivências que ele oferece. Excluídas da vida pública, as mulheres eram destinadas à vida privada, da casa, e à mercê das obrigações domésticas. Assim, as cidades, por muito tempo - e por que não dizer até hoje – foram concebidas e planejadas por homens e para homens, produzindo um espaço público que não é neutro na sua organização e tem forte tendência de gênero.
 
-<H4>Mapa utilizado para um levantamento no Centro de Campina Grande - PB</H4>
-![](../../img/pesquisas/mulheres01.jpeg)
-<H6>Yona Kaluaná, 2020.</H6>
+#### Mapa utilizado para um levantamento no Centro de Campina Grande - PB
+![](/img/pesquisas/mulheres01.jpeg)
+###### Yona Kaluaná, 2020.
 
 Dessa forma, as mulheres estão mais vulneráveis à circulação, estando sujeitas a violências em diferentes níveis, e não há como falar em combate à violência ou desigualdade de gênero sem levar em consideração o cenário onde esses conflitos acontecem: o espaço urbano. Sendo a Paraíba um dos estados que mais mata mulheres segundo dados levantados em 2015, a pesquisa busca compreender quais características físico-espaciais e os fatores morfológicos que condicionam a vida das mulheres no bairro do Cinza.
 

@@ -12,17 +12,17 @@ O terminal de integração, localizado no centro de Campina Grande - PB consiste
 
 O acesso destas a este equipamento, entretanto, é marcado por um cruzamento em específico, que chamou a atenção dos pesquisadores do LabRua por seu desenho viário complexo, grande conflito de fluxos e, principalmente, as dificuldades que os pedestres encontram para acessar e circular no seu entorno.
 
- <H4>Vista panorâmica do Terminal de Integração.</H4>
+#### Vista panorâmica do Terminal de Integração.
 
 ![PANORÂMICA FINAL](../../img/pesquisas/integracao1.jpg)
- <H6>André Guimarães, 2018.</H6>
+###### André Guimarães, 2018.
 
  Diariamente diversas pessoas passam pela área do cruzamento, seja de ônibus, carro, moto ou a pé. Por o desenho urbano priorizar o veículo motorizado, podem-se identificar no cruzamento vários problemas que acarretam na insegurança dos transeuntes, como a existência de poucas faixas de pedestres que não atenderem à linha de deslocamento natural dos mesmos. Os usuários diversas vezes precisam dividir espaço com os ônibus para realizar travessias simples, que são dificultadas ainda pela não existência de calçadas ao longo das ruas, tendo assim diversos relatos de acidentes ocorridos no local.
 
-<H4>Falta de infraestrutura para a travessia adequada dos pedestres.</H4>
+#### Falta de infraestrutura para a travessia adequada dos pedestres.
 
 ![ACESSO ONIBUS](../../img/pesquisas/integracao2.png)
-<H6>Raiff Mangueira, 2018.</H6>
+###### Raiff Mangueira, 2018.
 
 A área não atende as necessidades básicas de mobilidade e de acessibilidade para os pedestres, previstas na NBR 9050. Também não é possível identificar melhorias na composição do lugar desde a implantação da integração em 2008, visto que existe insuficiência de estrutura que ofereça segurança e favoreçam a transição e permanência dos usuários do terminal, o que inspira atenção para o cruzamento.
 
@@ -49,6 +49,6 @@ Após a sistematização dos dados que foram coletados, desenvolveu-se diretrize
 
 #### Publicações relacionadas
 
-> [Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Artigo Habitar - Terminal de Integração.pdf)
+> [Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Artigo_Habitar_-_Terminal_de_Integração.pdf)
 
 .

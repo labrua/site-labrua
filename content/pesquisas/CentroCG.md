@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/pesquisas/Maciel Pinheiro.JPG"
+image = "img/pesquisas/Maciel_Pinheiro.JPG"
 date = "2015-05-02"
 title = "Núcleo Central de Campina Grande-PB"
 weight = 7
@@ -21,17 +21,12 @@ Esta pesquisa apresenta uma análise do núcleo central de Campina Grande feita 
 * Análise das fachadas usando a metodologia de Gehl
 * Contagem dos meios de transporte ao longo de um dia
 
-
-
 #### Alguns resultados
-> Três artigos e dois trabalhos de conclusão de curso. Os artigos foram apresentados no  1o Congresso Internacional Espaços Públicos, realizado em outubro de 2015 na PUCRS em Porto Alegre.
+ Artigos Publicados:
+* [Os espaços públicos no núcleo central da cidade de Campina Grande na percepção de seus usuários.](../../pdf/Tema_percepcao_espacos_publicos.pdf)
+* [Comportamento de pedestres, configuração das fachadas e mobiliário urbano na Rua Maciel Pinheiro, Campina Grande, Paraíba.](../../pdf/Artigo_comportamento_maciel_pinheiro.pdf)
+* [O centro de Campina Grande na percepção dos seus usuário: O caso da Rua Maciel Pinheiro.](../../pdf/Artigo_percepcao_maciel_pinheiro.pdf)
 
-> [Os espaços públicos no núcleo central da cidade de Campina Grande na percepção de seus usuários.](../../pdf/Tema_percepcao espacos publicos.pdf)
-
-> [Comportamento de pedestres, configuração das fachadas e mobiliário urbano na Rua Maciel Pinheiro, Campina Grande, Paraíba.](../../pdf/Artigo_comportamento maciel pinheiro.pdf)
-
-> [O centro de Campina Grande na percepção dos seus usuário: O caso da Rua Maciel Pinheiro.](../../pdf/Artigo_percepcao maciel pinheiro.pdf)
-
-> Beatriz Brito: Projeto de redesenho das ruas do núcleo central de Campina Grande-PB.
-
-> [Marihana Cirne: Redefinição do uso e ocupação do solo e redesenho do espaço público da rua Maciel Pinheiro em Campina Grande.](../../pdf/TCC Marihana Cirne.pdf)
+Trabalhos de Conclusão de Curso dos pesquisadores:
+* Beatriz Brito: Projeto de redesenho das ruas do núcleo central de Campina Grande-PB.
+* [Marihana Cirne: Redefinição do uso e ocupação do solo e redesenho do espaço público da rua Maciel Pinheiro em Campina Grande.](../../pdf/TCC_Marihana_Cirne.pdf)

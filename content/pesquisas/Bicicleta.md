@@ -16,21 +16,21 @@ A natureza dos sistemas de compartilhamento é permitir que qualquer pessoa poss
 
 Importante compreender o perfil de quem pedala e como está sendo feito o uso da bicicleta em Campina Grande, para tanto, foi imprescindível analisar o Diagnóstico do Uso da Bicicleta, em que, tomou-se como base para realização da proposta inicial do sistema, pois, o exame dos dados nos permitiu visualizar um retrato do prática e traçar quais são as tendências de crescimento quanto a utilização do modal.  
 
-<H4>Etapas do projeto</H4>
+#### Etapas do projeto
 ![Etapas bicicleta](../../img/pesquisas/bicicleta01.JPG)
-<H6>LabRua, 2020.</H6>
+###### LabRua, 2020.
 
  Ao analisar todos os dados levantados foi possível identificar uma área para análise de cobertura, no qual, constitui o local de implantação para a primeira fase do sistema, sendo essa área bairros centrais que apresentam uma dinâmica que favorece o uso do modal bicicleta. Abaixo tem-se a fase inicial da proposta de implantação do sistema.
 
-<H4>Estações propostas</H4>
+#### Estações propostas
  ![Estações propostas](../../img/pesquisas/bicicleta02.png)
-<H6>LabRua, 2019.</H6>
+###### LabRua, 2020.
 
 Sistemas de compartilhamento de bicicleta têm a capacidade de abranger seu uso principalmente para pessoas que tem o interesse em tornar-se novos(as) usuários(as) deste modal, em que facilita o acesso do meio para vários grupos de pessoas. O sistema têm se mostrado uma ferramenta importante de integração ao sistema cicloviário em cidades em todo o mundo, assim como, busca também a integração com outros meios de transporte público, sendo um fator fundamental para a produção de cidades equitativas e sustentáveis.
 
-<H4>Propostas de intervenção</H4>
+#### Propostas de intervenção
  ![Propostas de intervenção](../../img/pesquisas/bicicleta03.png)
-<H6>LabRua, 2019.</H6>
+###### LabRua, 2020.
 
 #### Análises produzidas nessa pesquisa
 * Dados socioeconômicos da população

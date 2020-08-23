@@ -1,5 +1,5 @@
 +++
-image = "img/pesquisas/Acude Velho.jpg"
+image = "img/pesquisas/Acude_Velho.jpg"
 showonlyimage = false
 date = "2017-11-05T19:44:32+05:30"
 title = "Espaços Públicos do Açude Velho, Campina Grande-PB"
@@ -27,5 +27,5 @@ Esta pesquisa apresenta uma análise do entorno do Açude Velho feita através d
 
 
 #### Alguns resultados
-> A área de estudo é tema de Trabalho de Conclusão de Curso de um pesquisador do LabRua:
-> Thállis Dantas:
+Trabalhos de Conclusão de Curso dos pesquisadores:
+* [ Thallis Dantas -

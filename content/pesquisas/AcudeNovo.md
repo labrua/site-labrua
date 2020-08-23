@@ -18,7 +18,7 @@ para a área, principalmente no turno da noite que é o único horário de funci
 maioria das lanchonetes.
 
 ![Vista da rua](../../img/pesquisas/lindoolhar1.jpg)
- <H6> Robson Porto, 2019.</H6>
+###### Robson Porto, 2019.
 
  Em sua atual configuração, esses comércios apresentam-se de maneira que
  ignoram a presença do parque, pois estão dispostas de costas para ele, interrompendo a
@@ -28,7 +28,7 @@ maioria das lanchonetes.
  insegurança dos usuários.
 
 ![Vista do parque](../../img/pesquisas/lindoolhar2.jpg)
-<H6> Robson Porto, 2019.</H6>
+###### Robson Porto, 2019.
 
 Nesse contexto, a pesquisa busca compreender a relação entre os comércios
 existentes e a parcela da cidade na qual estão inseridos, e a partir da elaboração de um

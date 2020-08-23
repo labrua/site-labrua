@@ -1,5 +1,5 @@
 +++
-image = "img/pesquisas/piramide bandeiras.jpg"
+image = "img/pesquisas/piramide_bandeiras.jpg"
 showonlyimage = false
 draft = false
 date = "2016-11-05T19:53:42+05:30"
@@ -24,4 +24,7 @@ A abordagem deste trabalho é estudar modificações do layout do Parque do Povo
 
 
 #### Alguns resultados
-> Artigo aceito para ser apresentado no TICYUrb'18 (Third International Conference of Young Urban Researchers) que acontecerá em Lisboa entre o 18 e o 22 de Junho de 2018. Título do artigo: *Os Festejos Juninos em Campina Grande: Evolução e Percepção dos Usuários no Parque do Povo.*
+Artigo aceito para ser apresentado no TICYUrb'18 (Third International Conference of Young Urban Researchers) que acontecerá em Lisboa entre o 18 e o 22 de Junho de 2018. Título do artigo:
+* Os Festejos Juninos em Campina Grande: Evolução e Percepção dos Usuários no Parque do Povo.
+
+.

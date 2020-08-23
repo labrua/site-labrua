@@ -15,25 +15,25 @@ Em parceria com a Secretaria de Desenvolvimento Econômico de Campina Grande, o 
 
 Dentro do âmbito da pesquisa, a equipe do LabRua estudou a setorização informal que se formou na Feira Central, em especial na questão viária, mapeando os estacionamentos existentes e seus diferentes perfis de uso, de carga e descarga, embarque e desembarque, e de uso privado.
 
-<H4>Distribuição do estacionamento em via pública e intra-lote</H4>
-![](../../img/pesquisas/feiracentral01.jpg)
-<H6>LabRua, 2019.</H6>
+#### Distribuição do estacionamento em via pública e intra-lote
+![](/img/pesquisas/feiracentral01.jpg)
+###### LabRua, 2019.
 
-<H4>Análise quantitativa de veículos estacionados</H4>
-![](../../img/pesquisas/feiracentral02.jpg)
-<H6>LabRua, 2019.</H6>
+#### Análise quantitativa de veículos estacionados
+![](/img/pesquisas/feiracentral02.jpg)
+###### LabRua, 2019.
 
 O principal uso da Feira Central ainda é do(a) comprador(a) individual que caminha pelo espaço labiríntico das barracas para realizar suas compras domésticas. Tendo isso em mente a pesquisa realizou seu levantamento mais ambicioso: uma contagem dos usuários em cinco pontos da feira central num período de 12 horas contínuas para monitorar o fluxo e os horários de pico do local, contabilizando um total de quase 80 mil usuários nos pontos de realização da contagem.
 
-<H4>Volume de usuários por hora</H4>
+#### Volume de usuários por hora
 ![](../../img/pesquisas/feiracentral03.jpg)
-<H6>LabRua, 2019.</H6>
+###### LabRua, 2019.
 
 Foram analisadas também as soluções dos feirantes para suas barracas, seus diferentes usos e suas diferentes disposições, catalogando as diferentes tipologias concebidas e utilizadas pelos feirantes bem como a disposição física das barracas ao longo de diferentes setores da feira, esquematizados através de cortes para entender a caminhabilidade do espaço.
 
-<H4>Cortes esquemáticos das vias</H4>
+#### Cortes esquemáticos das vias
 ![](../../img/pesquisas/feiracentral04.jpg)
-<H6>LabRua, 2019.</H6>
+###### LabRua, 2019.
 
 Os resultados do diagnóstico foram apresentados à Secretaria de Desenvolvimento Econômico de Campina Grande e no Fórum Habitar 2019 em Belo Horizonte/MG através de um artigo de autoria da equipe do LabRua.
 
@@ -47,7 +47,5 @@ Os resultados do diagnóstico foram apresentados à Secretaria de Desenvolviment
 * Esquematização das ruas e análise de caminhabilidade
 
 #### Publicações relacionadas
-
-> [Caderno de diagnóstico da Feira Central de Campina Grande.](../../pdf/Caderno Feira Central.pdf)
-
-> [Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Desafios e perspectivas acerca da espacialidadedas ruas da Feira Central de Campina Grande_ Fórum Habitar_ 31_08_19.pdf)
+ #### [Caderno de diagnóstico da Feira Central de Campina Grande.](../../pdf/Caderno_Feira_Central.pdf)
+ [Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Desafios_e_perspectivas_acerca_da_espacialidadedas_ruas_da_Feira_Central_de_Campina_Grande__Fórum_Habitar__31_08_19.pdf)
