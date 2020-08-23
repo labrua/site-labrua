@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/blog/seminario_conde/Foto X_5.jpg"
+image = "img/blog/seminario_conde/Foto_X_5.jpg"
 date = "2020-04-08"
 title = "Co-criar o urbano: Repensar a rua em Terras Belas"
 weight = 0
