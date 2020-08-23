@@ -44,4 +44,9 @@
     <i class="fa fa-book"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.apoiase }}
+  <a href="{{ . }}" data-animate-hover="pulse">
+    <i class="fa fa-heart"></i>
+  </a>
+  {{end}}
 </p>

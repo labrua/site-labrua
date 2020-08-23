@@ -1,5 +1,5 @@
 +++
-image = "img/eventos/Capa CINELAB.jpg"
+image = "img/eventos/Capa_CINELAB.jpg"
 showonlyimage = false
 date = "2017-11-05T19:44:32+05:30"
 title = "CineLab"
@@ -22,7 +22,7 @@ Visto isso, o enfoque do CineLab é o de promover noites culturais, trazendo pro
 > *Aquarius* |   30/05/2018
 
 
-* Outras atualizações sobre o CineLab pode ser encontradas aqui: http://www.labrua.org/blog/cinelab1/
+* Outras atualizações sobre o CineLab pode ser encontradas [aqui](http://www.labrua.org/blog/cinelab1/)
 
 
 <style>

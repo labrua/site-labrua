@@ -2,7 +2,7 @@
 date = "2018-04-05"
 title = "Lojinha"
 draft = false
-image = "img/eventos/desenho lojinha.jpg"
+image = "img/eventos/desenho_lojinha.jpg"
 showonlyimage = false
 weight = 100
 +++
@@ -50,12 +50,11 @@ Nossas queridas canecas estão de volta! E agora elas ficaram ainda mais charmos
 
 Elas são feitas em Ágata e produzidas pela marca Metallouças, aqui em Campina Grande.
 
-![Bottons LabRua](../../img/Lojinha/canecas.jpeg)
+![Canecas LabRua](../../img/Lojinha/canecas.jpeg)
 
 Monte a sua caneca! **São 7 opções de cores da caneca e 9 cores diferentes para os adesivos com a nossa logo**
 
 >**Valor R$15,00**
-
 >Se ficou afim, é só entrar em contato com a gente pelo site do LabRua, ir aos nossos eventos ou nos visitar. Podemos combinar também a entrega em locais como UFCG, UFPB e UniFacisa!
 
 
@@ -65,7 +64,6 @@ Agora nossa lojinha também tem bottons! Aproveitando o novo logotipo, fizemos e
 **Temos cinco opções!**
 
 >**Valor R$3,00 (2x R$5,00)**
-
 >Se ficou afim, é só entrar em contato com a gente pelo site do LabRua, ir aos nossos eventos ou nos visitar. Podemos combinar também a entrega em locais como UFCG, UFPB e UniFacisa!
 
 
@@ -79,6 +77,6 @@ Além de fugirem da escala humana, evitarem os olhos da rua, eles elevam o custo
 O primeiro produto dessa coleção foram as camisetas **É Difícil, Lucas**
 O Edifício Lucas é uma edificação de uso misto, moderna, com 16 pavimentos que está localizada no Centro de Campina Grande.
 
-![Bottons LabRua](../../img/Lojinha/edificiolucas.jpeg)
+![Edifício Lucas](../../img/Lojinha/edificiolucas.jpeg)
 
 >**Ah, a gente vendeu todas as camisetas da primeira leva.** Se você se interessou, manda uma mensagem pra gente! Queremos continuar a coleção com outros edifícios por aí.

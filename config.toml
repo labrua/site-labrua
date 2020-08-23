@@ -53,7 +53,7 @@ CanonifyURLs=true
   url = "blog/"
 
   [[params.navlinks]]
-  name = "Equipe"
+  name = "O Calçadão"
   url = "equipe/"
 
   [[params.navlinks]]
@@ -63,7 +63,9 @@ CanonifyURLs=true
   [params.social]
   facebook      = "https://facebook.com/LabRua/"
   email         = "contato@labrua.org"
+  twitter       = "https://twitter.com/LaboratorioRua"
   instagram     = "https://instagram.com/lab.rua"
+  apoiase       = "https://apoia.se/labrua"
   issuu         = "https://issuu.com/contato-labrua"
 
   [taxonomies]
