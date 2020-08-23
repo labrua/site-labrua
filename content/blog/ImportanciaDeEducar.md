@@ -32,3 +32,5 @@ Como falar de educação em um país, onde a figura que interpreta o papel de pr
 Pois é, quando me propus a escrever esse texto, não existia pandemia, a crise política e econômica era *“velada”* (aos *“desatentos”*), o sistema de saúde público era a última opção e a educação era balbúrdia.
 
 Agora, que o SUS carrega a crise nas costas, que a tão esperada solução para o vírus depende, em grande parte, de pesquisas acadêmicas e, portanto, da educação e que a população segue desgovernada; me dei conta de que ainda mais relevante que compartilhar conhecimentos técnicos seria nos fazer questionar a sociedade, o lugar que ocupamos nela e, principalmente, o lugar que outros ocupam.
+
+.

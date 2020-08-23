@@ -23,6 +23,8 @@ Durante o evento, forma realizadas diversas oficinas de crochê, bordado, palha�
 
 O LabRua agradece aos oficiantes, à Capela da Guia, aos Labrueiros e todo mundo que compareceu.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AI7hFxTwg-Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube AI7hFxTwg-Q >}}
 
-Até o próximo *Lab na Rua*!
+#### Até o próximo *Lab na Rua*!
+
+.

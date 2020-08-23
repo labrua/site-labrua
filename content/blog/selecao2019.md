@@ -26,16 +26,15 @@ Ambas seleções se darão por meio de duas etapas: a primeira será o preenchim
 
 #### Pesquisas
 
-<dt>edital</dt>
-> [EDITAL DE CHAMADA DO LABRUA 01_2019](../../pdf/EDITAL 01_2019.pdf)
 
-<dt>formulário</dt>
-https://laboratorioderua.typeform.com/to/MfSdUc
+##### [EDITAL DE CHAMADA PESQUISADORES 2019](../../pdf/EDITAL_01_2019.pdf)
+
+
+[Formulário Pesquisadores](https://laboratorioderua.typeform.com/to/MfSdUc)
 
 #### Estágio obrigatório
 
-<dt>edital</dt>
-> [EDITAL DE CHAMADA DO LABRUA 02_2019](../../pdf/EDITAL 02_2019.pdf)
 
-<dt>formulário</dt>
-https://laboratorioderua.typeform.com/to/j3U975
+##### [EDITAL DE CHAMADA DO LABRUA 02_2019](../../pdf/EDITAL_02_2019.pdf)
+
+[Formulário Estágio](https://laboratorioderua.typeform.com/to/j3U975)

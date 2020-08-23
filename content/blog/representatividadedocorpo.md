@@ -13,8 +13,8 @@ author = "Rebeca Brasil"
 Sabe esse corpo? Esse corpo é seu e ele é político.
 <!--more-->
 
-<H5>por Rebeca Brasil</H5>
-<H7> foto de Rita Lourenço <H7>
+##### por Rebeca Brasil</H5>
+###### foto de Rita Lourenço <H7>
 
 É urgente entender que um corpo não está dissociado de pensamentos, valores e necessidades; ele encerra em si todas as experiências e ideais do ser humano, construídos a partir de respostas aos estímulos recebidos do entorno, das situações, das pessoas.
 

@@ -12,7 +12,7 @@ author = "Raiff Nascimento e Yona Kaluaná"
 No dia 17 de maio, aconteceu na UFCG, a II Jornada Sociatos, que teve como tema “Viver e (re)inventar a cidade: Percepções, experiências e práticas”. Nossa diretora Aída Pontes e Raiff Mangueira (Babu), foram convidados a participar do debate.
 <!--more-->
 
-<H6>por Raiff Nascimento e Yona Kaluaná</H6>
+##### por Raiff Nascimento e Yona Kaluaná
 
 Em um primeiro momento, no turno da manhã, Aída e Vanderlan Silva (UFCG) compuseram a Mesa 1: “A cidade, projetos e usos”. Incialmente, houve uma apresentação sobre o que é o LabRua, mostrando desde o que são nossas pesquisas até os eventos e intervenções urbanas realizadas por nós. Além disso, Aída falou um pouco mais da sua própria experiência de vida como arquiteta e urbanista, e, principalmente, como cidadã andante e ciclista, tanto aqui em Campina Grande quanto em outras cidades onde já morou.
 
@@ -20,14 +20,16 @@ Em seguida abriram-se sessões de perguntas que puderam desencadear um debate so
 
 Também foram feitas perguntas sobre a experiência da primeira edição do “Lab.na.Rua”, que aconteceu no dia 21 de abril e ocupou uma das praças da cidade com música e diversão, recebendo elogios e agradecimentos que nos incentivaram a continuar levando para a prática aquilo que tanto vemos no que pesquisamos. Algumas pessoas se interessaram em fazer parte da nossa equipe e já adiantamos que está previsto o ingresso de novos integrantes no segundo semestre de 2018, dando prioridade para pessoas que não sejam de arquitetura e urbanismo, devido a grande maioria de nossos pesquisadores serem da área. Ao final da mesa, percebemos como as semelhanças ideológicas fazem possíveis uma parceria LabRua-Sociatos, abarcando interdisciplinarmente a discussão para uma vivência melhor nas cidades.
 
-<H6>Evento Lab.na.Rua que aconteu no dia 21/04/2018</H6>
-![Lab na Rua](../../img/blog/foto do labnarua.jpeg)
+##### Evento Lab.na.Rua que aconteu no dia 21/04/2018
+![Lab na Rua](/img/blog/foto_do_labnarua.jpeg)
 
 No segundo momento, formou-se a mesa “A cidade e suas múltiplas vivências”, que contou com representantes de alguns grupos sociais: Clara Farias, mulher negra, lésbica, feminista e estudante de Arte e Mídia, Maria Goretti, Mãe de santo e militante, Odair Santos, praticante de Parkour, Regis Gonçalves, representante do Centro Informativo de Prevenção, Mobilização e Aconselhamento aos Profissionais do Sexo (CIPMAC) e Raiff Mangueira, artista de rua, estudante de Urbanismo e Arquitetura e membro do LabRua.
 
 Nesta mesa cada um contou suas vivências na cidade e percepções quanto a sua representatividade. Como representante do pixo, Babu levantou a importância da pixação como uma forma de ocupação, reivindicação do espaço público e questionamentos quanto as cidades cercadas por muros que negam a rua e consequentemente toda uma cidade invisível aos olhos das classes mais abastadas da sociedade.
 
-<H6>O pesquisador Raiff recebendo seu certificado</H6>
-![Babu](../../img/blog/Babu certificado.jpeg)
+##### O pesquisador Raiff recebendo seu certificado
+![Babu](../../img/blog/Babu_certificado.jpeg)
 
 Vale ressaltar a importância desse evento para uma discussão sobre cidade e a forma como a enxergamos e vivenciamos, dando voz a representatividades sociais bastante relevantes em nossa sociedade, mas invisíveis, e quando não, sofrem com preconceito e outras diversas formas de opressão no contexto de cidade autoritária e segregadora na qual estamos inseridos.
+
+.

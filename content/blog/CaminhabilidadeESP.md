@@ -13,12 +13,13 @@ author = "Fernando Vasconcelos e Robson Porto"
 A pesquisa que o LabRua vem desenvolvendo na cidade de Esperança, incluiu uma análise detalhada da área central do município e levantou várias questões sobre a condição de circulação dos pedestres que circulam na área. Impulsionados pelo tema, a equipe de envolvida analisou o índice de caminhabilidade em seu núcleo central.
 <!--more-->
 
-######por Fernando Vasconcelos e Robson Porto######
+###### por Fernando Vasconcelos e Robson Porto
 
 As cidades brasileiras vêm crescendo e se organizando de forma que seu desenho se adapte aos meios de transporte atuantes. O que vem ocorrendo, a partir disso, é a priorização do veículo motorizado individual, e pouco atenção é dada aos veículos não-motorizados e transporte coletivos. Essa relação não foi diferente em Esperança, localizada no interior da Paraíba e com uma população de 36 mil habitantes (IBGE, 2017).
 
-_Mapa de localização do núcleo central de Esperança-PB_
+##### Mapa de localização do núcleo central de Esperança-PB
 ![Mapa de Localização](../../img/blog/localizacaoesp.png)
+###### LabRua, 2018
 
 O município estudado, mesmo diante deste cenário, ainda é um praticante do pedestrianismo. Todavia, apesar de se ter um grande número de pedestres nos espaços públicos do núcleo central, a caminhada não é incentivada devido à falta de infraestrutura adequada. O que se percebe é que o núcleo central se tornou um local apenas de passagem e de pouca permanência de pessoas nos espaços públicos.
 
@@ -31,8 +32,9 @@ O cálculo do índice de caminhabilidade se baseou na metodologia do ITDP-Brasil
 Este índice permite que seja feita uma avaliação do espaço urbano diagnosticando suas reais condições de uso, caracterizando se são ou não favoráveis ao deslocamento a pé. A partir disto, uma tabela resumo foi elaborada para analisar a área estudada, onde nela apresentamos as notas referentes aos índices julgados de acordo com o índice de caminhabilidade.
 
 
-_Tabela 1 | Resultado da aplicação do índice de Caminhabilidade das ruas Manoel Rodrigues de Oliveira e Clemente de Farias._
+##### Tabela 1 | Resultado da aplicação do índice de Caminhabilidade das ruas Manoel Rodrigues de Oliveira e Clemente de Farias.
 ![Tabela Caminhabilidade](../../img/blog/tabelacaminhabilidadeesperanca.jpg)
+###### LabRua, 2018
 
 Apesar do alto número de pedestres circulando no núcleo central de Esperança, os resultados demonstram que o índice de caminhabilidade das ruas estudadas é insatisfatório. Das seis variáveis analisadas uma apresentou resultado insuficiente e as demais apresentaram resultado aceitável. Esse resultado demonstra que há pouca atenção e investimentos sendo despendidos em ações que priorizem as calçadas e demais espaços para os pedestres.
 
@@ -41,3 +43,5 @@ A infraestrutura ofertada ao pedestre se apresenta, portanto, como insuficiente,
 Além disso, outro fato alarmante, é que a análise foi realizada em duas das principais vias do município, possuindo maior cuidado e atenção e gerando questionamento sobre as áreas periféricas e como estas estão sendo assistidas pelo poder público. Desta forma, esta análise expõe não apenas a problemática das ruas estudadas, deixando a entender também a configuração atual do seu entorno.
 
 Diante dos resultados, o LabRua pretende despertar a importância de coletar (e analisar) dados desta natureza em cidades de pequeno porte, como uma forma de acenar para que os problemas de mobilidade das cidades de médio e grande porte não se reproduzam, para evitar uma possível tendência de, infelizmente,  crescer e copiar modelos de cidades maiores e vizinhas, consequentemente repetindo erros comumente causados pela falta de planejamento urbano.
+
+.

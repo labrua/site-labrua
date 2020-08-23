@@ -15,9 +15,11 @@ A ideia do evento é de promover noites culturais mas com o tema da cidade em fo
 
 O CineLab é coordenado pelo nosso pesquisador Pablo Ventura. Acontece nas primeiras quintas-feiras do mês (às vezes a gente muda a data, então verifica nossa agenda). A entrada é gratuita, mas quem quiser deixar uma colaboração é mais que bem-vindo.
 
-Em abril de 2018, o projeto CineLab saiu no Programa Diversidades da Tv Itararé. Dá pra conhecer um pouco mais sobre esse projeto aqui.
+Em abril de 2018, o projeto CineLab saiu no *Programa Diversidades da Tv Itararé*. Dá pra conhecer um pouco mais sobre esse projeto aqui.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bcui99qEwyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< youtube Bcui99qEwyU >}}
 
 
-* Você pode acompanhar todas as edições do CineLab no link: http://www.labrua.org/eventos/cinelab/
+#### Você pode acompanhar todas as edições do CineLab [aqui](http://www.labrua.org/eventos/cinelab/).
+
+.

@@ -32,7 +32,7 @@ O principal uso da Feira Central ainda é do(a) comprador(a) individual que cami
 Foram analisadas também as soluções dos feirantes para suas barracas, seus diferentes usos e suas diferentes disposições, catalogando as diferentes tipologias concebidas e utilizadas pelos feirantes bem como a disposição física das barracas ao longo de diferentes setores da feira, esquematizados através de cortes para entender a caminhabilidade do espaço.
 
 #### Cortes esquemáticos das vias
-![](../../img/pesquisas/feiracentral04.jpg)
+![](/img/pesquisas/feiracentral04.jpg)
 ###### LabRua, 2019.
 
 Os resultados do diagnóstico foram apresentados à Secretaria de Desenvolvimento Econômico de Campina Grande e no Fórum Habitar 2019 em Belo Horizonte/MG através de um artigo de autoria da equipe do LabRua.
@@ -47,5 +47,5 @@ Os resultados do diagnóstico foram apresentados à Secretaria de Desenvolviment
 * Esquematização das ruas e análise de caminhabilidade
 
 #### Publicações relacionadas
- #### [Caderno de diagnóstico da Feira Central de Campina Grande.](../../pdf/Caderno_Feira_Central.pdf)
+ #### [Caderno de diagnóstico da Feira Central de Campina Grande.](/pdf/Caderno_Feira_Central.pdf)
  [Artigo apresentado no Fórum HABITAR 2019: Habitação e Desenvolvimento Sustentável.](../../pdf/Desafios_e_perspectivas_acerca_da_espacialidadedas_ruas_da_Feira_Central_de_Campina_Grande__Fórum_Habitar__31_08_19.pdf)

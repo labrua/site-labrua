@@ -68,6 +68,6 @@ Entendendo que a implantação de determinados equipamentos públicos na área n
 
 A oficina foi finalizada no domingo com um debate sobre os pontos fortes e fracos. Apesar das ideias terem sido todas definidas e começadas a serem trabalhadas nos dois dias de oficina, o tempo não foi suficiente para finalização da cartilha. A equipe do LabRua finalizou a cartilha posteriormente, incluindo o processo e as propostas construídas com a população e os oficinantes.
 
-> [Cartilha Co-criar o urbano: Repensar a rua em Terras Belas.](/pdf/Oficina_CoCriar_o_Urbano_Repensar_as_ruas_de_Terras_Belas_LabRua.pdf)
+### [Cartilha Co-criar o urbano: Repensar a rua em Terras Belas.](/pdf/Oficina_CoCriar_o_Urbano_Repensar_as_ruas_de_Terras_Belas_LabRua.pdf)
 
 .

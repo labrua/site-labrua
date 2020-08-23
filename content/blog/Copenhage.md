@@ -12,7 +12,7 @@ author = "Claudia Palmeira"
 Copenhague. Minha primeira viagem internacional. Meu primeiro contato, efetivo, com outras culturas. Dois meses de muito aprendizado e novas experiências, sendo uma das mais marcantes, no sentido literal da palavra, o uso da bicicleta como meu principal meio de transporte.
 <!--more-->
 
-<H6>por Claudia Palmeira</H6>
+##### por Claudia Palmeira</H6>
 
 Uma cidade que tem seu trânsito voltado para o ciclista, além de todo um desenho urbano que promove o uso da bicicleta, tendo como vantagem seu território plano. As ruas de maior movimento possuem ciclovias unidirecionais, com duas faixas, e sinalização voltada para as bikes; enquanto as demais ruas são compartilhadas, o que não é um problema, já que os veículos motorizados, independentemente do porte, respeitam as bicicletas.
 
@@ -34,6 +34,6 @@ Entendi que uma cidade bem planejada é fundamental; que uma sociedade bem estru
 
 Me despedi de Copenhague com um até breve e com o desejo de incorporar, em meu cotidiano, o uso da bicicleta como um meio de transporte.
 
-![Copenhage](../../img/blog/copenhage2.jpeg)
+![Copenhage](/img/blog/copenhage2.jpeg)
 
-![Copenhage](../../img/blog/copenhage3.jpeg)
+![Copenhage](/img/blog/copenhage3.jpeg)

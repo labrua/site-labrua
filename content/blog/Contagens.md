@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/blog/capa contagem.JPG"
+image = "img/blog/capa_contagem.JPG"
 date = "2018-05-22"
 title = "Metodologia de contagem dos modais"
 tags = ["metodologia","contagem-modais"]
@@ -29,7 +29,7 @@ O sentido do percurso é importante para entender o tipo de comportamento no esp
 A ficha de contagem, além de organizada de forma que conseguimos marcar o volume e fluxo dos modais, é sistematizada por um quarto de hora: quinze em quinze minutos é feita a troca da ficha para uma nova. Isso foi pensado para evitar erros e a poluição gráfica na folha, além de permitir outras análises e a elaboração de gráficos mais suaves.
 
 ###### Fichas de contagens utilizada na pesquisa do Açude Velho
-![fichas de contagens](../../img/blog/fichas contagem acude.jpg)
+![fichas de contagens](../../img/blog/fichas_contagem_acude.jpg)
 
 #### Escolha dos dias
 Como a dinâmica do fim de semana é diferente, fazemos nossas contagens em dias de semana, entre terça e quinta, pois segunda e sexta sofrem interferência do fim de semana. Começamos sempre um pouco antes do horário comercial, se estendendo até um pouco depois do seu fim. Mas as escolhas de dias e horários podem mudar em virtude do objetivo da pesquisa ou das características do espaço. Por exemplo, na contagem que fizemos na Rua Maciel Pinheiro, rua majoritariamente comercial no Centro de Campina Grande, contamos de 6:00hs até às 19:00hs. Já no Parque do Açude Velho, também em Campina, por conta do seu uso muito voltado para a prática de esportes, as contagens começaram um hora mais cedo e terminaram uma hora mais tarde.
@@ -44,19 +44,19 @@ Nem sempre dá certo, às vezes precisamos cancelar ou remarcar o dia e local de
 O conforto de quem vai contar também é importante: procuramos uma sombra, levamos cadeiras de praia, água e lanche.
 
 ###### Fichas de contagens do Açude Velho preenchidas
-![fichas preenchidas](../../img/blog/fichas preenchidas acude.jpg)
+![fichas preenchidas](../../img/blog/fichas_preenchidas_acude.jpg)
 
 #### Manipulação dos dados:
 Com todas as fichas em mãos chega a hora de passar esses dados para o computador. Todas essas fichas e marcações se transformam em uma tabela com todos os horários e quantidades separadas entre si e por modal. A partir daí consegue-se comparar melhor os diferentes momentos do dia, por meio de transporte individualmente ou em conjunto, e gerar gráficos e mapas mais específicos.
 
 ###### Exemplo de uma tabela com os dados obtidos na contagem do Açude Velho
-![tabela preenchida](../../img/blog/tabela exemplo acude.JPG)
+![tabela preenchida](../../img/blog/tabela_exemplo_acude.JPG)
 
 #### Alguns resultados
 Alguns desses resultados apontam uma porcentagem muito maior de pedestres do que de veículos motorizados nas vias, como na rua Maciel Pinheiro em Campina Grande. Em outros lugares, é possível perceber que o volume de pedestres é maior apenas em alguns horários do dia, o que acontece no Açude Velho, como pode ser visto no gráfico a seguir:
 
 ###### Volume total dos diferentes meios de transporte na Rua Maciel Pinheiro
-![gráfico de Jackson](../../img/blog/Grafico Jackson.png)
+![gráfico de Jackson](../../img/blog/Grafico_Jackson.png)
 
 Resultados como esse se repetem na cidade de Esperança e em Conde. Indicando que muitos desses espaços não são democráticos, a vista que apresentam muito mais espaço destinado ao automóvel que ao transporte ativo.
 
@@ -65,15 +65,15 @@ As bicicletas sempre apresentam o menor número nas contagens, com picos signifi
 Como dito anteriormente, com a contagem direcional é possível entender o sentido de circulação dos modais. O gráfico abaixo é a sistematização desse dado para bicicletas no Açude Velho:
 
 ###### Mapa direcional do volume de bicicletas na rotatória do Açude Velho
-![girador bicicleta](../../img/blog/girador acude.jpg)
+![girador bicicleta](../../img/blog/girador_acude.jpg)
 
 
 
 #### Locais onde realizamos contagens
 
 ##### Campina Grande
-> local          | quando
-> -----     | ---:
+> local            | quando
+> -----     | ----:
 > *Açude Velho, estátua de Jackson do Pandeiro* |   maio/2017
 > *Açude Velho, ao lado do Cuca* |
 > *Açude Velho, monumento dos 150 anos* |
@@ -81,14 +81,14 @@ Como dito anteriormente, com a contagem direcional é possível entender o senti
 > *Contagem de ciclistas em 12 pontos diferentes da cidade* (ver pesquisa sobre o Diagnóstico do uso da bicicleta)  |  outubro/2014
 
 ##### Esperança
-> local          | quando
-> ---  | ---:
-> *Rua Manoel Rodrigues*  | setembro/2017
+> local                    |      quando
+> ----  | ----:
+> *Rua Manoel Rodrigues*  |setembro/2017
 > *Rua Solon de Lucena*  |
 
 ##### Conde
-> local          | quando
-> --- | ---:
+> local              | quando
+> ---- | ----:
 > *Cruzamento PB-018 com a rua Manoel Alves/Domingos Maranhão*  | julho/2017
 
 
