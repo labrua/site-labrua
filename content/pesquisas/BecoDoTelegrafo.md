@@ -42,7 +42,6 @@ A produção do diagnóstico seguiu metodologias já utilizadas pelo LabRua, bus
 
 
 #### Alguns resultados
-> #### [Caderno Beco do Telégrafo](../../pdf/InfograficoVazios.pdf)
-
+### [Caderno Beco do Telégrafo](/pdf/Caderno_BECO.pdf)
 
 .
