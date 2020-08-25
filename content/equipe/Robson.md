@@ -14,4 +14,4 @@ Um dos "esperançosos" do Lab.
 Está sempre disposto a ajudar, quando o assunto é trabalho, responsabilidade o define.
 
 * Urbanista e Arquiteto (UNIFACISA)
-* Colaborar do escritório BM Arquitetura e Design
+* Colaborador escritório BM Arquitetura e Design
