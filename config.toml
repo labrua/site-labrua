@@ -36,24 +36,25 @@ CanonifyURLs=true
   email = "contato@labrua.org"
 
   # Nav links in the side bar
+
   [[params.navlinks]]
   name = "Sobre"
   url = "sobre/"
 
   [[params.navlinks]]
-  name = "O Lab"
+  name = "Pesquisas"
   url = "pesquisas/"
 
   [[params.navlinks]]
-  name = "A Rua"
+  name = "Eventos"
   url = "eventos/"
 
   [[params.navlinks]]
-  name = "A Praça"
+  name = "Blog 'A Praça' "
   url = "blog/"
 
   [[params.navlinks]]
-  name = "O Calçadão"
+  name = "Equipe"
   url = "equipe/"
 
   [[params.navlinks]]

@@ -1,5 +1,5 @@
 ---
-title: O Calçadão | equipe
+title: Equipe
 date: 2017-11-02
 ---
 
