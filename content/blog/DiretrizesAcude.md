@@ -4,7 +4,7 @@ draft = false
 image = "img/blog/Diretrizes_acude/Thumb-Lindo-Olhar.png"
 date = "2020-09-15"
 title = "COVID - Entorno Açude Novo"
-tags = ["covid19","territorios-vulneraveis","diretrizes","acude-novo"]
+tags = ["covid19","diretrizes","acude-novo"]
 weight = 0
 author = " André Cabral Guimarães, Andrey Guedes, Natallia Cruz, Raiff Mangueira e Robson Porto. "
 +++
