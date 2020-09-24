@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 image = "img/blog/Mulheres_Covid/1_Artigo_Mulheres__Ilustração_o_trabalho_de_um_amulher_nunca_termina.jpg"
-date = "2020-09-24"
+date = "2020-09-23"
 title = "Mulheres e Covid-19: a sobrecarga de trabalho doméstico na vida das mulheres da periferia de Campina Grande-PB durante a pandemia"
 tags = ["covid19","divisão-sexual-do-trabalho","mulheres","periferia","Campina-Grande"]
 weight = 0
