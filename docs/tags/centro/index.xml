@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centro on LabRua</title>
+    <link>https://labrua.github.io/site-labrua/tags/centro/</link>
+    <description>Recent content in Centro on LabRua</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://labrua.github.io/site-labrua/tags/centro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calçadão - Repensando espaços Públicos no contexto da COVID-19</title>
+      <link>https://labrua.github.io/site-labrua/blog/diretrizescalcadao/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/blog/diretrizescalcadao/</guid>
+      <description>&lt;p&gt;A crise sanitária enfrentada diante a pandemia do novo coronavírus (COVID-19) está afetando as condições de vida na cidade e aprofundando as desigualdades sociais. No estado da Paraíba, a disseminação da doença ocorreu a partir das maiores cidades, João Pessoa, Campina Grande, expandindo-se para as cidades da região imediata (MIRANDA et al, 2020, pág.3). Segundo dados da Secretaria Estadual de Saúde (2020), em Campina Grande, até o dia nove de setembro, já são 12.490 casos confirmados da doença e 343 mortos. É importante destacar que a cidade tem um papel polarizador para a região, concentrando no bairro do Centro atividades comerciais e de serviços, que atendem também municípios do interior do nordeste.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

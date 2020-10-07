@@ -4,7 +4,7 @@ draft = false
 image = "img/blog/Diretrizes_calcadao/Thumb_Calcadao.png"
 date = "2020-10-06"
 title = "Calçadão - Repensando espaços Públicos no contexto da COVID-19"
-tags = ["covid19","divisão-sexual-do-trabalho","mulheres","periferia","Campina-Grande"]
+tags = ["covid19","diretrizes","Centro",  "Campina-Grande"]
 weight = 0
 author = " Ana Clara Medeiros, Beatriz Souza, Bruno Coelho, Douglas Almeida, Jobson Brunno. "
 +++
