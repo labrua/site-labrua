@@ -5,10 +5,6 @@
     <link>https://labrua.github.io/site-labrua/categories/</link>
     <description>Recent content in Categories on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    
-	<atom:link href="https://labrua.github.io/site-labrua/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>pt-br</language><atom:link href="https://labrua.github.io/site-labrua/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -6,17 +6,40 @@
     <description>Recent content in Tags on LabRua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://labrua.github.io/site-labrua/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Campina-Grande</title>
       <link>https://labrua.github.io/site-labrua/tags/campina-grande/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/campina-grande/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid19</title>
+      <link>https://labrua.github.io/site-labrua/tags/covid19/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diretrizes</title>
+      <link>https://labrua.github.io/site-labrua/tags/diretrizes/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/diretrizes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose-Pinheiro</title>
+      <link>https://labrua.github.io/site-labrua/tags/jose-pinheiro/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://labrua.github.io/site-labrua/tags/jose-pinheiro/</guid>
       <description></description>
     </item>
     
@@ -26,24 +49,6 @@
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://labrua.github.io/site-labrua/tags/centro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>covid19</title>
-      <link>https://labrua.github.io/site-labrua/tags/covid19/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/covid19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diretrizes</title>
-      <link>https://labrua.github.io/site-labrua/tags/diretrizes/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://labrua.github.io/site-labrua/tags/diretrizes/</guid>
       <description></description>
     </item>
     
